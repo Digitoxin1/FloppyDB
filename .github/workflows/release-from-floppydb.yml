@@ -1,0 +1,74 @@
+name: Release from FloppyDB.xml
+
+on:
+  # Run manually from the Actions tab, or change this to push/main, etc.
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to create tags/releases
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Read version from FloppyDB.xml
+        id: version
+        shell: pwsh
+        run: |
+          $xmlPath = "FloppyDB.xml"
+
+          if (-not (Test-Path $xmlPath)) {
+            Write-Error "File not found: $xmlPath"
+            exit 1
+          }
+
+          [xml]$xml = Get-Content $xmlPath
+
+          # Get the root element's "version" attribute
+          $version = $xml.DocumentElement.GetAttribute("version")
+
+          if (-not $version) {
+            Write-Error "Root 'version' attribute not found in $xmlPath"
+            exit 1
+          }
+
+          Write-Host "Version from XML: $version"
+
+          # Expose as step output
+          "version=$version" >> $env:GITHUB_OUTPUT
+
+      - name: Create ZIP with FloppyDB.xml
+        id: zip
+        shell: bash
+        run: |
+          version="${{ steps.version.outputs.version }}"
+          zipname="FloppyDB_${version}.zip"
+
+          zip "$zipname" "FloppyDB.xml"
+
+          echo "zipname=$zipname" >> "$GITHUB_OUTPUT"
+
+      - name: Create Git tag and release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Tag name is exactly the version from the XML
+          tag_name: ${{ steps.version.outputs.version }}
+          release_name: ${{ steps.version.outputs.version }}
+          draft: false
+          prerelease: false
+
+      - name: Upload ZIP as release asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ steps.zip.outputs.zipname }}
+          asset_name: ${{ steps.zip.outputs.zipname }}
+          asset_content_type: application/zip
