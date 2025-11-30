@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<root version="20251128.01">
+<root version="20251129.01">
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc.">
 		<release year="1990">
 			<media media="360K" status="V" tdc="1">
@@ -1920,7 +1920,12 @@
 		<release year="1991" version="1.2.1">
 			<media media="720K" status="U" tdc="1" god="1">
 				<disk md5="5F3B9A7FC7A6F52ECCFA735B19257E1A" disk="1"/>
-				<disk md5="ED9BB032C464767D8134DB43FE08A24D" disk="2"/>
+				<disk md5="ED9BB032C464767D8134DB43FE08A24D" disk="2" status="V"/>
+			</media>
+		</release>
+		<release year="1994" version="1.2.1" publisher="Kixx" region="Europe">
+			<media media="720K" status="U" tdc="1">
+				<disk md5="585CC0A21AAF4F1B04D969472D0483B1" disk="1"/>
 			</media>
 		</release>
 	</title>
@@ -2286,6 +2291,11 @@
 				<disk md5="0F2C167F5E771B84DFB516F04BCF2EA8" disk="2"/>
 			</media>
 		</release>
+		<release year="1989" version="2.0" region="Germany">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="F5F4A90F1F89CE59F3A6E4121D2B00A0"/>
+			</media>
+		</release>
 	</title>
 	<title name="Chuck Yeager's Air Combat" publisher="Electronic Arts, Inc.">
 		<release year="1991-06-15" version="1.0">
@@ -2350,6 +2360,13 @@
 		<release year="1989">
 			<media media="360K" status="V" tdc="1">
 				<disk md5="A763652148F7A703EC916508F48A7EC6"/>
+			</media>
+		</release>
+	</title>
+	<title name="Clue: Master Detective" publisher="Leisure Genius">
+		<release year="1991">
+			<media media="720K" status="V">
+				<disk md5="FCB3CB1C2CF306315175CE771396666E"/>
 			</media>
 		</release>
 	</title>
@@ -3503,7 +3520,7 @@
 			<media media="360K" status="U">
 				<disk md5="5171BA4E54DD9F42E5BC80E623367F0D" disk="1"/>
 			</media>
-			<media media="720K" status="U" god="1">
+			<media media="720K" status="V" god="1">
 				<disk md5="D7409C86D648E02D303D3226BDF0F103"/>
 			</media>
 		</release>
@@ -3945,6 +3962,13 @@
 			</media>
 		</release>
 	</title>
+	<title name="Eliza" publisher="The Software Toolworks, Inc.">
+		<release year="1982" version="1.0">
+			<media media="160K" status="V" tdc="1">
+				<disk md5="487F1051ED9D54EF862EFD86876837DE"/>
+			</media>
+		</release>
+	</title>
 	<title name="Elvira" publisher="Accolade, Inc.">
 		<release year="1990">
 			<media media="360K" status="U" god="1">
@@ -3984,6 +4008,13 @@
 				<disk md5="EBF72F9636A05B6F28B61C1E44E9C8DF" disk="1"/>
 				<disk md5="27FF8FCE72C1B355BB85F7D3D5E5DE94" disk="2" god="1"/>
 				<disk md5="C7B560F7F4288DACB312AEB960719684" disk="3" god="1"/>
+			</media>
+		</release>
+		<release year="1992">
+			<media media="1.44M" status="V" tdc="1" region="Italy">
+				<disk md5="7C5E2A0FB293879E4574EA1B93D8ECE9" disk="1"/>
+				<disk md5="4FDEADA4A50D1BB06969A061332DFBF0" disk="2"/>
+				<disk md5="2594DE2C20C37FD427BF8116B4398AD8" disk="3"/>
 			</media>
 		</release>
 	</title>
@@ -4073,10 +4104,45 @@
 			</media>
 		</release>
 	</title>
+	<title name="Epic Pinball: Crash and Burn" publisher="B&amp;N Companies, Inc.">
+		<release year="1994">
+			<media media="720K" status="V">
+				<disk md5="643BC6845C9834853418FF22C72E3C53"/>
+			</media>
+		</release>
+	</title>
 	<title name="Epic Pinball: Cyborgirl" publisher="B&amp;N Companies, Inc.">
 		<release year="1994">
-			<media media="720K" status="U" tdc="1" god="1">
+			<media media="720K" status="V" tdc="1" god="1">
 				<disk md5="4B112DDFBB6A5BB95594EECC4231F4E6"/>
+			</media>
+		</release>
+	</title>
+	<title name="Epic Pinball: Deep Sea" publisher="B&amp;N Companies, Inc.">
+		<release year="1994">
+			<media media="720K" status="V">
+				<disk md5="9C55E75CF4F88891D1C56F1BE0EBAF3E"/>
+			</media>
+		</release>
+	</title>
+	<title name="Epic Pinball: Enigma" publisher="B&amp;N Companies, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="B7FD5FFDBB74D5D92C58D14CEC638F7D"/>
+			</media>
+		</release>
+	</title>
+	<title name="Epic Pinball: Jungle" publisher="B&amp;N Companies, Inc.">
+		<release year="1994">
+			<media media="720K" status="V">
+				<disk md5="762AD5031483F0F6CD43BCF0B5520476"/>
+			</media>
+		</release>
+	</title>
+	<title name="Epic Pinball: Pot of Gold" publisher="B&amp;N Companies, Inc.">
+		<release year="1994">
+			<media media="720K" status="V">
+				<disk md5="C900B64192B18868EB7F444BCF495875"/>
 			</media>
 		</release>
 	</title>
@@ -4990,6 +5056,19 @@
 			</media>
 		</release>
 	</title>
+	<title name="Frontier: Elite II" publisher="GameTek, Inc.">
+		<release year="1993">
+			<media media="720K" status="V" tdc="1" god="1">
+				<disk md5="CBBB7A7377A13CD8A59455663B94F35D" disk="Data Disk"/>
+				<disk md5="6AC1D6AC4ACE9D85193FC89D04D236EE" disk="Program Disk" status="U"/>
+			</media>
+		</release>
+		<release year="1993" variation="Single Disk Version">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="FDB872AE91E1BB8A6E38A0BC2D1A795B"/>
+			</media>
+		</release>
+	</title>
 	<title name="Fun House" publisher="Hi-Tech Expressions, Inc.">
 		<release year="1989">
 			<media media="360K" status="V" tdc="1">
@@ -5285,7 +5364,7 @@
 		</release>
 		<release year="1992" version="1.0, Int. 9.11.92" publisher="Sierra On-Line, Inc.">
 			<media media="1.44M" status="V" god="1">
-				<disk md5="2D5FAA34DE43993D30356C1CC42E5F0B" disk="1" status="U"/>
+				<disk md5="2D5FAA34DE43993D30356C1CC42E5F0B" disk="1"/>
 				<disk md5="85DD35C2ED73D219F4167785205E0739" disk="2"/>
 			</media>
 		</release>
@@ -5577,6 +5656,13 @@
 				<disk md5="39F087A20BDEB716DB0072E2608DAC88" disk="A"/>
 				<disk md5="85BFBCB17621DD9D55EB2A8C5B477F96" disk="B"/>
 				<disk md5="978D52297C4D7273CB585F78745AA915" disk="C"/>
+			</media>
+		</release>
+	</title>
+	<title name="Hacker" publisher="Activision, Inc.">
+		<release year="1988">
+			<media media="360K" status="U" tdc="1" god="1">
+				<disk md5="9CC869918EDBCC136F8FE258897E795C"/>
 			</media>
 		</release>
 	</title>
@@ -6134,6 +6220,14 @@
 				<disk md5="EFFFA2CE399E1D1E910E2D10B50C05CD" disk="2"/>
 				<disk md5="69D67AAB5B5E03652A6943775921D602" disk="3"/>
 				<disk md5="EAFBD5AD7F1CE9A6430CF5C4727ABC1B" disk="4"/>
+			</media>
+		</release>
+	</title>
+	<title name="Humans, The: Insult to Injury" publisher="GameTek, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="C0EB1DAB1A08D7D5C704A87A7F8F0C87" disk="Data Disk 1"/>
+				<disk md5="B7A317B1388F82C66D7B05E2EC24E903" disk="Data Disk 2"/>
 			</media>
 		</release>
 	</title>
@@ -6923,6 +7017,13 @@
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="042A902240F3508F6EF469C99A36143F"/>
+			</media>
+		</release>
+	</title>
+	<title name="Jingle Disk" publisher="Hi-Tech Expressions, Inc.">
+		<release year="1986">
+			<media media="180K" status="V" tdc="1">
+				<disk md5="0EA169FB5CF89CC53115F13EE439C195"/>
 			</media>
 		</release>
 	</title>
@@ -9000,6 +9101,23 @@
 			</media>
 		</release>
 	</title>
+	<title name="Lost in Time, Parts 1 &amp; 2" publisher="Coktel Vision">
+		<release year="1993" version="1.10">
+			<media media="1.44M" status="U" tdc="1">
+				<disk md5="68B9274DCF78F0EEFF386FBF8F32C930" disk="1"/>
+				<disk md5="4603274A66BFDD695E197DBFC3658D46" disk="10"/>
+				<disk md5="481617A1FE390183A0D6A13218222B9B" disk="11"/>
+				<disk md5="C7A1AC0715F3B25EBB556D3DEB7F9846" disk="2"/>
+				<disk md5="6A4354B75BF5CF2E88ED25BD1204F901" disk="3"/>
+				<disk md5="E3376AFFA437122A6202AE59AB59FDEC" disk="4"/>
+				<disk md5="2A93DC75AF944FD588FED450E67E49B5" disk="5"/>
+				<disk md5="C55F1771B33948A43C7F0276251CE6F3" disk="6"/>
+				<disk md5="F01B4BF243959B886ADA79F6E83792F4" disk="7"/>
+				<disk md5="5F1E567F78078AD017A2B1296702D1AE" disk="8"/>
+				<disk md5="BFEBAE98CC3CE9FD42509130D3B6AFA1" disk="9"/>
+			</media>
+		</release>
+	</title>
 	<title name="Lost Secret of the Rainforest" publisher="Sierra On-Line, Inc.">
 		<release year="1993" version="1.0, Int. 2.5.93">
 			<media media="1.44M" status="U">
@@ -9516,9 +9634,19 @@
 				<disk md5="061346DB4CC428203BF1C9A091A62CE5" disk="Famous Course Disk Vol. I"/>
 			</media>
 		</release>
-		<release year="1988">
+		<release year="1987">
+			<media media="360K" status="U" tdc="1">
+				<disk md5="A215567EF7247F9C7905E22E9666F03C" cp="Key Disk"/>
+			</media>
+		</release>
+		<release year="1988-03">
 			<media media="360K" status="V" tdc="1">
 				<disk md5="6C5EDF5D4D8AD31FA5C63B26E5DF729E" disk="Program" cp="H.L.S. Duplication"/>
+			</media>
+		</release>
+		<release year="1988-09">
+			<media media="360K" status="U" tdc="1">
+				<disk md5="972EF887443C9FFC22DAA7FEE14D4A77" cp="Key Disk"/>
 			</media>
 		</release>
 	</title>
@@ -9632,7 +9760,7 @@
 		</release>
 	</title>
 	<title name="MegaTraveller 2: Quest for the Ancients" publisher="Paragon Software Corporation">
-		<release year="1992" version="1.0">
+		<release year="1991" version="1.0">
 			<media media="360K" status="U" god="1">
 				<disk md5="46B4F04555922FF3835ECED295868949" disk="A"/>
 				<disk md5="8C7A430410033E8B7E4C303888E8BB8B" disk="B"/>
@@ -9640,6 +9768,11 @@
 				<disk md5="72287BBDE116378098F5B6F9249A8F78" disk="D"/>
 				<disk md5="D40396662139EE58337B4A6BA3C70D9D" disk="E"/>
 				<disk md5="A0D6402C59760AC5DADF0542681608D6" disk="F"/>
+			</media>
+			<media media="720K" status="V">
+				<disk md5="F4FBF37BCA2745167E0601C18C0EECCF" disk="A"/>
+				<disk md5="E1AD18EFF185F9975F99964AE1E618D7" disk="B"/>
+				<disk md5="BD1712228CB7D2B02EBE1699529F9B56" disk="C"/>
 			</media>
 		</release>
 		<release year="1993" version="1.01">
@@ -12706,6 +12839,13 @@
 			</media>
 		</release>
 	</title>
+	<title name="Sargon V: World Class Chess" publisher="Activision, Inc.">
+		<release year="1991" region="Italy">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="3056D1B5563C23140DB981D10545E36C"/>
+			</media>
+		</release>
+	</title>
 	<title name="Screen Antics: Johnny Castaway" publisher="Sierra On-Line, Inc.">
 		<release year="1993" version="1.01, Int. 1.4.93" os="Windows 3.1">
 			<media media="1.44M" status="U" god="1">
@@ -13493,6 +13633,11 @@
 			<media media="1.44M" status="U" god="1">
 				<disk md5="1F5353D32AB36871670ED42C65E41144" disk="1"/>
 				<disk md5="B2A548F5B818D313E0484645D8D10643" disk="2"/>
+			</media>
+		</release>
+		<release year="1995" version="1.00" region="Germany">
+			<media media="1.44M" status="V">
+				<disk md5="948482C8DB92C8CA80C9A14D94AF95DA"/>
 			</media>
 		</release>
 	</title>
@@ -14616,6 +14761,17 @@
 			</media>
 		</release>
 	</title>
+	<title name="SSN-21 Seawolf" publisher="Electronic Arts, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="U" tdc="1">
+				<disk md5="EDCCD233ECBB89AB954D8A113FA6F4EF" disk="1"/>
+				<disk md5="66AEDB6BD4DD806190A35231B8675ACE" disk="2"/>
+				<disk md5="7EBA95886E1AC7DE3C4ADA92A12C9847" disk="3"/>
+				<disk md5="F60F6DED6EB901C3884C9280BF79763F" disk="4"/>
+				<disk md5="F9DF74B54C813C7FCDE6BE883D3BFF5C" disk="5"/>
+			</media>
+		</release>
+	</title>
 	<title name="Star Command" publisher="Strategic Simulations, Inc.">
 		<release year="1988" version="1.2">
 			<media media="720K" status="U" tdc="1" god="1">
@@ -15025,6 +15181,15 @@
 			<media media="360K" status="V" tdc="1">
 				<disk md5="762CA6E84CFCF164039B5EBAD9411857" disk="1" cp="Rainbird"/>
 				<disk md5="511E4479D2312825938B307780ADE548" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Starlord" publisher="MicroProse Software, Inc.">
+		<release year="1994" region="France">
+			<media media="1.44M" status="V" tdc="1">
+				<disk md5="60717FE9A62B3C548DE2366AECF6BDF3" disk="1"/>
+				<disk md5="2DCFF4CBE77C1C3D09C6B4DBF57FF0FA" disk="2"/>
+				<disk md5="B43E0E95B012489551DE70428013CFE5" disk="3"/>
 			</media>
 		</release>
 	</title>
@@ -15696,6 +15861,12 @@
 				<disk md5="C056C4318433E7FAF57AA4BD9FF54EBE" disk="2"/>
 			</media>
 		</release>
+		<release year="1995" publisher="Big Games" reqion="Italy" language="English">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="C40F166A5320C2EE824FEA43966FA8D1" disk="1"/>
+				<disk md5="7EAEA9FE0032C4ACD056ACD3D1EE99AF" disk="2"/>
+			</media>
+		</release>
 	</title>
 	<title name="Test Drive" publisher="Accolade, Inc.">
 		<release year="1987" version="1.0">
@@ -15938,6 +16109,11 @@
 			<media media="720K" status="V" tdc="1" god="1">
 				<disk md5="945F6F94E3F6EE656C49A498AF8E78CD" disk="Data Disk"/>
 				<disk md5="6725089029BE18210AAC85A5A28C3F90" disk="Startup Disk"/>
+			</media>
+		</release>
+		<release year="1993" version="1.3">
+			<media media="1.44M" status="V">
+				<disk md5="BA5068F2700EC33E5CEECE2481E39D0F"/>
 			</media>
 		</release>
 	</title>
@@ -16436,7 +16612,7 @@
 	<title name="The Humans" publisher="GameTek, Inc.">
 		<release year="1992">
 			<media media="720K" status="V" tdc="1" god="1">
-				<disk md5="98000F88AC07CE9753F3C1EBF1761D64" disk="1" status="U"/>
+				<disk md5="98000F88AC07CE9753F3C1EBF1761D64" disk="1"/>
 				<disk md5="81EE4BA752D271EFEED2921602E5619D" disk="2"/>
 				<disk md5="A72EC39049297B4DA6EBBC58808CC64B" disk="3"/>
 				<disk md5="5138737A7F89B056B07A1B7ACC9FBE1C" disk="4"/>
@@ -17066,9 +17242,14 @@
 		</release>
 	</title>
 	<title name="The Seven Cities of Gold" publisher="Electronic Arts, Inc.">
-		<release year="1985" os="PC Booter">
+		<release year="1984" os="PC Booter">
 			<media media="360K" status="V" tdc="1">
 				<disk md5="B88B976F3F8F946C2F4A61A67BAF7281" cp="Electronic Arts IBM Interlock"/>
+			</media>
+		</release>
+		<release year="1985">
+			<media media="360K" status="V" tdc="1">
+				<disk md5="02CEA01D68E0D10849F152A29BA36D96" cp="Electronic Arts IBM Interlock"/>
 			</media>
 		</release>
 	</title>
@@ -17182,6 +17363,15 @@
 			<media media="360K" status="V" tdc="1">
 				<disk md5="D567C0811CC599919EC5E1726AADF8B9" disk="Reel 1" cp="H.L.S. Duplication"/>
 				<disk md5="11C6B81860B8A26C9CDCCDB92DC0894E" disk="Reel 2"/>
+			</media>
+		</release>
+	</title>
+	<title name="The Toy Shop" publisher="Brøderbund Software, Inc.">
+		<release year="1986">
+			<media media="360K" status="V" tdc="1">
+				<disk md5="660C201B7F680F8D4BBBB183D524D41F" disk="1"/>
+				<disk md5="2487E2CED3D9D662503248041FBBD783" disk="2"/>
+				<disk md5="CAC38832B297542CAB051A6A00826FAF" status="U" cp="H.L.S. Duplication"/>
 			</media>
 		</release>
 	</title>
@@ -17876,6 +18066,16 @@
 				<disk md5="765C0C591674B7A9DE070359BC97B38E" disk="6"/>
 			</media>
 		</release>
+		<release year="1992" version="GE1.1F" name="Ultima VII: Die Schwarze Pforte" region="Germany">
+			<media media="1.44M" status="V" god="1">
+				<disk md5="1292020785B371C03A7A8C41D76947D6" disk="1"/>
+				<disk md5="CE39D3B450B177DAD2B8495930FE5346" disk="2"/>
+				<disk md5="480CC25212322785B5974F5545BD5B1C" disk="3"/>
+				<disk md5="245CDF7C0C13B236376A17254189C314" disk="4"/>
+				<disk md5="16121EABCC30390A4A1AF07E26ECD035" disk="5"/>
+				<disk md5="0FAC0D0AB18B571AC0F447FDED7EB7E1" disk="6"/>
+			</media>
+		</release>
 	</title>
 	<title name="Ultima VIII: Pagan" publisher="ORIGIN Systems, Inc.">
 		<release year="1994" version="2.10">
@@ -17970,7 +18170,7 @@
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V" tdc="1" god="1">
 				<disk md5="F88876EB4DBD46A610D87293F535DF9D" disk="1" media="720K"/>
-				<disk md5="C9C7FD19530447E5D36C37DD90F25B9A" disk="2"/>
+				<disk md5="C9C7FD19530447E5D36C37DD90F25B9A" disk="2" version="1.0, 1.2"/>
 				<disk md5="D86BAA69BB64A9C1850C52D26A9A8666" disk="3"/>
 			</media>
 		</release>
@@ -19033,6 +19233,14 @@
 			</media>
 		</release>
 	</title>
+	<title name="World Tennis Championships" publisher="Mindscape, Inc.">
+		<release year="1992">
+			<media media="1.44M" status="V" tdc="1">
+				<disk md5="B09F4B241B3083FE8E91873173629506" disk="1"/>
+				<disk md5="4AC3A45CC5A51036EE03EE123285FC5D" disk="2"/>
+			</media>
+		</release>
+	</title>
 	<title name="World Tour Golf" publisher="Electronic Arts, Inc.">
 		<release year="1986">
 			<media media="360K" status="V" tdc="1">
@@ -19102,6 +19310,11 @@
 				<disk md5="E7F4653F632768A9FE895EB0D32A5896"/>
 			</media>
 		</release>
+		<release year="1995" publisher="Big Games" region="Italy" language="English">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="51EE6585ADD72BF510EDD620612611AC"/>
+			</media>
+		</release>
 	</title>
 	<title name="X-COM: Terror from the Deep" publisher="MicroProse Software, Inc.">
 		<release year="1995" region="Europe" language="English, French, German, Spanish">
@@ -19115,7 +19328,7 @@
 	</title>
 	<title name="X-COM: UFO Defense" publisher="MicroProse Software, Inc.">
 		<release year="1994" version="1.2">
-			<media media="1.44M" status="U" tdc="1" god="1">
+			<media media="1.44M" status="V" tdc="1" god="1">
 				<disk md5="C2098DD5174D20F562741FBB1B8E0A5D" disk="1"/>
 				<disk md5="971E6B2BB625D37EFE67F60AA4FBCAC3" disk="2"/>
 				<disk md5="6330B2F70A2DFF046166C909EC154679" disk="3"/>
@@ -19399,6 +19612,11 @@
 				<disk md5="2CF0BD9F6D9C1B1793D40FE258DC703D"/>
 			</media>
 		</release>
+		<release variation="Solid Gold" year="1990" version="r52, Serial 871125, Int. 5E" region="UK" publisher="Mastertronic">
+			<media media="720K" status="V" tdc="1">
+				<disk md5="197162D97BEA6509C6C86E1F1BC84F0D"/>
+			</media>
+		</release>
 	</title>
 	<title name="ZorkQuest II: The Crystal of Doom" publisher="Infocom, Inc.">
 		<release year="1988" os="PC Booter">
@@ -19425,57 +19643,6 @@
 		<release year="1997">
 			<media media="1.44M" status="U">
 				<disk md5="6DB34A7AEE90212C31C11B3D8270F2C3"/>
-			</media>
-		</release>
-	</title>
-	<title name="Eliza" publisher="The Software Toolworks, Inc.">
-		<release year="1982" version="1.0">
-			<media media="160K" status="V" tdc="1">
-				<disk md5="487F1051ED9D54EF862EFD86876837DE"/>
-			</media>
-		</release>
-	</title>
-	<title name="World Tennis Championships" publisher="Mindscape, Inc.">
-		<release year="1992">
-			<media media="1.44M" status="V" tdc="1">
-				<disk md5="B09F4B241B3083FE8E91873173629506" disk="1"/>
-				<disk md5="4AC3A45CC5A51036EE03EE123285FC5D" disk="2"/>
-			</media>
-		</release>
-	</title>
-	<title name="Starlord" publisher="MicroProse Software, Inc.">
-		<release year="1994" region="France">
-			<media media="1.44M" status="V" tdc="1">
-				<disk md5="60717FE9A62B3C548DE2366AECF6BDF3" disk="1"/>
-				<disk md5="2DCFF4CBE77C1C3D09C6B4DBF57FF0FA" disk="2"/>
-				<disk md5="B43E0E95B012489551DE70428013CFE5" disk="3"/>
-			</media>
-		</release>
-	</title>
-	<title name="Jingle Disk" publisher="Hi-Tech Expressions, Inc.">
-		<release year="1986">
-			<media media="180K" status="V" tdc="1">
-				<disk md5="0EA169FB5CF89CC53115F13EE439C195"/>
-			</media>
-		</release>
-	</title>
-	<title name="Frontier: Elite II" publisher="GameTek, Inc.">
-		<release year="1993">
-			<media media="720K" status="V" tdc="1" god="1">
-				<disk md5="CBBB7A7377A13CD8A59455663B94F35D" disk="Data Disk"/>
-				<disk md5="6AC1D6AC4ACE9D85193FC89D04D236EE" disk="Program Disk" status="U"/>
-			</media>
-		</release>
-		<release year="1993" variation="Single Disk Version">
-			<media media="720K" status="V" tdc="1">
-				<disk md5="FDB872AE91E1BB8A6E38A0BC2D1A795B"/>
-			</media>
-		</release>
-	</title>
-	<title name="Hacker" publisher="Activision, Inc.">
-		<release year="1988">
-			<media media="360K" status="U" tdc="1" god="1">
-				<disk md5="9CC869918EDBCC136F8FE258897E795C"/>
 			</media>
 		</release>
 	</title>
