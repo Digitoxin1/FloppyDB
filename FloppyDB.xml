@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<root version="20251129.01">
+<root version="20251212.01">
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc.">
 		<release year="1990">
 			<media media="360K" status="V" tdc="1">
@@ -758,6 +758,20 @@
 			</media>
 		</release>
 	</title>
+	<title name="Ancients 1: Death Watch">
+		<release year="1993" version="1.2">
+			<media media="720K" status="V">
+				<disk md5="BB15B2262BD6CF182B795BE5C4AFA4DF"/>
+			</media>
+		</release>
+	</title>
+	<title name="Ancients II: Approaching Evil" publisher="Monkey Business, Inc.">
+		<release year="1994">
+			<media media="720K" status="U">
+				<disk md5="79D60C9CBE748C1B159D85E162D3D8EC"/>
+			</media>
+		</release>
+	</title>
 	<title name="Apache Strike" publisher="Activision, Inc.">
 		<release year="1989">
 			<media media="360K" status="U">
@@ -777,6 +791,20 @@
 		<release year="1982">
 			<media media="160K" status="V" tdc="1">
 				<disk md5="D32C72178FCBED6A03D12ABB0F67F769"/>
+			</media>
+		</release>
+	</title>
+	<title name="Arachnophobia" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="705EE032D3BA981E14477A26E67216DC" disk="1"/>
+				<disk md5="3AB758C7769917D2D937E7DBA4C0FA18" disk="2"/>
+				<disk md5="0D9B4FC8D5CB4F74841F14D069132E8C" disk="3"/>
+				<disk md5="2DB888BB6774082D932862E5F267B838" disk="4"/>
+			</media>
+			<media media="720K" status="U">
+				<disk md5="3430C9746A87A4E1022B01BBCF2829CF" disk="1"/>
+				<disk md5="608A0E1B2F4ECBEED5C71E235B0C2E87" disk="2"/>
 			</media>
 		</release>
 	</title>
@@ -2057,7 +2085,14 @@
 		</release>
 	</title>
 	<title name="Castle of Dr. Brain" publisher="Sierra On-Line, Inc.">
-		<release year="1991" version="1.0, Int. 10.30.91">
+		<release variation="16 Color" version="1.0, Int. 11.12.91">
+			<media media="720K" status="V">
+				<disk md5="A0AFEED392CF524577AFE841267270FE" disk="1"/>
+				<disk md5="2E24CF2E2169AB066964889ABDAE2AEF" disk="2"/>
+				<disk md5="46ED9EC6D08F646EB639B67586EF8B82" disk="3"/>
+			</media>
+		</release>
+		<release variation="256 Color" year="1991" version="1.0, Int. 10.30.91">
 			<media media="360K" status="V">
 				<disk md5="63BFD011E79EE16A2C7FDA9C4F5FA3D4" disk="1"/>
 				<disk md5="C461CD69BED3D750FB38E03C90D534ED" disk="2"/>
@@ -2073,10 +2108,24 @@
 				<disk md5="E4E48AB40EB7E703749BADAB480E678D" disk="2"/>
 			</media>
 		</release>
-		<release year="1992" version="1.1, Int. 1.16.92">
+		<release variation="256 Color" year="1992" version="1.1, Int. 1.16.92">
 			<media media="1.44M" status="V" tdc="1">
 				<disk md5="26359CE2DEA6075683EA2750C82CCF76" disk="1"/>
 				<disk md5="C05DD65C280F279730B5AEC63CABE507" disk="2" god="1"/>
+			</media>
+		</release>
+	</title>
+	<title name="Castle of the Winds I: A Question of Vengeance" publisher="Monkey Business, Inc.">
+		<release year="1994" os="Windows 3.1">
+			<media media="720K" status="V">
+				<disk md5="82C5FB1A84EC0F2388A03DA4162929AE"/>
+			</media>
+		</release>
+	</title>
+	<title name="Castle of the Winds II: Lifthransir's Bane" publisher="Monkey Business, Inc.">
+		<release year="1994" version="1.1A" os="Windows 3.1">
+			<media media="720K" status="V">
+				<disk md5="5ECF06DA8CB0B765A9A0F9EEF39D1238"/>
 			</media>
 		</release>
 	</title>
@@ -2364,9 +2413,22 @@
 		</release>
 	</title>
 	<title name="Clue: Master Detective" publisher="Leisure Genius">
+		<release year="1990">
+			<media media="360K" status="V">
+				<disk md5="9FD2B645F7326B1A362A9F7BC4D0E39F" disk="1"/>
+				<disk md5="1A2F650F8A05EDE5EF2FDBD80390051D" disk="2"/>
+			</media>
+		</release>
 		<release year="1991">
 			<media media="720K" status="V">
 				<disk md5="FCB3CB1C2CF306315175CE771396666E"/>
+			</media>
+		</release>
+	</title>
+	<title name="Coaster" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="879842FEB665AFE5D7AF6C2661FF05F8"/>
 			</media>
 		</release>
 	</title>
@@ -2928,6 +2990,20 @@
 			</media>
 		</release>
 	</title>
+	<title name="Dare to Dream" publisher="GT Interactive Software Corp.">
+		<release year="1993" os="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="3B81EBE453274D474E0C7E706F72C6E2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Dare to Dream 2" publisher="Moon Doggie">
+		<release year="1994" os="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="FB50CB4E90E043D0011298B0B67A2036"/>
+			</media>
+		</release>
+	</title>
 	<title name="Dark Ages" publisher="Apogee Software, Ltd.">
 		<release year="1993" version="1.0">
 			<media media="720K" status="U" god="1">
@@ -3282,6 +3358,22 @@
 			</media>
 		</release>
 	</title>
+	<title name="Dick Tracy: The Crime-Solving Adventure" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="B4464E7AC7BE5DAE530EA10101BFA910" disk="1"/>
+				<disk md5="D30DBE1304C5DF581FD96820F6B48654" disk="2"/>
+				<disk md5="588C3E3808E4BBED02907F43B3244D29" disk="3"/>
+				<disk md5="7175720B0F0E720294975CA0F3D1283A" disk="4"/>
+				<disk md5="FCE33469BB25F9FB9D09D7FDF2886C80" disk="5"/>
+				<disk md5="FE6A32704A21509309591146EACA9074" disk="6"/>
+			</media>
+			<media media="720K" status="V">
+				<disk md5="B4957E976D0BBAF554C33E11B52EBACF" disk="3-4"/>
+				<disk md5="B9B9A42D48EF47DEA9C7EB3947CBA289" disk="5-6" status="U"/>
+			</media>
+		</release>
+	</title>
 	<title name="Die Hard" publisher="Activision, Inc.">
 		<release year="1989">
 			<media media="360K" status="U" god="1">
@@ -3358,6 +3450,26 @@
 			</media>
 		</release>
 	</title>
+	<title name="Disney's Beauty and the Beast: Be Our Guest" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="V">
+				<disk md5="3AF8809A93FF10FD20251E176D3E440F" disk="1"/>
+				<disk md5="EBE608ADE5CFF47EDF7909368CA453A8" disk="2"/>
+				<disk md5="A29E4819D4FFA19C4BBFE5E92BC0D434" disk="3"/>
+			</media>
+		</release>
+	</title>
+	<title name="Disney's DuckTales: The Quest for Gold" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1990">
+			<media media="360K" status="V">
+				<disk md5="7021BE1C67CAD0E72D8B3934F646F8DE" disk="1"/>
+				<disk md5="7525FC70572DC895583291DDB07DE546" disk="2"/>
+			</media>
+			<media media="720K" status="V">
+				<disk md5="BFAD44001DD8BA3B96F1CECECD130592"/>
+			</media>
+		</release>
+	</title>
 	<title name="Disney's The Jungle Book" publisher="Virgin Games, Inc.">
 		<release year="1995" version="2.1">
 			<media media="1.44M" status="V" tdc="1">
@@ -3381,6 +3493,13 @@
 		<release year="1985" version="1.0Q, Int. 2.001" os="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="D6B797CFA1F249E3DADE2881CD68686D" cp="Softguard Superlok v2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Donald's Alphabet Chase" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="4DD5B09452949A1F015D0C6A9D0F42FB"/>
 			</media>
 		</release>
 	</title>
@@ -3931,6 +4050,13 @@
 			</media>
 		</release>
 	</title>
+	<title name="Electroman">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="7B4209CD272B3F6001602083D73F936E"/>
+			</media>
+		</release>
+	</title>
 	<title name="El-Fish" publisher="Maxis Software, Inc.">
 		<release year="1993" version="1.01">
 			<media media="1.44M" status="V" tdc="1">
@@ -4064,7 +4190,7 @@
 			</media>
 		</release>
 		<release year="1983" version="r16, Serial 831118, Int. 3B" os="PC Booter">
-			<media media="160K" status="U">
+			<media media="160K" status="V">
 				<disk md5="3FCAE82C72F3748D22D248C275E40D1B" cp="Non-standard Sector Sizes"/>
 			</media>
 		</release>
@@ -4382,6 +4508,11 @@
 				<disk md5="8E52EA3EDB78A51E3B4F82B5B494183D" disk="B" status="V" tdc="1" god="1"/>
 			</media>
 		</release>
+		<release year="1992" version="451.02">
+			<media media="1.44M" status="V">
+				<disk md5="52CDC1784EEA47865AE39A4B7130C208"/>
+			</media>
+		</release>
 	</title>
 	<title name="F-15 Strike Eagle II: Operation Desert Storm Scenario Disk" publisher="MicroProse Software, Inc.">
 		<release year="1991">
@@ -4391,6 +4522,11 @@
 		</release>
 	</title>
 	<title name="F-15 Strike Eagle III" publisher="MicroProse Software, Inc.">
+		<release variation="Demo" year="1992">
+			<media media="1.44M" status="V">
+				<disk md5="D019B2DBB32636F761AEC25A71B23051"/>
+			</media>
+		</release>
 		<release year="1992">
 			<media media="1.2M" status="V" tdc="1" god="1">
 				<disk md5="82FE0D9D3B28FE99F87958CE9CC39A7A" disk="1"/>
@@ -4884,6 +5020,15 @@
 			</media>
 		</release>
 	</title>
+	<title name="Follow the Reader" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1992">
+			<media media="1.44M" status="V">
+				<disk md5="CCEE885E009592C2D2C80387D4E5274E" disk="1"/>
+				<disk md5="3E6DBCE3B2CBA4B68DAE2F6002130CB5" disk="2"/>
+				<disk md5="A6A8FFE0FB0E9D3D833ACBB9D6BDF1AD" disk="3" media="720K"/>
+			</media>
+		</release>
+	</title>
 	<title name="Fooblitzky" publisher="Infocom, Inc.">
 		<release year="1986" version="2R.C">
 			<media media="180K" status="V" tdc="1">
@@ -5066,6 +5211,16 @@
 		<release year="1993" variation="Single Disk Version">
 			<media media="720K" status="V" tdc="1">
 				<disk md5="FDB872AE91E1BB8A6E38A0BC2D1A795B"/>
+			</media>
+		</release>
+	</title>
+	<title name="Full Metal Planet" publisher="Data East USA, Inc.">
+		<release year="1990">
+			<media media="360K" status="V">
+				<disk md5="4C64725628586808DD5079BC351202FB" disk="1"/>
+				<disk md5="D86F3477449F48C0A629BB9E75860818" disk="2"/>
+				<disk md5="5BE0D8344A77F209576163EBDCD6FF88" disk="3"/>
+				<disk md5="D56E991D2C129BC6C4A0CA83D661D7E7" disk="4"/>
 			</media>
 		</release>
 	</title>
@@ -5354,6 +5509,13 @@
 			</media>
 		</release>
 	</title>
+	<title name="Goal!" publisher="Virgin Games, Ltd.">
+		<release year="1993" region="Europe">
+			<media media="1.44M" status="V">
+				<disk md5="691F090E5C818945A878F0348188E6AE" cp="Rob Northern Copylock PC"/>
+			</media>
+		</release>
+	</title>
 	<title name="Gobliiins" publisher="Coktel Vision">
 		<release year="1991" region="Europe">
 			<media media="720K" status="U">
@@ -5465,6 +5627,13 @@
 		<release year="1987" version="2.4t">
 			<media media="360K" status="V" tdc="1">
 				<disk md5="67964ED5C22C2447D78F097F2C1FE773"/>
+			</media>
+		</release>
+	</title>
+	<title name="Goofy's Railway Express" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="7C08BD1984E5CECA61682110E46C2682"/>
 			</media>
 		</release>
 	</title>
@@ -5766,6 +5935,16 @@
 		<release year="1988-05">
 			<media media="360K" status="V" tdc="1">
 				<disk md5="686D7963457C32B7A0A168DA30B6A106" disk="1" cp="H.L.S. Duplication"/>
+			</media>
+		</release>
+	</title>
+	<title name="Hare Raising Havoc" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="720K" status="U">
+				<disk md5="9652637B90527412521C7802E2C8FD68" disk="1"/>
+				<disk md5="6BD8FDD72095433913D61EC9809AC08A" disk="2" status="V"/>
+				<disk md5="2E8A8D408CF19B80C5770AAAE92359B0" disk="3" status="V"/>
+				<disk md5="D37303E31F4B09FBED37C48F259216BF" disk="4" status="V"/>
 			</media>
 		</release>
 	</title>
@@ -6106,6 +6285,13 @@
 		<release year="1993" version="2.0, Int. 7.16.93">
 			<media media="1.44M" status="V">
 				<disk md5="A904E1DF6C151EEB6172126C7790110A" disk="1"/>
+			</media>
+		</release>
+	</title>
+	<title name="Hoyle Classic Demo Disk" publisher="Sierra On-Line, Inc.">
+		<release>
+			<media media="1.44M" status="V">
+				<disk md5="D23F8268101A5523674851AAF172D4B6"/>
 			</media>
 		</release>
 	</title>
@@ -7013,10 +7199,31 @@
 			</media>
 		</release>
 	</title>
+	<title name="Jill of the Jungle: Jill Goes Underground" publisher="Monkey Business, Inc.">
+		<release year="1994">
+			<media media="720K" status="V">
+				<disk md5="3B41985289141F71976DC776F613F220"/>
+			</media>
+		</release>
+	</title>
+	<title name="Jill of the Jungle: The Complete Trilogy" publisher="Epic MegaGames, Inc.">
+		<release year="1993" version="1.2">
+			<media media="1.44M" status="V">
+				<disk md5="01E5935898D37D20AC61B24A92D1F35C"/>
+			</media>
+		</release>
+	</title>
 	<title name="Jim Henson's Muppet Adventure No. 1: Chaos at the Carnival" publisher="Hi-Tech Expressions, Inc.">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="042A902240F3508F6EF469C99A36143F"/>
+			</media>
+		</release>
+	</title>
+	<title name="Jimmy White's 'Whirlwind' Snooker" publisher="Virgin Games, Ltd.">
+		<release year="1992" region="Europe">
+			<media media="720K" status="U">
+				<disk md5="D9FFAFE5D05AF61CBE3B3909E7333E84"/>
 			</media>
 		</release>
 	</title>
@@ -7317,6 +7524,11 @@
 				<disk md5="1A35028F79104BC48D31D7BC467227DC" disk="1"/>
 				<disk md5="878AE2F96896C8AC30042FC55CB72CAD" disk="2" version="1.000.051, Int. 9.19.90, 4.8.91"/>
 				<disk md5="AA32F5B885CA77A0F5199C7D7637C851" disk="3" version="1.000.051, Int. 9.19.90, 4.8.91"/>
+			</media>
+		</release>
+		<release year="1991" version="1.000.051, Int. 4.8.91">
+			<media media="720K" status="V">
+				<disk md5="A008C668E1B94E8F638D10E74601DD65" disk="1"/>
 			</media>
 		</release>
 	</title>
@@ -7869,6 +8081,18 @@
 				<disk md5="D8BB02B6B48820EF00F7F46EFE5F37AD" disk="6"/>
 				<disk md5="9CA8F656632768C2F5DFC0421C997338" disk="7"/>
 				<disk md5="24F4AE593588FDE8BF50E6815C07114A" disk="8"/>
+			</media>
+		</release>
+		<release year="1993" version="F1.20" region="France">
+			<media media="1.44M" status="U">
+				<disk md5="A1C8AF0E43DA620F3DD83F93D2A0B6A9" disk="1"/>
+				<disk md5="E3D2DD35B769B0A330D45D8FA8D7401B" disk="2"/>
+				<disk md5="9BA1BD0B24EA4B5EAA43DC75838E110B" disk="3"/>
+				<disk md5="C8BA24405D4C66DD9ED758887619B444" disk="4"/>
+				<disk md5="0E79FC53764E61AC63C32ADD8637EC49" disk="5"/>
+				<disk md5="3A6576C5D74AB00D4B990F15499AD81D" disk="6"/>
+				<disk md5="643DDCE6824747B020D7E39F905F96E4" disk="7" status="V"/>
+				<disk md5="51FBD3A1B33780D00C514E75829AA085" disk="8" status="V"/>
 			</media>
 		</release>
 	</title>
@@ -9738,6 +9962,16 @@
 			</media>
 		</release>
 	</title>
+	<title name="Mega Math" publisher="Dynamix, Inc.">
+		<release version="1.0, Int. 10.27.93">
+			<media media="1.44M" status="V">
+				<disk md5="A62389A867C64C0A585CBD1E1804BE0D" disk="1"/>
+				<disk md5="892C523A19FDDB1212015C9FD01AB293" disk="2"/>
+				<disk md5="1A887F65E031B3EE99E2289EDF23E316" disk="3"/>
+				<disk md5="24507549F5A726F2ED0D2123BC403A8E" disk="4"/>
+			</media>
+		</release>
+	</title>
 	<title name="MegaTraveller 1: The Zhodani Conspiracy" publisher="Paragon Software Corporation">
 		<release year="1990" version="1.0">
 			<media media="360K" status="U" tdc="1">
@@ -9866,6 +10100,36 @@
 			<media media="1.44M" status="V" tdc="1" god="1">
 				<disk md5="5C58DA00A62FF215AF389B7AD1153A8D" disk="1"/>
 				<disk md5="6043D0AF2ACF6C3948EA8B28CC42FAA7" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Mickey's ABC's: A Day at the Fair" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1992">
+			<media media="1.44M" status="U">
+				<disk md5="DD61A2625A99C206FEE22F54B4D6FCF3" disk="1"/>
+				<disk md5="CE574EBC667E0FDEBF866B1697FC4624" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Mickey's Colors &amp; Shapes" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1990">
+			<media media="720K" status="V">
+				<disk md5="B9607F66DE663F14514C18C256FB8B70" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Mickey's Jigsaw Puzzles" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="720K" status="U">
+				<disk md5="2BB368E9D6BBE1C17F20882836A39857" disk="1"/>
+				<disk md5="04DB75FC78D27BC0A7367331C982B27D" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Mickey's Runaway Zoo" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="671461A6B1AE321F81E0F4DFE649A7DB"/>
 			</media>
 		</release>
 	</title>
@@ -10327,7 +10591,7 @@
 			</media>
 		</release>
 		<release variation="16 Color" year="1991" version="1.0, Int. 11.23.91">
-			<media media="720K" status="U">
+			<media media="720K" status="V">
 				<disk md5="C7DEA5412E6978CB7B3A51C8864AA5AD" disk="Startup / Disk 1"/>
 				<disk md5="2F0802ECC0F2B036EE2688F880957216" disk="2"/>
 				<disk md5="8248FF41E3B091A598FBA435DF5AD70F" disk="3"/>
@@ -10621,6 +10885,11 @@
 				<disk md5="26F74871EFE99F7E7371D94BBD89136A" disk="12" tdc="1"/>
 			</media>
 		</release>
+		<release year="1993" variation="Demo Disk">
+			<media media="1.44M" status="V">
+				<disk md5="60BC3E880299D4FA8F2452E1F70C79E2"/>
+			</media>
+		</release>
 	</title>
 	<title name="New Facilities Locator" publisher="subLOGIC">
 		<release year="1991">
@@ -10898,6 +11167,17 @@
 			</media>
 		</release>
 	</title>
+	<title name="One Must Fall 2097" publisher="Epic MegaGames, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="0F72240810AB004360512428223EA8D5" disk="1"/>
+				<disk md5="EED52B5BDA773ED5BF5F77C4355D0CAB" disk="2"/>
+				<disk md5="46906359349843D3EB707460FC7109D3" disk="3"/>
+				<disk md5="406AEFF00B5D5E81E167DAE0D54C6992" disk="4"/>
+				<disk md5="A6E3BF20528060EFF69EBDAAFB6EE044" disk="5"/>
+			</media>
+		</release>
+	</title>
 	<title name="One Step Beyond" publisher="Ocean Software Ltd.">
 		<release year="1993">
 			<media media="1.44M" status="V" tdc="1">
@@ -10938,6 +11218,14 @@
 			<media media="720K" status="U" tdc="1" god="1">
 				<disk md5="169AD5CD5527A95DA245750D4AA3A3D8" disk="1"/>
 				<disk md5="CE22938F94F1A44A7F51809BAB152F16" disk="2"/>
+			</media>
+		</release>
+		<release year="1993">
+			<media media="1.2M" status="U">
+				<disk md5="687F65278F802C61BEB9CB5E1E903DF6"/>
+			</media>
+			<media media="1.44M" status="V">
+				<disk md5="0ABE0FD36ACE5ADAE91005B162605F14"/>
 			</media>
 		</release>
 	</title>
@@ -11789,6 +12077,11 @@
 		</release>
 	</title>
 	<title name="Prince of Persia" publisher="Brøderbund Software, Inc.">
+		<release year="1990" variation="Demo">
+			<media media="720K" status="V">
+				<disk md5="6DCECAE0CAECD4BECBFE4022DCC267D9"/>
+			</media>
+		</release>
 		<release year="1990" version="1.1">
 			<media media="360K" status="V">
 				<disk md5="7FFF0B2F302BDFA86219D61EF946CDB5" disk="1" tdc="1"/>
@@ -12655,6 +12948,15 @@
 			</media>
 		</release>
 	</title>
+	<title name="Rocketeer, The" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1991">
+			<media media="1.44M" status="U">
+				<disk md5="5A7D93ED67E83FBCC11AFF4658A299B2" disk="1"/>
+				<disk md5="4AA8EA510879910F3339AEE6167F415A" disk="2"/>
+				<disk md5="C29058E5AE572CA850908A8503442B7A" disk="3"/>
+			</media>
+		</release>
+	</title>
 	<title name="Rockford: The Arcade Game" publisher="First Star Software, Inc.">
 		<release year="1987">
 			<media media="360K" status="V" tdc="1">
@@ -12848,7 +13150,7 @@
 	</title>
 	<title name="Screen Antics: Johnny Castaway" publisher="Sierra On-Line, Inc.">
 		<release year="1993" version="1.01, Int. 1.4.93" os="Windows 3.1">
-			<media media="1.44M" status="U" god="1">
+			<media media="1.44M" status="V" god="1">
 				<disk md5="81087EA7CC6A304896E81C722B0A85EC"/>
 			</media>
 		</release>
@@ -13453,6 +13755,14 @@
 			<media media="720K" status="V" tdc="1" god="1">
 				<disk md5="8643230707B02F6716FFCB08CCD6FE7E" disk="1"/>
 				<disk md5="DAA10280CBE89E6D4F1C9578A4A9F29F" disk="2"/>
+			</media>
+		</release>
+	</title>
+	<title name="Silverball 2 Plus" publisher="MicroLeague Multimedia, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="210C4388C09116B2472200D534E06896" disk="1"/>
+				<disk md5="FA08D4FBD696CF036BBECCF8358C85B1" disk="2" media="720K"/>
 			</media>
 		</release>
 	</title>
@@ -15399,6 +15709,18 @@
 			</media>
 		</release>
 	</title>
+	<title name="Stunt Island" publisher="Walt Disney Computer Software, Inc.">
+		<release year="1992">
+			<media media="1.44M" status="V">
+				<disk md5="AB930A11B3D757651066C522D94EBB9A" disk="1"/>
+				<disk md5="A91A32770FE18014F6E4E13A7F985FA0" disk="2"/>
+				<disk md5="AE92BE9E53B9F006B8726A239B9AC2DD" disk="3"/>
+				<disk md5="47BF691CF32154196D3A483416CABA60" disk="4"/>
+				<disk md5="94D57FBFB5CEB0E2C11F21875C2503B0" disk="5"/>
+				<disk md5="E8B7E6D4552B12E4CC4AAB4609759674" disk="6"/>
+			</media>
+		</release>
+	</title>
 	<title name="Stunt Track Racer" publisher="MicroProse Software, Inc.">
 		<release year="1989">
 			<media media="360K" status="V">
@@ -17268,6 +17590,7 @@
 		</release>
 		<release year="1993" version="2.1, Int. 031293">
 			<media media="1.44M" status="V" god="1">
+				<disk md5="2852BF41E2709099B8B0AA6EA9BB0FC4" disk="1"/>
 				<disk md5="24F1DAC7449D83A0586800C49B32361A" disk="2"/>
 				<disk md5="84D2E2F9BC5A7AB4E6781D83400B4503" disk="3"/>
 				<disk md5="2F491701385636F1E5B3E28C33692E89" disk="4"/>
@@ -19316,6 +19639,27 @@
 			</media>
 		</release>
 	</title>
+	<title name="Xargon 1: Beyond Reality" publisher="Monkey Business, Inc.">
+		<release year="1994">
+			<media media="720K" status="U">
+				<disk md5="88628C6EB405A2309A0661296CA556A5"/>
+			</media>
+		</release>
+	</title>
+	<title name="Xargon 2: The Secret Chamber" publisher="Monkey Business, Inc.">
+		<release year="1994">
+			<media media="720K" status="U">
+				<disk md5="0F1C82D49B55935F944385F06E216AD7"/>
+			</media>
+		</release>
+	</title>
+	<title name="Xargon 3: Xargon's Fury" publisher="Monkey Business, Inc.">
+		<release year="1994">
+			<media media="720K" status="U">
+				<disk md5="D374EBE9BE0FB2DAFDBB5C3FEAD72334"/>
+			</media>
+		</release>
+	</title>
 	<title name="X-COM: Terror from the Deep" publisher="MicroProse Software, Inc.">
 		<release year="1995" region="Europe" language="English, French, German, Spanish">
 			<media media="1.44M" status="U" god="1">
@@ -19469,6 +19813,13 @@
 			</media>
 		</release>
 	</title>
+	<title name="Zone 66: Missions 3 &amp; 4" publisher="Moon Doggie">
+		<release year="1994">
+			<media media="1.44M" status="V">
+				<disk md5="ACE76F68C1C71D8536AA05C6D7CFFB0F"/>
+			</media>
+		</release>
+	</title>
 	<title name="Zork I Demo" publisher="Infocom, Inc.">
 		<release year="1984" version="r15, Serial 840330, Int. 3B" os="PC Booter">
 			<media media="160K" status="V" tdc="1">
@@ -19597,7 +19948,12 @@
 				<disk md5="E0925A748A640222AA33A76343C565BE" cp="Non-standard Sector Sizes"/>
 			</media>
 		</release>
-		<release year="1985" version="r88, Serial 840726, Int. 3L">
+		<release year="1985-05" version="r88, Serial 840726, Int. 3L">
+			<media media="180K" status="V">
+				<disk md5="0A2117EAC4C2948AF5FB052AECA80811"/>
+			</media>
+		</release>
+		<release year="1985-07" version="r88, Serial 840726, Int. 3L">
 			<media media="180K" status="V" tdc="1" god="1">
 				<disk md5="0766C190723B49AFEAD59F23DE83A52E"/>
 			</media>
