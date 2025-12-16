@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<root version="20251212.02">
+<root version="20251215.01">
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc.">
 		<release year="1990">
 			<media media="360K" status="V">
@@ -19937,6 +19937,14 @@
 		</release>
 	</title>
 	<title name="X-COM: Terror from the Deep" publisher="MicroProse Software, Inc.">
+		<release year="1995" region="USA" language="English, French, German, Spanish">
+			<media media="1.44M" status="V">
+				<disk md5="A4707E052FDE284B857E8B942A1BB0CE" disk="1"/>
+				<disk md5="08A68627742972F717F50BA269A24F9D" disk="2"/>
+				<disk md5="1D1B4095BB63C9B01A3D7B4CDE98E3DB" disk="3"/>
+				<disk md5="9B0171AA1C6327AF68751C10B16F9FC5" disk="4"/>
+			</media>
+		</release>
 		<release year="1995" region="Europe" language="English, French, German, Spanish">
 			<media media="1.44M" status="U">
 				<disk md5="611F0312055A38EE8DFDFABC99CC6B2A" disk="1"/>
