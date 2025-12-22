@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<root version="20251215.01">
+<root version="20251222.01">
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc.">
 		<release year="1990">
 			<media media="360K" status="V">
@@ -13381,8 +13381,8 @@
 	</title>
 	<title name="Seastalker" publisher="Infocom, Inc.">
 		<release year="1984" version="r15" serial="840501" int="3C" os="PC Booter">
-			<media media="160K" status="U">
-				<disk md5="F01178E593E318D79F25818B6C98FAAC" cp="Non-standard Sector Sizes" fixed="1"/>
+			<media media="160K" status="V">
+				<disk md5="F01178E593E318D79F25818B6C98FAAC" cp="Non-standard Sector Sizes"/>
 			</media>
 		</release>
 		<release year="1985" version="r16" serial="850603" int="3L">
@@ -17408,7 +17408,7 @@
 	</title>
 	<title name="The Lost Treasures of Infocom" publisher="Infocom, Inc.">
 		<release year="1991">
-			<media media="360K" status="U">
+			<media media="360K" status="V">
 				<disk md5="4C6079B1B53649C30F5C6D95FFB622A3" disk="1"/>
 				<disk md5="06A7211B86509C4E3A8D4DE5D047652D" disk="2"/>
 				<disk md5="31CBB8FF47C3995EE079B97897E0C670" disk="3"/>
@@ -17420,7 +17420,7 @@
 				<disk md5="055CBADDD53908D04A4547DC5CE197A3" disk="9"/>
 				<disk md5="66F0B09AB7E7AB25826D95B3B734F079" disk="10"/>
 			</media>
-			<media media="720K" status="U">
+			<media media="720K" status="V">
 				<disk md5="1D036C8DA35637A90942D09126FD60CC" disk="1"/>
 				<disk md5="13297A13EF3BD03491532FC7ADF9B62E" disk="2"/>
 				<disk md5="2269DF71AC029C7A25C33644BA864F73" disk="3"/>
