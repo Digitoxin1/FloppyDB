@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root version="20260627.01">
+<root version="20260808.01">
 	<languages>
 		<language code="En" name="English" />
 		<language code="Fr" name="French" />
@@ -20,7 +20,8 @@
 		<region code="ES" name="Spain" />
 		<region code="IT" name="Italy" />
 		<region code="PT" name="Portugal" />
-		<region code="TW" name="Taiwan" />		
+		<region code="TW" name="Taiwan" />	
+		<region code="ZH" name="China" />
 	</regions>
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc." mobyGamesId="2236">
 		<release year="1990">
@@ -504,7 +505,13 @@
 		</release>
 	</title>
 	<title name="Alien Carnage" publisher="Apogee Software, Ltd." mobyGamesId="522">
-		<release year="1994" version="1.0">
+		<release year="1994-10" version="1.0">
+			<media media="1.44M" status="U">
+				<disk md5="EA96DED6C1CC4EA7195A758E8351EE82" disk="1" />
+				<disk md5="F7AEAB6C9265B0E87B60B938CDC3DB99" disk="2" />
+			</media>
+		</release>
+		<release year="1994-11" version="1.0">
 			<media media="1.44M" status="U" tgod="485">
 				<disk md5="B1487E64092EB3A3879891861395667A" disk="1" />
 				<disk md5="51BB9D118B5957CCB184A3BED1B58B2A" disk="2" />
@@ -583,6 +590,14 @@
 				<disk md5="77EEBE2BD9E44E865626C6B6B3608C6C" disk="2" />
 				<disk md5="E350D804FBA804B1791469D111DB38E3" disk="3" />
 				<disk md5="D1479A785822C49A40907503D41773EF" disk="4" />
+			</media>
+		</release>
+		<release year="1993" region="EU">
+			<media media="1.44M" status="U" tgod="1611">
+				<disk md5="8872D5EF126D8BAFCC1E4B6BF4EDCAC8" disk="1" />
+				<disk md5="BC01FA861B9E6F1718D4C69785573BA8" disk="2" />
+				<disk md5="BAE6790B39E1EB97056EABA1D307408F" disk="3" />
+				<disk md5="A18D703A0D50A84769C9BC0EC6DA8093" disk="4" />
 			</media>
 		</release>
 		<release year="1992" region="FR">
@@ -785,7 +800,7 @@
 	</title>
 	<title name="Amazon: Guardians of Eden" publisher="Access Software, Inc." mobyGamesId="3287">
 		<release year="1992">
-			<media media="1.2M" status="U">
+			<media media="1.2M" status="U" tgod="3155">
 				<disk md5="6D9DEF589AE4B97F325087673BFB5148" disk="1" />
 				<disk md5="ECBC3F0B57333DB2361ECC18A953A8B9" disk="2" />
 				<disk md5="6EC1FAC9329FA9D4D62BEE3A1F6E2FEF" disk="3" />
@@ -1560,7 +1575,17 @@
 		</release>
 	</title>
 	<title name="Beneath a Steel Sky" publisher="Virgin Interactive Entertainment (Europe) Ltd." mobyGamesId="386">
-		<release year="1994" version="0.303" region="EU" language="En,Fr,De">
+		<release year="1994" version="0.0288" region="EU" language="En,Fr,De,Es,It">
+			<media media="1.44M" status="U" tgod="1553">
+				<disk md5="DAD158E80760C308F2638AE049572FD4" disk="1" />
+				<disk md5="0D75DE327C57896DF11489939D6A9204" disk="2" />
+				<disk md5="E8ADCD8AB3F396A89CE76B661EA9D4B6" disk="3" />
+				<disk md5="8160ED5D84C0D5CC9BA1C27BD2D59369" disk="4" />
+				<disk md5="C4C020BF9F6C43C795338BFAEF1E4702" disk="5" />
+				<disk md5="3A6CD1734758FD5D1E039D6C87D49F6E" disk="6" />
+			</media>
+		</release>
+		<release year="1994" version="0.0303" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="V" tgod="1316">
 				<disk md5="C35F60D3038F6D2D1B2BF5A0BB2BB00B" disk="1" />
 				<disk md5="8BB55418962626332B4983A34DB8C24D" disk="2" />
@@ -1570,7 +1595,7 @@
 				<disk md5="6DBBBFEAE2121C72172AA081BD1C38D5" disk="6" />
 			</media>
 		</release>
-		<release year="1994" version="0.372" region="EU" language="En,Fr,De,Es,It,Pt,Sv">
+		<release year="1994" version="0.0331" region="EU" language="En,Fr,De,Es,It,Pt,Sv">
 			<media media="1.44M" status="V" tgod="2679">
 				<disk md5="053F961B88C29AA97C88E111E42E02B9" disk="1" />
 				<disk md5="D00A499E26CD56EEE4C3E67D51F5FB6E" disk="2" />
@@ -1726,6 +1751,18 @@
 			<media media="1.44M" status="U">
 				<disk md5="2EBC70C6EAAC51301CDB3571BFBFC37D" disk="1" />
 				<disk md5="7AB92013B7914DBC29643BC173570D28" disk="2" />
+			</media>
+		</release>
+		<release name="Blackhawk" year="1994" language="De">
+			<media media="1.44M" status="U" tgod="1222">
+				<disk md5="C377B6054E990EA81AAB20DEC6E12E5B" disk="1" />
+				<disk md5="64493E3BB5DE35641C0ADFC1D62A7C9F" disk="2" />
+			</media>
+		</release>
+		<release name="Blackhawk" year="1994" region="EU" language="En,Fr,De">
+			<media media="1.44M" status="U" tgod="3043">
+				<disk md5="8E145AEC7AB244D1FB748ECC4A872EA7" disk="1" />
+				<disk md5="5AD5A5AE8185E7C25370F6ADD450B09D" disk="2" />
 			</media>
 		</release>
 	</title>
@@ -1889,6 +1926,18 @@
 		<release year="1990" version="2.0">
 			<media media="720K" status="U" tgod="716">
 				<disk md5="4204CCF5BC0000708E2128CC4A3113C8" />
+			</media>
+		</release>
+		<release year="1991" version="2.2">
+			<media media="720K" status="U" tgod="2919">
+				<disk md5="58B383AA1FE79E4E0033C4FD161641DE" />
+			</media>
+		</release>
+	</title>
+	<title name="Breach 2: Campaign Disk 1" publisher="Mindcraft Software, Inc.">
+		<release year="1990">
+			<media media="720K" status="U" tgod="2919">
+				<disk md5="0C7692F2F70270443493080216F91B5F" />
 			</media>
 		</release>
 	</title>
@@ -3140,8 +3189,8 @@
 	</title>
 	<title name="Cyber Empires" publisher="Strategic Simulations, Inc." mobyGamesId="1400">
 		<release year="1992" version="1.0">
-			<media media="1.44M" status="U" tgod="728">
-				<disk md5="714B725A01BE42CDD9D2703880F4F0F2" fixed="1" />
+			<media media="1.44M" status="V" tgod="728">
+				<disk md5="714B725A01BE42CDD9D2703880F4F0F2" />
 			</media>
 		</release>
 	</title>
@@ -3483,7 +3532,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Demon's Forge, The" publisher="Mastertronic, Inc." mobyGamesId="1795">
+	<title name="The Demon's Forge" publisher="Mastertronic, Inc." mobyGamesId="1795">
 		<release year="1987" os="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="CB2F3EF07FC4DD9B14E9ED067928E65E" cp="Key Disk" />
@@ -3861,6 +3910,10 @@
 	</title>
 	<title name="Dragons of Flame" publisher="Strategic Simulations, Inc." mobyGamesId="5893">
 		<release year="1989" version="1.0">
+			<media media="360K" status="V">
+				<disk md5="6F72E48B71E1B7F7C74227DE70284BB8" disk="A" />
+				<disk md5="D4A5CDB07E4DB136CB30F2930D8B1A71" disk="B" />
+			</media>
 			<media media="720K" status="U" tgod="3260">
 				<disk md5="4B8458BDB13DC1B81413DCAD4595885C" />
 			</media>
@@ -4654,6 +4707,11 @@
 				<disk md5="1A662BD4E4AC6398E71793808ACAF405" disk="3" />
 				<disk md5="EF2FF62B2B72E086F08898018A09C9AE" disk="4" />
 				<disk md5="1786D9FEC12B685581D9D53296EF1A98" disk="5" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="A318F487B0279DBDC7FEEB1AC4B47916" disk="1 &amp; 2" />
+				<disk md5="B87553ECF3B80F29DC9368D920DE5E1B" disk="3 &amp; 4" />
+				<disk md5="EA362C7253C74F14C300A6005016BE00" disk="5" />
 			</media>
 		</release>
 		<release year="1991" version="1.4" region="DE">
@@ -5728,6 +5786,9 @@
 				<disk md5="96942049285DAA5C2BA1238F76D051FF" disk="1" status="U" />
 				<disk md5="8871E7A5F713F84A8924447EA53E875A" disk="2" />
 			</media>
+			<media media="1.2M" status="U">
+				<disk md5="F7C7C345EB5460E9187F1E7520EC0B89" />
+			</media>
 		</release>
 		<release year="1992" version="1.2">
 			<media media="1.44M" status="V">
@@ -6563,6 +6624,10 @@
 			</media>
 		</release>
 		<release year="1989" version="1.2">
+			<media media="360K" status="V">
+				<disk md5="C6B89233257B66666A72D7ADD9106DFC" disk="1" />
+				<disk md5="6D8C044D2A1A9E3B15A87374A4B839EA" disk="2" />
+			</media>
 			<media media="720K" status="U" tgod="1298">
 				<disk md5="09314C49B9E0B285C563C768680F3283" />
 			</media>
@@ -7392,7 +7457,7 @@
 	</title>
 	<title name="Innocent Until Caught" publisher="Psygnosis Limited" mobyGamesId="2086">
 		<release year="1993">
-			<media media="1.44M" status="U" tgod="3174">
+			<media media="1.44M" status="V" tgod="3174">
 				<disk md5="4024B82245D26E7B8296FA51B18C9F83" disk="1" />
 				<disk md5="3B7F8B56CA57A8DEA9B99944AA36D6E9" disk="2" />
 				<disk md5="2288FB1FB1D1B4B48BD59352FCAFDED2" disk="3" />
@@ -7506,9 +7571,16 @@
 		</release>
 	</title>
 	<title name="J.R.R. Tolkien's War in Middle Earth" publisher="Melbourne House" mobyGamesId="1477">
-		<release year="1989" variation="EGA">
+		<release year="1989-01" variation="EGA">
 			<media media="360K" status="V">
 				<disk md5="2DE28A3E6D718A187FB9438D46363F3D" disk="1" />
+				<disk md5="064CB5A7E26B7624FF904452312BB315" disk="2" />
+				<disk md5="BF4BCE1B85C06D64EC515D029EB2E845" disk="3" />
+			</media>
+		</release>
+		<release year="1989-02" variation="EGA">
+			<media media="360K" status="V" tgod="3230">
+				<disk md5="B04B4ADFD44511BE6AD1D14D2A230526" disk="1" status="U" />
 				<disk md5="064CB5A7E26B7624FF904452312BB315" disk="2" />
 				<disk md5="BF4BCE1B85C06D64EC515D029EB2E845" disk="3" />
 			</media>
@@ -9763,10 +9835,10 @@
 			<media media="360K" status="U" tgod="1620">
 				<disk md5="63F95DF862B1B3C21570C05EAB7EB269" disk="1" />
 				<disk md5="6F8200F73929F259947E6E3456A5E123" disk="2" />
-				<disk md5="04A932D76C3180A25ACA787669DB83FC" disk="3" />
-				<disk md5="4E7A825188E260742F3691F276EF3F1B" disk="4" />
+				<disk md5="04A932D76C3180A25ACA787669DB83FC" disk="3" status="V" />
+				<disk md5="4E7A825188E260742F3691F276EF3F1B" disk="4" status="V" />
 				<disk md5="20A7E7A89BE543B2AD819CB311BF6386" disk="5" />
-				<disk md5="71F9333A94B23AEF02A6DB9783094DFB" disk="6" />
+				<disk md5="71F9333A94B23AEF02A6DB9783094DFB" disk="6" status="V" />
 			</media>
 			<media media="720K" status="U">
 				<disk md5="DF7055A78B6FDB0A76AA0AC6ED62B056" disk="1" />
@@ -12772,7 +12844,7 @@
 				<disk md5="9293EE09F3D1A78C5DF9DCE0F75A25DC" disk="B" />
 				<disk md5="5400C759A156DBFB27AE1AA3E69B6008" disk="C" />
 			</media>
-			<media media="720K" status="U" tgod="1627">
+			<media media="720K" status="V" tgod="1627">
 				<disk md5="BC0CD1D949385BD945D029E2AEED4F1B" disk="A &amp; B" />
 				<disk md5="2794ED77A9D29332C47B8D242DC46105" disk="C" />
 			</media>
@@ -12796,6 +12868,10 @@
 	</title>
 	<title name="Pools of Darkness" publisher="Strategic Simulations, Inc." mobyGamesId="505">
 		<release year="1991" version="1.00">
+			<media media="1.2M" status="U">
+				<disk md5="B44C9D1BD00BD79C18FDAFDC64552507" disk="1" />
+				<disk md5="5C3F75C2328CA5DECFC8899F3AB3EAEE" disk="2" />
+			</media>
 			<media media="720K" status="V" tgod="724">
 				<disk md5="5E345898B578D9A83454012C70D1A546" disk="1" />
 				<disk md5="2EBAF07A6DDF70E137BFC6E9FA9C2CBE" disk="2" />
@@ -13580,6 +13656,9 @@
 			<media media="360K" status="U" tgod="2834">
 				<disk md5="6B59FE836ED66A17203F18CE4E2C17CC" />
 			</media>
+			<media media="720K" status="V">
+				<disk md5="1E6F7C3D401EBE58FDEB7C16A6F9B1D5" />
+			</media>
 		</release>
 	</title>
 	<title name="Return of the Phantom" publisher="MicroProse Software, Inc." mobyGamesId="2011">
@@ -13806,7 +13885,10 @@
 	</title>
 	<title name="Road &amp; Car: Test Drive III: The Passion: Add-On Disk #1" publisher="Accolade, Inc." mobyGamesId="185">
 		<release year="1991">
-			<media media="720K" status="U" tgod="1136">
+			<media media="360K" status="U">
+				<disk md5="10D032E2C372AAC5926384D345201B2E" fixed="1" />
+			</media>
+			<media media="720K" status="V" tgod="1136">
 				<disk md5="A330C8551D4B9621AB0206471A9CEDED" />
 			</media>
 		</release>
@@ -14344,7 +14426,7 @@
 	</title>
 	<title name="Sentinel Worlds I: Future Magic" publisher="Electronic Arts, Inc." mobyGamesId="755">
 		<release year="1988">
-			<media media="360K" status="U" tgod="1424">
+			<media media="360K" status="V" tgod="1424">
 				<disk md5="FF462A4223761554D0AFEA9AF1E41308" disk="Data Disk" />
 				<disk md5="E99F9E864E470F426A93C468532B401B" disk="Game Disk" />
 			</media>
@@ -14360,7 +14442,7 @@
 	</title>
 	<title name="Serf City: Life is Feudal" publisher="Strategic Simulations, Inc." mobyGamesId="425">
 		<release year="1994" version="1.0">
-			<media media="1.44M" status="U">
+			<media media="1.44M" status="V">
 				<disk md5="BB04DB8FFB38D461265A0EEA7B3E633F" />
 			</media>
 		</release>
@@ -14415,7 +14497,7 @@
 	</title>
 	<title name="Shadow Sorcerer" publisher="Strategic Simulations, Inc." mobyGamesId="1868">
 		<release year="1991" version="1.00">
-			<media media="720K" status="U" tgod="3259">
+			<media media="720K" status="V" tgod="3259">
 				<disk md5="9B3EB816741A5C9366C0DEE5C2C4C606" disk="1" />
 				<disk md5="254A1DF238EB63CC62474E666ADD0A14" disk="2" />
 			</media>
@@ -14590,6 +14672,10 @@
 				<disk md5="D9B485ADAEABB1F65D3E86D3EA6B3B1D" disk="A" />
 				<disk md5="A5A06E36A79E830025D9C3E24E8754D6" disk="B" />
 				<disk md5="9B665BBF44EA9378F849C7A4A01DC532" disk="C" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="48040F200DB816FE4F972D56E95F4F04" disk="A" />
+				<disk md5="4F8DBEA24796951804EA97A9A833A7AA" disk="B" status="V" />
 			</media>
 		</release>
 		<release year="1990" version="455.02">
@@ -14881,6 +14967,12 @@
 			<media media="1.44M" status="U">
 				<disk md5="ECA64C67D08202DA111D3AF6B617FDEE" disk="1" />
 				<disk md5="3BE49605B698AF7F379B77981FDDBEF7" disk="2" />
+			</media>
+		</release>
+		<release year="1995" version="1.2" os="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="FEA2026BEC07D1F52E8ECE1A0765F081" disk="1" />
+				<disk md5="41420BC9604C4E5AEA541D933FE02924" disk="2" />
 			</media>
 		</release>
 		<release year="1995" os="Windows 3.1">
@@ -17335,9 +17427,14 @@
 	</title>
 	<title name="Test Drive III: The Passion" publisher="Accolade, Inc." mobyGamesId="158">
 		<release year="1990" version="1.0">
-			<media media="720K" status="U" tgod="1137">
-				<disk md5="AC7550BB16FB58981F8481EB8C1FF5AE" disk="Boot Disk / Program Disk" fixed="1" />
-				<disk md5="700124E4852011275769CBAE4D0823D5" disk="Master / Play Disk" fixed="1" />
+			<media media="360K" status="V">
+				<disk md5="1C5DC174BD094407D88123F7106B933A" disk="Boot Disk" />
+				<disk md5="A356B96068E16D3D8F5DB9DAB6FB12BC" disk="Master Play Disk" />
+				<disk md5="6BF7D4DB99B08D5DCFC2E1C3CC099415" disk="Program Disk" />
+			</media>
+			<media media="720K" status="V" tgod="1137">
+				<disk md5="AC7550BB16FB58981F8481EB8C1FF5AE" disk="Boot Disk / Program Disk" />
+				<disk md5="700124E4852011275769CBAE4D0823D5" disk="Master / Play Disk" />
 			</media>
 		</release>
 		<release year="1991" version="2.0">
@@ -17345,6 +17442,10 @@
 				<disk md5="E026921E02288B8F910CFD7DA18DFB4E" disk="Boot Disk" />
 				<disk md5="899638D3B31C5010003B378B42EBCF98" disk="Master Play Disk" />
 				<disk md5="4FCCC4FF5D8658EBAD39B2CF57DF1C43" disk="Program Disk" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="B2DAAF005566B2813136AB5A1BD1A12A" disk="Boot Disk / Program Disk" />
+				<disk md5="86FF24D43AC1C6AE0ADAB902B31E9BCF" disk="Master Play Disk" />
 			</media>
 		</release>
 	</title>
@@ -18678,9 +18779,9 @@
 		</release>
 		<release variation="VGA" year="1992" version="1.0" int="5.0.16">
 			<media media="1.44M" status="U" tgod="3048">
-				<disk md5="4B9650EC33B68DB3B0D28495366FC9E0" disk="1" />
-				<disk md5="05E75560FEB2155129AA7514696EE32C" disk="2" />
-				<disk md5="B0D8413A221002EE98FC5060D4410D1E" disk="3" />
+				<disk md5="2A5DBAC41D2B1EF04C776C462EA448D1" disk="1" />
+				<disk md5="AE09EF0ACA3351609288C6E80990B615" disk="2" />
+				<disk md5="278DA1F66615360B0AD830BB88B8837A" disk="3" />
 			</media>
 		</release>
 		<release variation="VGA" year="1993" version="1.1" int="5.0.16" publisher="Kixx" region="GB">
@@ -18955,6 +19056,16 @@
 		</release>
 	</title>
 	<title name="Theme Park" publisher="Electronic Arts, Inc." mobyGamesId="675">
+		<release year="1994" language="En,Fr,De,Es,It">
+			<media media="1.44M" status="U">
+				<disk md5="602F982FAEC40173742FB12F544B7ABC" disk="2" />
+				<disk md5="54D4C73FC487474AE3AAB70520C74A43" disk="3" />
+				<disk md5="911345C066A906259C4C8CEC695FAC23" disk="4" status="V" />
+				<disk md5="20ADD51FBC13224670EBADC022F9265B" disk="5" status="V" />
+				<disk md5="702DA9F30460E2EAB0CB2055207AB065" disk="6" status="V" />
+				<disk md5="C3771F1A19CE73FE25793087599620BB" disk="Installer Disk" status="V" />
+			</media>
+		</release>
 		<release year="1994" region="EU" language="En,De,Fr,Es,It">
 			<media media="1.44M" status="V" tgod="394,1306">
 				<disk md5="3A1BF2CD28E7E03B5DF636B6AC6B0CC8" disk="1" />
@@ -19182,7 +19293,7 @@
 	</title>
 	<title name="Treasures of the Savage Frontier" publisher="Strategic Simulations, Inc." mobyGamesId="507">
 		<release year="1992" version="1.00">
-			<media media="1.2M" status="U" tgod="2836">
+			<media media="1.2M" status="V" tgod="2836">
 				<disk md5="E7BFDB859C5843005AE0D971D0831FB6" disk="1" />
 				<disk md5="BC28BFC6132409E437E4F869AE040CBA" disk="2" />
 			</media>
@@ -19381,9 +19492,15 @@
 		</release>
 	</title>
 	<title name="Ultima IV: Quest of the Avatar" publisher="ORIGIN Systems, Inc." mobyGamesId="884">
-		<release year="1987">
+		<release year="1987-09">
 			<media media="360K" status="V">
 				<disk md5="0F1A1DF5E72C3D6760E1E8EBEF750B11" disk="Disk A: Program Disk" cp="Origin Systems OSI-1" />
+				<disk md5="E8C81F93659587F08FE724B61D7BB627" disk="Disk B: Player Disk" />
+			</media>
+		</release>
+		<release year="1987-11">
+			<media media="360K" status="V">
+				<disk md5="EE2B76E90C9368F8512C65F00BAE40F6" disk="Disk A: Program Disk" cp="Origin Systems OSI-1" />
 				<disk md5="E8C81F93659587F08FE724B61D7BB627" disk="Disk B: Player Disk" />
 			</media>
 			<media media="720K" status="V">
@@ -19399,6 +19516,15 @@
 				<disk md5="756F7C9AD8A1FD66BCF18ECB8CC3501F" disk="3" />
 				<disk md5="65DA57A1DEADA32CE597206877B5DAE3" disk="4" />
 				<disk md5="ACC639BC059D07B687FDA786A7231602" disk="5" media="720K" />
+			</media>
+		</release>
+		<release year="1993" version="F1.90S">
+			<media media="1.44M" status="V" tgod="653">
+				<disk md5="15073D1830672EC8E5146158BC72BFF5" disk="1" />
+				<disk md5="17EAAD4D07737191F81E4ACE81710274" disk="2" />
+				<disk md5="756F7C9AD8A1FD66BCF18ECB8CC3501F" disk="3" />
+				<disk md5="65DA57A1DEADA32CE597206877B5DAE3" disk="4" />
+				<disk md5="571BA65C3C1515C5ED3E779352617ED6" disk="5" media="720K" status="U" />
 			</media>
 		</release>
 		<release year="1993" version="F1.99S">
@@ -19451,7 +19577,7 @@
 				<disk md5="4EAA10DF07C1C1574BA3E630B1F148FE" disk="Disk 1: Program" cp="Origin Systems OSI-1" />
 				<disk md5="ED3517C610928B59F62F1D76745CD433" disk="Disk 2: Britannia" />
 				<disk md5="BBC6FBB4B2FA586A1B4D13C8DC7CB3EB" disk="Disk 3: Dungeon" />
-				<disk md5="45019A6C0A880994F5E8650FDBB64915" disk="Disk 4: Underworld" status="U" />
+				<disk md5="45019A6C0A880994F5E8650FDBB64915" disk="Disk 4: Underworld" />
 			</media>
 			<media media="720K" status="V">
 				<disk md5="995D15E664D1FAD2D2E611ECA072D3F2" disk="Disk 1: Program" cp="Origin Systems OSI-1" />
@@ -19486,7 +19612,7 @@
 			<media media="360K" status="V" tgod="99">
 				<disk md5="ED31FCB605E4E5B037781CFFFB3C765D" disk="Disk 1: Program" />
 				<disk md5="33D59EBD4A6E3E7B2E380B33F42C0D13" disk="Disk 2: Introduction" />
-				<disk md5="1955642CED103E622FC4C5DE26D0DA4B" disk="Disk 3: Game" status="U" />
+				<disk md5="1955642CED103E622FC4C5DE26D0DA4B" disk="Disk 3: Game" />
 				<disk md5="D07399A306C6081BA5D3BECB7BB843AD" disk="Disk 4: Map" />
 				<disk md5="E40FE8731B1E60EF59D6AD932141D70C" disk="Disk 5: Populace A" />
 				<disk md5="9F8C73D7936DDEF70A5D0A8F4A441C44" disk="Disk 6: Populace B" />
@@ -19741,7 +19867,7 @@
 	</title>
 	<title name="Vette!" publisher="Spectrum Holobyte, Inc." mobyGamesId="799">
 		<release year="1991" version="1.02">
-			<media media="360K" status="U" tgod="1120">
+			<media media="360K" status="U" tgod="1120,1121">
 				<disk md5="57E3C91D36F626E7E21BFF8A51628EB1" disk="CGA" fixed="1" />
 				<disk md5="8F6BA4017588E69A8221B3E92E4FD92D" disk="EGA Disk 1" />
 				<disk md5="4D5D2BF6E577297FA00F5303F47A3573" disk="EGA Disk 2" />
@@ -20066,7 +20192,11 @@
 			</media>
 		</release>
 		<release year="1990" version="2.1">
-			<media media="720K" status="U" tgod="771">
+			<media media="360K" status="V">
+				<disk md5="31C4CD17FE0957C4324EFED534D16679" disk="1" />
+				<disk md5="BBB768E20D57A30FE7F196B00BF2BCBA" disk="2" />
+			</media>
+			<media media="720K" status="V" tgod="771">
 				<disk md5="2B1D3B2B9BF03DC3A5BF8BFD24446DED" />
 			</media>
 		</release>
@@ -20655,7 +20785,7 @@
 				<disk md5="2A7265FD875B8577D265CAD34512286D" disk="2" />
 				<disk md5="67E51EA12055109254CD9A85611EB779" disk="3" />
 				<disk md5="0666DF336A8BFF4E659DD798AE3BD8C8" disk="4" />
-				<disk md5="9F342AE3408F3CBA41BD1F1A008B5612" disk="5" status="U" fixed="1" />
+				<disk md5="9F342AE3408F3CBA41BD1F1A008B5612" disk="5" status="U" />
 			</media>
 		</release>
 		<release year="1991" version="1.21b">
@@ -21301,7 +21431,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Elder Scrolls, The: Arena" publisher="Bethesda Softworks LLC">
+	<title name="The Elder Scrolls: Arena" publisher="Bethesda Softworks LLC">
 		<release year="1994" version="1.04">
 			<media media="1.44M" status="V" tgod="1438">
 				<disk md5="CB0722ECF589B17B2E34FB00945F867E" disk="1" status="U" />
@@ -21334,7 +21464,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Terminator, The: Rampage" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator: Rampage" publisher="Bethesda Softworks LLC">
 		<release year="1993">
 			<media media="1.44M" status="U" tgod="2290">
 				<disk md5="F53940C45B3F004A5C44AAF191D16F30" disk="1" />
@@ -21346,7 +21476,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Terminator, The" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator" publisher="Bethesda Softworks LLC">
 		<release year="1991" version="1.01C">
 			<media media="720K" status="V" tgod="1669">
 				<disk md5="DB68AC2EC264EFF55E7282B303AD3E63" disk="1" />
@@ -21567,7 +21697,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Amazon Trail, The" publisher="MECC">
+	<title name="The Amazon Trail" publisher="MECC">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="787C8B2985E3AC9ECB6954164434C5B4" disk="1" />
@@ -21612,17 +21742,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Oregon Trail for Windows, The" publisher="MECC">
-		<release year="1993" version="1.0" os="Windows 3.1">
-			<media media="1.44M" status="U" tgod="3401">
-				<disk md5="D1AE719AE65BAEBE3554653253D47C4F" disk="1" />
-				<disk md5="D2AF805F99AE0F58AE3E546AADF9C1AC" disk="2" />
-				<disk md5="124BCEA9245E1627EBAAB87478DE3AB3" disk="3" />
-				<disk md5="7E9F7F323C7E3FF37B8970393223D423" disk="4" />
-			</media>
-		</release>
-	</title>
-	<title name="Oregon Trail, The" publisher="MECC">
+	<title name="The Oregon Trail" publisher="MECC">
 		<release year="1991" version="2.1">
 			<media media="360K" status="U">
 				<disk md5="96C51FD782D156FF4455ED5AB0E14B6F" disk="1" />
@@ -21630,6 +21750,14 @@
 			</media>
 			<media media="720K" status="U">
 				<disk md5="C3A582913E6AF6C1CA79AAF5D419C1E9" />
+			</media>
+		</release>
+		<release year="1993" version="1.0" os="Windows 3.1">
+			<media media="1.44M" status="U" tgod="3401">
+				<disk md5="D1AE719AE65BAEBE3554653253D47C4F" disk="1" />
+				<disk md5="D2AF805F99AE0F58AE3E546AADF9C1AC" disk="2" />
+				<disk md5="124BCEA9245E1627EBAAB87478DE3AB3" disk="3" />
+				<disk md5="7E9F7F323C7E3FF37B8970393223D423" disk="4" />
 			</media>
 		</release>
 	</title>
@@ -21675,6 +21803,15 @@
 				<disk md5="E34C4CD52F83C600289629D4E80CBBC5" disk="2" />
 			</media>
 		</release>
+		<release year="1991-10">
+			<media media="1.2M" status="V">
+				<disk md5="DF9462B3A29438E5B1CAE946A5D1B9D1" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="0EAE99933B7E076EE4CC54DA71FFCA29" disk="1" />
+				<disk md5="362D4051490473B7DD48714CE6BF763A" disk="2" />
+			</media>
+		</release>
 	</title>
 	<title name="JetFighter II: Operation Lightning Storm" publisher="Velocity Inc.">
 		<release year="1992" version="1.1B">
@@ -21713,7 +21850,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Koshan Conspiracy, The" publisher="Ubi Soft Entertainment Software">
+	<title name="The Koshan Conspiracy" publisher="Ubi Soft Entertainment Software">
 		<release year="1992" region="FR">
 			<media media="1.44M" status="U">
 				<disk md5="8ABE967373C2524CE34819E35EB7D6C4" media="720K" disk="1" />
@@ -21752,7 +21889,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Scoop, The" publisher="Spinnaker Software Corporation">
+	<title name="The Scoop" publisher="Spinnaker Software Corporation">
 		<release year="1989">
 			<media media="720K" status="V">
 				<disk md5="2E2A46BCF4220B03EEF263863E903B8F" />
@@ -21843,7 +21980,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Gold of the Aztecs, The" publisher="U.S. Gold, Inc.">
+	<title name="The Gold of the Aztecs" publisher="U.S. Gold, Inc.">
 		<release year="1991" version="1.0">
 			<media media="1.44M" status="V" tgod="3179">
 				<disk md5="232A4087BA56844E1A4ED4EF88B641FB" disk="1" />
@@ -21853,10 +21990,10 @@
 	</title>
 	<title name="Harpoon II: Battleset 3: Cold War" publisher="U.S. Gold Ltd.">
 		<release year="1995" region="GB">
-			<media media="1.44M" status="U" tgod="2885">
+			<media media="1.44M" status="V" tgod="2885">
 				<disk md5="E676E8189330E2B5C1748BED2F3CF82F" disk="1" />
 				<disk md5="648C4C749C2058E9C499785D60F7437B" disk="2" />
-				<disk md5="9820B1AECDBC2FDFA09FB016F71970BF" disk="3" status="V" />
+				<disk md5="9820B1AECDBC2FDFA09FB016F71970BF" disk="3" />
 			</media>
 		</release>
 	</title>
@@ -22723,7 +22860,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dream Team, The: 3 on 3 Challenge" publisher="Data East USA, Inc.">
+	<title name="The Dream Team: 3 on 3 Challenge" publisher="Data East USA, Inc.">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="53F68262DB9E850275C16124A525C1C3" disk="Camera 1" fixed="1" />
@@ -22953,7 +23090,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Terminator 2029, The" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator 2029" publisher="Bethesda Softworks LLC">
 		<release year="1992">
 			<media media="1.44M" status="U" tgod="776">
 				<disk md5="BD291AE4D61EEBE16E8114A4B93FF362" disk="1" />
@@ -23002,6 +23139,459 @@
 			<media media="360K" status="V">
 				<disk disk="1" />
 				<disk md5="D67AF98CED4FA78B0DB951C1F02555DA" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="EA Kids Sampler: Eagle Eye Mysteries and Peter Pan: A Story Painting Adventure" publisher="Electronic Arts, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="F2C97EA803B484A51B5823ED08B445AD" />
+			</media>
+		</release>
+	</title>
+	<title name="Warcraft: Orcs &amp; Humans" publisher="Blizzard Entertainment Inc.">
+		<release year="1994" version="1.12">
+			<media media="1.44M" status="U">
+				<disk md5="05E4943729C9976156CC7D524E078590" disk="1" />
+				<disk md5="74599BC17BE29049D43177A6F2B969BE" disk="2" />
+				<disk md5="C6D963752A94D585DC976BD8BEE35C8E" disk="3" />
+				<disk md5="40AB7B34708E2D1645A2BC7DD433F623" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="The $100,000 Pyramid" publisher="Box Office, Inc.">
+		<release year="1992">
+			<media media="360K" status="V">
+				<disk md5="777B1F6369D0EF3F5758305C96FF730B" />
+			</media>
+		</release>
+	</title>
+	<title name="ALF: The First Adventure" publisher="Box Office, Inc.">
+		<release year="1992" version="3.2">
+			<media media="360K" status="V">
+				<disk md5="C7284E14FA1C0BE7407C6D00E9DFA16F" />
+			</media>
+		</release>
+	</title>
+	<title name="Carriers at War" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="7893D3B3CB55E6ED556A92A03ED629EA" />
+			</media>
+		</release>
+	</title>
+	<title name="Carriers at War II" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1994" version="2.05">
+			<media media="1.44M" status="U">
+				<disk md5="1DC5DF169FBFF5C1149CBC7DB8545B51" disk="1" fixed="1" />
+				<disk md5="708FF38E42BDF0254EFA551A899FAE0D" disk="2" fixed="1" />
+				<disk md5="861E1214A4CE96084D7466D9EED39AFC" disk="3" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="Decisive Battles of the American Civil War, Vol. 2" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1989">
+			<media media="360K" status="U">
+				<disk md5="7A7A4D3054D92A1CD06D8EFDA7569885" disk="1" />
+				<disk md5="127C2F7F17247AE8C2B2F56A797C1A3E" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Fire King" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1990">
+			<media media="360K" status="U">
+				<disk md5="B2361A639A7C8ACF55E99BFAF410D4BA" disk="1" fixed="1" />
+				<disk md5="9B3EEB471BA534835059EBB18E7E49E7" disk="2" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="Halls of Montezuma: A Battle History of the United States Marine Corps" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1988">
+			<media media="360K" status="U">
+				<disk md5="D91C04AB5326B8348D00BF1D030A0F32" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="MacArthur's War: Battles for Korea" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="EE76F0F25B14703175D9AC89E807D181" disk="1" />
+				<disk md5="FF73FF8174115C891C0F014C8A2433DB" disk="2" />
+				<disk md5="FDFFBAA4714605B5713F39C701CF3501" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Warlords" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1990" version="1.02">
+			<media media="360K" status="U">
+				<disk md5="5B95F2E5B69DB50B2212074DCBB17566" disk="1" />
+				<disk md5="2E1524C75DABD4CF2D943245FA422430" disk="2" />
+				<disk md5="0D9BF556FBA6A587E1D4CFC0E7B17A54" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Warlords II" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1993" version="1.02">
+			<media media="1.44M" status="V">
+				<disk md5="7E2ADA231AA95D8968966E09BD944085" disk="1" />
+				<disk md5="3B5053842F77DCC44D7B2E854EEA990C" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Warlords II Scenario Builder" publisher="SSG Strategic Studies Group Pty Ltd.">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="8E62C358BCF743F3B17D8CF7A8955160" disk="1" />
+				<disk md5="1AA2334239DF50BF4841F11106BB82B4" disk="2" />
+				<disk md5="2083413FAA4C9952ACCE8D0FCCBFB732" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="An American Tail: The Computer Adventures of Fievel and His Friends" publisher="Capstone Software">
+		<release year="1992">
+			<media media="720K" status="U">
+				<disk disk="1" />
+				<disk md5="9FD2345867A23972584DE1A897696622" disk="2" />
+				<disk md5="E7CC0BAD0BEDBD4CD8893615749D7812" disk="3" />
+				<disk md5="CC8B5EE3EA54398274BC4752553EB0F5" disk="4" />
+				<disk md5="460D5B5A4ADFF526D7629308E9F5F845" disk="5" />
+			</media>
+		</release>
+	</title>
+	<title name="The Beverly Hillbillies" publisher="Capstone Software">
+		<release year="1993" version="1.00">
+			<media media="1.44M" status="U">
+				<disk md5="442466742ADE9E755656CCD28818C4B1" disk="1" />
+				<disk md5="62015753013936B7500C709B68BB273A" disk="2" />
+				<disk md5="90EA9048A886BBE97B42FED8FAE57E0A" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Bill &amp; Ted's Excellent Adventure" publisher="Capstone Software">
+		<release year="1990">
+			<media media="360K" status="U">
+				<disk md5="9812CA9974133A71286CBC8A5EFADE15" disk="1" fixed="1" />
+				<disk md5="2DF1D2AF10A3A4543E8DC9A71CC8AD48" disk="2" status="V" />
+				<disk md5="DA66EDB2BA323A16D4CF97EEC11F6C2C" disk="3" status="V" />
+				<disk md5="AD48B377C4F790B32E30EAD72BB582FD" disk="4" status="V" />
+				<disk md5="FCF9BB575752AB36C3C52FCEE5C25648" disk="5" status="V" />
+				<disk md5="F8402FE2C375495E79241AE32851129A" disk="6" status="V" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="D85E9BE52FEEA708D59D634B52794FF8" disk="1" />
+				<disk md5="F1537C57EE198C855B2D314BDD483B43" disk="2" status="V" />
+				<disk md5="C31907A06D236DA0A60AD8A56D5125D5" disk="3" status="V" />
+			</media>
+		</release>
+	</title>
+	<title name="The Cardinal of the Kremlin" publisher="Capstone Software">
+		<release year="1990">
+			<media media="720K" status="U">
+				<disk md5="DFAD4A5ACF307A3605EFD31C05739D23" disk="1" />
+				<disk md5="D89630D669288AF439FB5595C1221ED9" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Corridor 7: Alien Invasion" publisher="Capstone Software">
+		<release year="1994" version="3.2M">
+			<media media="1.44M" status="U">
+				<disk md5="13D52CD39623ADA8EB91230D497749AD" disk="1" fixed="1" />
+				<disk md5="FF658F513EEFF0F482A0DBA7B37510EC" disk="2" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="The Dark Half" publisher="Capstone Software">
+		<release year="1992">
+			<media media="720K" status="U">
+				<disk md5="FA23A8DCF8839EF352EA56D4CF0CACA8" disk="1" />
+				<disk md5="8B26695C60DDE97BEAA8A0603729070F" disk="2" />
+				<disk md5="4DABFF2EB8FD6A799EB0E1F9C5D32084" disk="3" />
+				<disk md5="A20BFC799DFB9E1D0AB333635DCDB3DE" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="Discoveries of the Deep" publisher="Capstone Software">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="1B93542BF595C949821B592696548708" disk="1" />
+				<disk md5="13D51D1701D3E24C8E3BCB8F1A7A859E" disk="2" />
+				<disk md5="70C1392AFE08209C334EA6C70F6E894D" disk="3" />
+				<disk md5="B0FC1D9C1B27428EEE35C392F524B25A" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="Grandmaster Chess" publisher="Capstone Software">
+		<release year="1992">
+			<media media="1.2M" status="U">
+				<disk md5="B2F8C041DAA4E706081C00C30E7D59D9" disk="1" />
+				<disk md5="1B14CFDC78C27D56D5209BFC1517666D" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Grandmaster Chess Deluxe" publisher="Capstone Software">
+		<release year="1993" version="1.1">
+			<media media="1.44M" status="U">
+				<disk md5="B7C401EE3F095DABD3057AF58F854BE4" disk="1" />
+				<disk md5="30718A0DB7B532FBA57D1C52D31DC50C" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Home Alone 2: Lost in New York" publisher="Capstone Software">
+		<release year="1992">
+			<media media="720K" status="U">
+				<disk md5="B734F1D1DC708941743C4A1B44EACC07" disk="1" fixed="1" />
+				<disk md5="E020126EEB338CD217715680E7112045" disk="2" fixed="1" />
+				<disk md5="AFE003E57F122FFF30086E517893382B" disk="3" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="Homey D. Clown" publisher="Capstone Software">
+		<release year="1993" version="1.20">
+			<media media="720K" status="U">
+				<disk md5="FE339B450BB6785659FC6F65B0703C07" disk="1" />
+				<disk md5="103E5BD8DF6639C559C7D6FCFCFE4589" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="LA Law: The Computer Game" publisher="Capstone Software">
+		<release year="1992">
+			<media media="720K" status="V">
+				<disk md5="E8B0CBB5C0AA5DE0232ECA523C31F5E1" disk="1" />
+				<disk md5="4976C341D70955C6ABE9241706C0C0C5" disk="2" />
+				<disk md5="1EC714E0FB3EAE3C23500CC2315EF2FC" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Lots -o- $lot$" publisher="Capstone Software">
+		<release year="1992">
+			<media media="360K" status="U">
+				<disk md5="91196BA5A6FA9E82C9D979C7C1943444" disk="1" />
+				<disk md5="96E4A3EFFFE94F6A52ACDC11B7D74E71" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Operation Body Count" publisher="Capstone Software">
+		<release year="1994">
+			<media media="1.44M" status="V">
+				<disk md5="78B1487EF762CA95B3B11B3007918A92" disk="1" />
+				<disk md5="A03D6AAE62BB03DA494152769FE60044" disk="2" />
+				<disk md5="1D071E28961854578D106490B229BD9E" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Poker" publisher="Capstone Software">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="28C6448E9B9395B209883A92295534F3" disk="1" />
+				<disk md5="8149D17DBEF3121CC69AABB8430F45F1" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Search for the Titanic" publisher="Capstone Software">
+		<release year="1989">
+			<media media="360K" status="U">
+				<disk md5="FD6EA6CB5CDF50ECFE94FA7C9F3903DE" disk="CGA/EGA Disk" />
+				<disk md5="C00F9B2FA6BDBFC6F840AA18179E00AB" disk="Program Disk" />
+			</media>
+			<media media="720K" status="U">
+				<disk disk="Program Disk" />
+				<disk md5="8ED0EC6BED7132FD24D95BBCED8E5DA8" disk="VGA Disk" />
+			</media>
+		</release>
+	</title>
+	<title name="The Taking of Beverly Hills" publisher="Capstone Software">
+		<release year="1991">
+			<media media="360K" status="U">
+				<disk md5="7C94C666699A1F9397E91907BB58258E" disk="1" />
+				<disk md5="AB57573B59D52AD51DCC36F6BB6BDB77" disk="2" />
+				<disk md5="F7466E21DA93AD7E2A41F9CECB77384D" disk="3" />
+				<disk md5="8D139439E1F69EBBE7CA2554DD4A9AFD" disk="4" />
+				<disk md5="F3021D5D8CF05AB92942D264F6F9E240" disk="5" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="8AF0DAFB02C8B054C006F6FA1F24B0F7" disk="Disk 1 &amp; 2" />
+				<disk md5="04B7C610D266690DE774DC74A2528ED0" disk="Disk 3 &amp; 4" />
+				<disk md5="4DC53511203C96682BCB8C806F05E33F" disk="Disk 5" />
+			</media>
+		</release>
+	</title>
+	<title name="Trolls" publisher="Capstone Software">
+		<release year="1992">
+			<media media="720K" status="U">
+				<disk md5="0D679EDD40919F5E543518B5F560264E" disk="1" />
+				<disk md5="2763972275109E3620A850CE0F2C6895" disk="2" />
+				<disk md5="BF190AF6F03F6C84EAC23251036053FB" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Trump Castle II" publisher="Capstone Software">
+		<release year="1991" version="1.1">
+			<media media="360K" status="U">
+				<disk md5="091CEC7510DD899FF66A2905FF902887" disk="1" />
+				<disk md5="5FF340D241F695A4A0F4497BE6B50EA1" disk="2" />
+				<disk md5="3A192D9390475E3281DC5A6FCC84E3DB" disk="3" status="V" />
+				<disk md5="A6EF619926DC372910423EC1EC3E94A9" disk="4" status="V" />
+				<disk md5="D1A2E4FF643446BD646DE65F2F1E4A77" disk="5" status="V" />
+			</media>
+		</release>
+		<release year="1991" version="1.2">
+			<media media="360K" status="U">
+				<disk md5="FD9411E7320A37E9AD3737943C761877" disk="1" />
+				<disk md5="38386BB9145D0DCA1DE9BF7911695D2A" disk="2" />
+				<disk md5="3A192D9390475E3281DC5A6FCC84E3DB" disk="3" status="V" />
+				<disk md5="A6EF619926DC372910423EC1EC3E94A9" disk="4" status="V" />
+				<disk md5="D1A2E4FF643446BD646DE65F2F1E4A77" disk="5" status="V" />
+			</media>
+		</release>
+	</title>
+	<title name="Wayne's World" publisher="Capstone Software">
+		<release year="1993">
+			<media media="720K" status="U">
+				<disk md5="99EE564E020AE50F3B0CAE61A118A364" disk="1" />
+				<disk md5="764E39EC9809E57365CACFEBA0B631F4" disk="2" />
+				<disk md5="6E9272CC71261E4ECBDF4B61DF249C07" disk="3" />
+				<disk md5="B2F962EEE05369483D3D966D551112FF" disk="4" />
+				<disk md5="0BD9395BFB34FE8EFDB1F21AE39D4BDA" disk="5" />
+			</media>
+		</release>
+	</title>
+	<title name="Pinball Dreams" publisher="21st Century Entertainment Ltd.">
+		<release year="1993-07">
+			<media media="1.44M" status="V">
+				<disk md5="1F3E5AB4337C06B5BB76ADCEADF43551" />
+			</media>
+		</release>
+		<release year="1995">
+			<media media="1.44M" status="U">
+				<disk md5="6E90E38B124F4D22F35B1EFC9733FE9D" />
+			</media>
+		</release>
+	</title>
+	<title name="Pinball Dreams II" publisher="21st Century Entertainment Ltd.">
+		<release year="1994">
+			<media media="1.44M" status="U">
+				<disk md5="2E85E5B31F7BC1DB9CC61F280BA79010" />
+			</media>
+		</release>
+	</title>
+	<title name="Pinball Fantasies" publisher="21st Century Entertainment Ltd.">
+		<release year="1994" version="1.0">
+			<media media="1.44M" status="V">
+				<disk md5="98486A5243640370473128FDC377FE73" disk="1" />
+				<disk md5="3E808E5098215434AFB5F3FABEA64EAA" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="America Adventure" publisher="Knowledge Adventure, Inc.">
+		<release year="1994">
+			<media media="1.44M" status="V">
+				<disk md5="719879480575A35FA6574F100DF6802D" disk="1" />
+				<disk md5="537B975CDBF4A74111104A6BF575048B" disk="2" />
+				<disk md5="9D6D5D14160C626D58392C319F114BAC" disk="3" />
+				<disk md5="8A2B122DF9505FE94D4AFC13A10D0634" disk="4" />
+				<disk md5="D16902F31C516B1992F144A9B7258485" disk="5" />
+			</media>
+		</release>
+	</title>
+	<title name="Isaac Asimov: Science Adventure" publisher="Knowledge Adventure, Inc.">
+		<release year="1992">
+			<media media="720K" status="U">
+				<disk md5="876AD422A0ECAF620672F5AE6A659081" disk="1" />				
+				<disk md5="1DACB353DC0DCB1E7229AAFC5EFB8740" disk="2" />
+				<disk md5="57C802D36A580A4A6565D869F4E402FB" disk="3" />
+				<disk md5="559932B82A6D7462DB121A7954D68258" disk="4" />
+				<disk md5="901A671D33C9EB71526AEBD66029A818" disk="5" />
+				<disk md5="4CDD6D8C4CBA39BD6A00214C97044277" disk="6" />
+				<disk md5="0BCD56EFF6C11F1F7250B83D461A2510" disk="7" />
+				<disk md5="C10C5DEECFF5C041666CB2932CA26B8C" disk="8" />
+				<disk md5="D2F76432E340F1396B442CC5B784974C" disk="9" />
+				<disk md5="3A8DF39C9368753102E408474B2FDACD" disk="10" />
+			</media>
+		</release>
+	</title>
+	<title name="Spectre Challenger" publisher="Velocity Inc.">
+		<release year="1993-08">
+			<media media="720K" status="U">
+				<disk md5="159FD711760E981A197555ACA9B0F030" />
+			</media>
+		</release>
+		<release year="1993-11">
+			<media media="720K" status="U">
+				<disk md5="11E50A1ACA80610F4DF7465FD5495561" />
+			</media>
+		</release>
+	</title>
+	<title name="Dark Seed" publisher="Cyberdreams, Inc.">
+		<release year="1992" version="1.5">
+			<media media="1.44M" status="U">
+				<disk md5="39B1741B7E9208C58601DF38C8656B7E" disk="1" media="720K" />
+				<disk md5="298308ED38200B8E25B8BDFD59D07733" disk="2" />
+				<disk md5="DEB691AD0D8B95BAFB32FAC67B75B47F" disk="3" />
+				<disk md5="9E72F6D9CA14CCBDA7495AD5669902F3" disk="4" />
+				<disk md5="62C1289936F46288811E8775935B5070" disk="5" />
+			</media>
+			<media media="1.2M" status="U" region="ZH">
+				<disk md5="21B08D41CBB66C89D65F18080B28F66F" disk="1" />
+				<disk md5="FC030048F445629348A3ED9215462C2F" disk="2" status="V" />
+				<disk md5="AEAF6F599443C3A7BEDF32F4CF2A555C" disk="3" status="V" />
+				<disk md5="C8AC7904C2163E44AA5F81D5739F7595" disk="4" status="V" />
+				<disk md5="8242FCCE4444E285033ABA3455F4DF13" disk="5" status="V" />
+				<disk md5="8E38BE848F258EBD4393C9F9BFBAE14B" disk="6" status="V" />
+			</media>
+		</release>
+		<release year="1992" version="1.2" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="C0967564482726C732D2D6A3A9C455D1" disk="1" media="720K" />
+				<disk md5="10FF9904AAAB462EFA82D346A906F97F" disk="2" />
+				<disk md5="5A45C48CCA01C7F5A205D536B4B12443" disk="3" />
+				<disk md5="21B863610AC6746408E81C7D732B5CA3" disk="4" />
+				<disk md5="430D1C9279C1EE872001E416D54B4D4F" disk="5" />
+			</media>
+		</release>
+	</title>
+	<title name="Space Adventure" publisher="Knowledge Adventure, Inc.">
+		<release year="1992">
+			<media media="720K" status="V">
+				<disk md5="9527E64BF4AE7645F4B1B0783BA16223" disk="1" />
+				<disk md5="57F4E6C38EBB252749E3976CDE011582" disk="2" />
+				<disk md5="3FA72CB5C7DF42712FB6E08DA89EF5DC" disk="3" />
+				<disk md5="4AFB6C53B24BE71F4B78EBA2E4C146BB" disk="4" />
+				<disk md5="52E3186299E8B054D351083C9D780539" disk="5" />
+				<disk md5="B5DFA5D04F8897679E1E08792E400475" disk="6" />
+				<disk md5="521B66E7A6B099A8B53A51B65FE383BC" disk="7" />
+				<disk md5="9F4771859EDD0C5779E9553E72576004" disk="8" />
+			</media>
+		</release>
+	</title>
+	<title name="Bush Buck: Global Treasure Hunter" publisher="PC Globe, Inc.">
+		<release year="1991">
+			<media media="360K" status="V">
+				<disk md5="86FD35DB4387860199B318E360BEF3A7" disk="1" />
+				<disk md5="18D63B6385CF7326E9C746681A6871AB" disk="2" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="CBC52E5302E1CB8C107B9E4EDFEEF152" />
+			</media>
+		</release>
+	</title>
+	<title name="Transport Tycoon" publisher="MicroProse Software, Inc.">
+		<release year="1994" version="1.06.011">
+			<media media="1.44M" status="V">
+				<disk md5="BF66B13D910971D0C078F24720F7F56F" disk="1" />
+				<disk md5="6FB953E0B67974B61F0D09A0EAA6F599" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Joan of Arc: Siege and the Sword" publisher="Brøderbund Software, Inc.">
+		<release year="1989" version="1.0">
+			<media media="360K" status="V">
+				<disk md5="1AEA5E4233464B92F0E2005428C0EFF1" disk="A" />
+				<disk md5="A42274AEF4E78DC944984B98DD240316" disk="B" />
+				<disk md5="CC8E5C1F66A0F45B975E47039B11D538" disk="C" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="536FF7CAF4593565435B35BABBF84318" disk="A" />
+				<disk md5="F0D15DFB2EAE9BAC6A78AC6DBB19AAC1" disk="B &amp; C" />
 			</media>
 		</release>
 	</title>
