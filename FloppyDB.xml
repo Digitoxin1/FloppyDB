@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root version="20261001.01">
+<root version="20261011.01">
 	<languages>
 		<language code="En" name="English" />
 		<language code="Fr" name="French" />
@@ -257,6 +257,15 @@
 				<disk md5="C215CD7C28EE1F6738937C5301ED0713" disk="5" />
 			</media>
 		</release>
+		<release year="1994" version="1.1, Int. 11.3.94">
+			<media media="1.44M" status="V">
+				<disk md5="997B421DF28B9AE6F9AD8E87E6188867" disk="1" />
+				<disk md5="53A0B76731A5893C540D4280F9A46C78" disk="2" />
+				<disk md5="14C3F6DD92528909E5E4DD98E23480A9" disk="3" />
+				<disk md5="D14041B4B3C25BC1C2BD368218C1532D" disk="4" />
+				<disk md5="3C596EB659F55BFCBF51593BE992A653" disk="5" />
+			</media>
+		</release>
 		<release year="1995" version="1.0" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="U" tgod="41">
 				<disk md5="0CADC2EF9182C0A787F3208C7FACA016" disk="1" />
@@ -267,7 +276,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Aces of the Deep: Expansion Disk" publisher="Sierra On-Line, Inc." mobyGamesId="10053">
+	<title name="Aces of the Deep: Expansion Disk" publisher="Sierra On-Line, Inc." addon="1" mobyGamesId="10053">
 		<release year="1995" version="1.0" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="U" tgod="2772">
 				<disk md5="722C47F0AD06144D2B79F21BBBFE80EB" />
@@ -328,7 +337,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Aces of the Pacific: World War II: 1946" publisher="Sierra On-Line, Inc." mobyGamesId="1420">
+	<title name="Aces of the Pacific: World War II: 1946" publisher="Sierra On-Line, Inc." addon="1" mobyGamesId="1420">
 		<release year="1992" version="1.0" int="11.16.92">
 			<media media="1.2M" status="U" tgod="1054">
 				<disk md5="ECC5EBE23F9E43474947CD1D63490BC2" />
@@ -451,14 +460,14 @@
 		</release>
 	</title>
 	<title name="Adventure in Serenia" publisher="IBM" mobyGamesId="1761">
-		<release year="1982" os="PC Booter">
+		<release year="1982" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="BF5B86FDE928E56898882075BA3B7A6C" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
 	</title>
 	<title name="Agent U.S.A." publisher="Scholastic, Inc." mobyGamesId="8950">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="5BBD3E52B413EE7F77B0EDBFE0EC2744" cp="Key Disk" />
 			</media>
@@ -575,7 +584,7 @@
 		</release>	
 	</title>
 	<title name="Alley Cat" publisher="IBM" mobyGamesId="190">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="52AFA3E879ECF379993B8A03BD6B33D7" cp="Key Disk" />
 			</media>
@@ -724,7 +733,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Alone in the Dark 2: Secret Doors Bonus Disk" publisher="I•Motion, Inc." mobyGamesId="907">
+	<title name="Alone in the Dark 2: Secret Doors Bonus Disk" publisher="I•Motion, Inc." addon="1" mobyGamesId="907">
 		<release year="1994">
 			<media media="1.44M" status="U">
 				<disk md5="C1958499CFFF8CFA8170F4D937D7F670" />
@@ -843,7 +852,7 @@
 		</release>
 	</title>
 	<title name="Amnesia" publisher="Electronic Arts, Inc." mobyGamesId="1775">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="C86078B87BC319274F77F754BC90D3EC" disk="1" cp="Electronic Arts IBM Interlock" />
 				<disk md5="411A37A4350AD597155E67C7098E1B00" disk="2" />
@@ -880,7 +889,7 @@
 		</release>
 	</title>
 	<title name="Apple Panic" publisher="Brøderbund Software, Inc." mobyGamesId="17904">
-		<release year="1982" os="PC Booter">
+		<release year="1982" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="D32C72178FCBED6A03D12ABB0F67F769" cp="Key Disk" />
 			</media>
@@ -961,7 +970,7 @@
 		</release>
 	</title>
 	<title name="Archon: The Light and the Dark" publisher="Electronic Arts, Inc." mobyGamesId="73">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="C66C956DD9E3FBF42244168AB45AEC16" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -1146,7 +1155,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="A-Train Construction Set" publisher="Maxis Software Inc." mobyGamesId="15155">
+	<title name="A-Train Construction Set" publisher="Maxis Software Inc." addon="1" mobyGamesId="15155">
 		<release year="1993" version="1.00">
 			<media media="1.44M" status="V" tgod="126,1219">
 				<disk md5="FE9E7ED94582CC865F40FAB748756988" />
@@ -1199,6 +1208,12 @@
 				<disk md5="B85BF5C42583D89CE8CD0472AA1FB265" disk="C" />
 				<disk md5="508E82CB820C5815632114527AE691C4" disk="D" />
 				<disk md5="CF1C326400D89A497B7BAE7E3ECA2BD5" disk="E" />
+			</media>
+			<media media="1.44M" status="V">
+				<disk md5="84F41C6AAB4D3A142049F201B87EDE91" disk="A" />
+				<disk md5="FC8DF0A5DA6CE9747F6F647117F1CBB0" disk="B" />
+				<disk md5="661F184B425032ED6ECC9C4FFD5E43C4" disk="C" />
+				<disk md5="B74F851460FB5CC6A64B9098DBA59CEC" disk="D" />
 			</media>
 		</release>
 		<release year="1992" region="EU" language="En,Fr,De">
@@ -1268,7 +1283,7 @@
 		</release>
 	</title>
 	<title name="Balance of Power: The 1990 Edition" publisher="Mindscape, Inc." mobyGamesId="260">
-		<release year="1989" os="Windows 2.1">
+		<release year="1989" platform="Windows 2.1">
 			<media media="360K" status="U">
 				<disk md5="018AFA09DD51DD37C766C608A0DE13C2" disk="Disk 1 - Setup" />
 				<disk md5="1D2992D334C0A9BDD3C26C7CB70048B2" disk="Disk 2 - Build" />
@@ -1560,7 +1575,7 @@
 		</release>
 	</title>
 	<title name="Battlezone" publisher="Atarisoft" mobyGamesId="360">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="00053F53E7E5CDCA322FF2DA957873C6" />
 			</media>
@@ -1574,7 +1589,7 @@
 		</release>
 	</title>
 	<title name="Below the Root" publisher="Windham Classics Corp." mobyGamesId="602">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="A8A6437B63FF07774720128FF69BD6ED" cp="Key Disk" />
 			</media>
@@ -1886,7 +1901,7 @@
 		</release>
 	</title>
 	<title name="Boppie's Great Word Chase" publisher="DLM, Inc." mobyGamesId="121007">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="5C5A3E9DCF9ECFF752A88EBA30140E65" />
 			</media>
@@ -1903,13 +1918,13 @@
 		</release>
 	</title>
 	<title name="Borrowed Time" publisher="Activision, Inc." mobyGamesId="9382">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="94CCA6AC7B642C45D6A5FA6953AA91FE" cp="Key Disk" />
 			</media>
 		</release>
 		<release name="Time to Die" publisher="Mastertronic, Inc." year="1989">
-			<media media="320K" status="V" os="PC Booter">
+			<media media="320K" status="V" platform="PC Booter">
 				<disk md5="6EF22A9E6F947A5ECA6A6958F67478E9" />
 			</media>
 		</release>
@@ -1955,7 +1970,7 @@
 		</release>
 	</title>
 	<title name="Bruce Lee" publisher="Datasoft, Inc." mobyGamesId="191">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="F190E89473B96BA5D32A9068A775DDB1" cp="Key Disk" />
 			</media>
@@ -2052,7 +2067,7 @@
 		</release>
 	</title>
 	<title name="BurgerTime" publisher="Mattel Electronics" mobyGamesId="467">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="7FFEEC8C64F5ED5FC8DF432DC5072B8C" cp="Key Disk" />
 			</media>
@@ -2072,7 +2087,7 @@
 		</release>
 	</title>
 	<title name="Buzzard Bait" publisher="Sirius Software, Inc." mobyGamesId="54619">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="1207B7FAAC3D78EC23624B0B3FAB10A8" />
 			</media>
@@ -2285,14 +2300,14 @@
 		</release>
 	</title>
 	<title name="Castle of the Winds I: A Question of Vengeance" publisher="B&amp;N Companies, Inc." mobyGamesId="59937">
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="720K" status="V" tgod="2738">
 				<disk md5="82C5FB1A84EC0F2388A03DA4162929AE" />
 			</media>
 		</release>
 	</title>
 	<title name="Castle of the Winds II: Lifthransir's Bane" publisher="B&amp;N Companies, Inc." mobyGamesId="59938">
-		<release year="1994" version="1.1A" os="Windows 3.1">
+		<release year="1994" version="1.1A" platform="Windows 3.1">
 			<media media="720K" status="V">
 				<disk md5="5ECF06DA8CB0B765A9A0F9EEF39D1238" />
 			</media>
@@ -2344,7 +2359,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Castles: The Northern Campaign" publisher="Interplay Productions, Inc." mobyGamesId="816">
+	<title name="Castles: The Northern Campaign" publisher="Interplay Productions, Inc." addon="1" mobyGamesId="816">
 		<release year="1991" version="1.01">
 			<media media="1.2M" status="U" tgod="803">
 				<disk md5="2AF9AEAB130D398CF8F6077299378FF3" />
@@ -2365,7 +2380,7 @@
 		</release>
 	</title>
 	<title name="Centipede" publisher="Atarisoft" mobyGamesId="141">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="D052D14C0E96563A2F765F198E25ED35" cp="Non-standard Sector Sizes" />
 			</media>
@@ -2441,7 +2456,7 @@
 		</release>
 	</title>
 	<title name="Changes" publisher="Tiger Electronics, Ltd">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="A3682D76FCAA3D06BA1F81FC68A36311" cp="Key Disk" />
 			</media>
@@ -2675,7 +2690,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Comanche: Maximum Overkill: Mission Disk 1" publisher="NovaLogic, Inc." mobyGamesId="12557">
+	<title name="Comanche: Maximum Overkill: Mission Disk 1" publisher="NovaLogic, Inc." addon="1" mobyGamesId="12557">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="1760">
 				<disk md5="664989E3B41A537B6EA04FBA0CADD7C0" disk="1" />
@@ -2700,7 +2715,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Comanche: Over the Edge" publisher="NovaLogic, Inc." mobyGamesId="12559">
+	<title name="Comanche: Over the Edge" publisher="NovaLogic, Inc." addon="1" mobyGamesId="12559">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="1759">
 				<disk md5="6D5138BD40AC91486637471C91B776BA" disk="1" />
@@ -2791,7 +2806,7 @@
 		</release>
 	</title>
 	<title name="Commando" publisher="Data East USA, Inc." mobyGamesId="1618">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="50445BE8EA98C0672D843A0CC72B743B" cp="Key Disk" />
 			</media>
@@ -3101,12 +3116,12 @@
 		</release>
 	</title>
 	<title name="Crossfire" publisher="Sierra On-Line, Inc." mobyGamesId="75">
-		<release year="1982" system="CGA" os="PC Booter">
+		<release year="1982" variation="CGA" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="D81DB6F4048A518EAA2C3AD2DB341FCC" cp="On-Line Systems" />
 			</media>
 		</release>
-		<release year="1984-06" system="PCjr" os="PC Booter">
+		<release year="1984-06" variation="PCjr" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="A006604FD6711B374A9D485ED55D3A7B" cp="Formaster Copylock v1/v2.0" />
 			</media>
@@ -3120,7 +3135,7 @@
 		</release>
 	</title>
 	<title name="Crypto Cube" publisher="DesignWare, Inc." mobyGamesId="2139">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="A27F02D2590AB713B3DAD1AD0B65D3D6" cp="Key Disk" />
 			</media>
@@ -3177,7 +3192,7 @@
 		</release>
 	</title>
 	<title name="Cutthroats" publisher="Infocom, Inc." mobyGamesId="87">
-		<release year="1984" version="r23" serial="840809" int="3D" os="PC Booter">
+		<release year="1984" version="r23" serial="840809" int="3D" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="7CFE9860FD997A99E030607474EA3895" cp="Non-standard Sector Sizes" />
 			</media>
@@ -3208,7 +3223,7 @@
 		</release>
 	</title>
 	<title name="Cyborg" publisher="Softsmith Corporation" mobyGamesId="3944">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="B9ADF844E48B830F68AB3AD99CED0A81" />
 			</media>
@@ -3222,14 +3237,14 @@
 		</release>
 	</title>
 	<title name="Dare to Dream" publisher="GT Interactive Software Corp." mobyGamesId="7086">
-		<release year="1993" os="Windows 3.1">
+		<release year="1993" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="3B81EBE453274D474E0C7E706F72C6E2" />
 			</media>
 		</release>
 	</title>
 	<title name="Dare to Dream 2" publisher="B&amp;N Companies, Inc." mobyGamesId="38547">
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="FB50CB4E90E043D0011298B0B67A2036" />
 			</media>
@@ -3398,17 +3413,17 @@
 		</release>
 	</title>
 	<title name="Deadline" publisher="Infocom, Inc." mobyGamesId="30">
-		<release year="1982" version="r22" serial="820809" os="PC Booter">
+		<release year="1982" version="r22" serial="820809" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="0F4C642BD11A7A682C4940CB1DB1301D" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1982" version="r26" serial="821108" int="3A" os="PC Booter">
+		<release year="1982" version="r26" serial="821108" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="7903BA78E911DF2048DF59C872D48249" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1983" version="r27" serial="831005" int="3B" os="PC Booter">
+		<release year="1983" version="r27" serial="831005" int="3B" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="E861DA1F03DEC84480949045CE0FD599" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -3461,14 +3476,14 @@
 		</release>
 	</title>
 	<title name="Decision in the Desert" publisher="MicroProse Software, Inc." mobyGamesId="1711">
-		<release year="1985" version="419.02" os="PC Booter">
+		<release year="1985" version="419.02" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="311F8EE9812BC3576FAC37A86132DD62" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
 		</release>
 	</title>
 	<title name="Defender" publisher="Atarisoft" mobyGamesId="140">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="8F462AC646D7C34D79FFD3D0B2F76734" cp="Atarisoft" />
 			</media>
@@ -3489,7 +3504,7 @@
 		</release>
 	</title>
 	<title name="Déjà Vu I &amp; II: The Casebooks of Ace Harding" publisher="Mindscape, Inc." mobyGamesId="4258">
-		<release year="1993" os="Windows 3.1">
+		<release year="1993" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="3351">
 				<disk md5="0983D5FCFDA9DEAD341AC702BFAA6D56" disk="1" />
 				<disk md5="BC6F8664DA7B6E76D53E28B75347DF96" disk="2" />
@@ -3515,16 +3530,8 @@
 			</media>
 		</release>
 	</title>
-	<title name="Deluxe Scrabble for Windows" publisher="Virgin Games, Inc." mobyGamesId="11076">
-		<release year="1992" os="Windows 3.1">
-			<media media="1.2M" status="U" tgod="1917">
-				<disk md5="92F3FDEBD246D890D472BBA0232EC18A" disk="1" />
-				<disk md5="01D1918C3CA35376722D3F4DE3F9052A" disk="2" />
-			</media>
-		</release>
-	</title>
 	<title name="Demon Attack" publisher="Tandy Corporation" mobyGamesId="9448">
-		<release year="1984" version="01.00.00" os="PC Booter">
+		<release year="1984" version="01.00.00" platform="PC Booter">
 			<media media="160K" status="V" tgod="3358,3420">
 				<disk md5="34EBACE144F78AB50AB588C7D08EE982" md5_alt="CF60874B91B233E2559F05699191F657" />
 			</media>
@@ -3539,7 +3546,7 @@
 		</release>
 	</title>
 	<title name="The Demon's Forge" publisher="Mastertronic, Inc." mobyGamesId="1795">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="CB2F3EF07FC4DD9B14E9ED067928E65E" cp="Key Disk" />
 			</media>
@@ -3632,17 +3639,17 @@
 		</release>
 	</title>
 	<title name="Dig Dug" publisher="Atarisoft" mobyGamesId="139">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="A3B314E899B75E206E76E6EDBCD26956" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1985" os="PC Booter" publisher="Datasoft, Inc.">
+		<release year="1985" platform="PC Booter" publisher="Datasoft, Inc.">
 			<media media="180K" status="V">
 				<disk md5="F73BB0C1EEAAB880C630B766DBA9AD7D" cp="Key Disk" />
 			</media>
 		</release>
-		<release year="1986" os="PC Booter" publisher="Thunder Mountain">
+		<release year="1986" platform="PC Booter" publisher="Thunder Mountain">
 			<media media="360K" status="V">
 				<disk md5="992B9DEA51839965CF9180E5B801A789" cp="Key Disk" />
 			</media>
@@ -3736,7 +3743,7 @@
 		</release>
 	</title>
 	<title name="Donald Duck's Playground" publisher="Sierra On-Line, Inc." mobyGamesId="3491">
-		<release year="1985" version="1.0Q" int="2.001" os="PC Booter">
+		<release year="1985" version="1.0Q" int="2.001" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="D6B797CFA1F249E3DADE2881CD68686D" cp="Softguard Superlok v2" />
 			</media>
@@ -3750,7 +3757,7 @@
 		</release>
 	</title>
 	<title name="Donkey Kong" publisher="Atarisoft" mobyGamesId="574">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="8C5FD37FDC0F37526A4606277FD2FEE7" cp="Non-standard Sector Sizes" />
 			</media>
@@ -4184,7 +4191,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dunjonquest: Curse of Ra" publisher="Epyx, Inc." mobyGamesId="2416">
+	<title name="Dunjonquest: Curse of Ra" publisher="Epyx, Inc." addon="1" mobyGamesId="2416">
 		<release year="1982">
 			<media media="160K" status="U">
 				<disk md5="EBB4CF3BBBAE8DE67181DFCBC6FE5DFD" />
@@ -4198,7 +4205,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dunjonquest: Upper Reaches of Apshai" publisher="Automated Simulations, Inc." mobyGamesId="23892">
+	<title name="Dunjonquest: Upper Reaches of Apshai" publisher="Automated Simulations, Inc." addon="1" mobyGamesId="23892">
 		<release year="1982">
 			<media media="160K" status="U">
 				<disk md5="5AA4F2A9EC5ED568B4D5A21DC39FB1D3" />
@@ -4469,7 +4476,7 @@
 				<disk md5="79B4FAACEB6F34D9AD3A8A53D2676C5A" disk="2" />
 			</media>
 		</release>
-		<release year="1993" os="Windows 3.1">
+		<release year="1993" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="28">
 				<disk md5="1D7F5CB177C9C774A8FB83E746CB5ABA" disk="1" />
 				<disk md5="B7934372C7A2C9C84337EDFD1555403F" disk="2" />
@@ -4482,7 +4489,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Empire Deluxe Scenarios" publisher="New World Computing, Inc." mobyGamesId="870">
+	<title name="Empire Deluxe Scenarios" publisher="New World Computing, Inc." addon="1" mobyGamesId="870">
 		<release year="1993">
 			<media media="1.44M" status="U" tgod="2922">
 				<disk md5="A032E46679A95AE703488B48D3D3C02A" />
@@ -4495,17 +4502,17 @@
 		</release>
 	</title>
 	<title name="Enchanter" publisher="Infocom, Inc." mobyGamesId="56">
-		<release year="1983" version="r10" serial="830810" int="3A" os="PC Booter">
+		<release year="1983" version="r10" serial="830810" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="C7CF36F06F02777F1FE49F69CD63413E" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1983" version="r16" serial="831118" int="3B" os="PC Booter">
+		<release year="1983" version="r16" serial="831118" int="3B" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="3FCAE82C72F3748D22D248C275E40D1B" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r16" serial="831118" int="3D" os="PC Booter">
+		<release year="1983" version="r16" serial="831118" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="42CE8B8F9C5EC6DA5D4BBD9D056DB78E" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -4823,12 +4830,12 @@
 		</release>
 	</title>
 	<title name="F-15 Strike Eagle" publisher="MicroProse Software, Inc." mobyGamesId="225">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="CF614A0E5D16E9DEF245C9559DE8D7A1" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
 		</release>
-		<release year="1985" version="402.01" os="PC Booter">
+		<release year="1985" version="402.01" platform="PC Booter">
 			<media media="720K" status="V">
 				<disk md5="CECB91EABCA7E4DB5452BE52536A118C" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
@@ -4856,7 +4863,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="F-15 Strike Eagle II: Operation Desert Storm" publisher="MicroProse Software, Inc." mobyGamesId="4430">
+	<title name="F-15 Strike Eagle II: Operation Desert Storm" publisher="MicroProse Software, Inc." addon="1" mobyGamesId="4430">
 		<release year="1991">
 			<media media="360K" status="V">
 				<disk md5="020067C8EC95B1C158907D0649400DAF" />
@@ -5083,7 +5090,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Falcon 3.0: Operation: Fighting Tiger" publisher="Spectrum Holobyte, Inc." mobyGamesId="2426">
+	<title name="Falcon 3.0: Operation: Fighting Tiger" publisher="Spectrum Holobyte, Inc." addon="1" mobyGamesId="2426">
 		<release year="1992">
 			<media media="1.44M" status="U" tgod="2196">
 				<disk md5="75C6F3B7105A61DDA53666373197754A" disk="1" />
@@ -5319,7 +5326,7 @@
 		</release>
 	</title>
 	<title name="Five-A-Side Soccer" publisher="Mastertronic, Inc." mobyGamesId="1759">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="E2C295F7B7109DFBB56DE0370AE860C6" />
 			</media>
@@ -5343,7 +5350,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Fleet Defender Scenario: F-14 Tomcat" publisher="MicroProse Software, Inc." mobyGamesId="57777">
+	<title name="Fleet Defender Scenario: F-14 Tomcat" publisher="MicroProse Software, Inc." addon="1" mobyGamesId="57777">
 		<release year="1994">
 			<media media="1.44M" status="U">
 				<disk md5="487F234E05151D05E1D471A57B4D5062" disk="1" />
@@ -5511,7 +5518,7 @@
 		</release>
 	</title>
 	<title name="Frogger" publisher="Sierra On-Line, Inc." mobyGamesId="1540">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="3E5ED9CEF6DF27156CA0032227C1D976" cp="On-Line Systems" />
 			</media>
@@ -5527,7 +5534,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Front Page Sports: Baseball '94: Legends and Stadiums" publisher="Sierra On-Line, Inc." mobyGamesId="168618">
+	<title name="Front Page Sports: Baseball '94: Legends and Stadiums" publisher="Sierra On-Line, Inc." addon="1" mobyGamesId="168618">
 		<release year="1995" version="1.0" int="2.3.95">
 			<media media="1.44M" status="U">
 				<disk md5="F0CCC5EF4511DD008104A87883655300" disk="1" fixed="1" />
@@ -5716,12 +5723,12 @@
 		</release>
 	</title>
 	<title name="Galaxian" publisher="Atarisoft" mobyGamesId="137">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="C58C4B4AB254D23D0C413BB8A2EF6BF4" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1986" os="PC Booter" publisher="Thunder Mountain">
+		<release year="1986" platform="PC Booter" publisher="Thunder Mountain">
 			<media media="160K" status="V">
 				<disk md5="529B5886A64BF5F826C824F366A9275F" />
 			</media>
@@ -5751,7 +5758,7 @@
 		</release>
 	</title>
 	<title name="Gamma Force in Pit of a Thousand Screams" publisher="Infocom, Inc." mobyGamesId="1693">
-		<release year="1988" os="PC Booter">
+		<release year="1988" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="B9DFA93A37376621EC09AA4CE3684781" cp="Key Disk" />
 			</media>
@@ -5861,7 +5868,7 @@
 		</release>
 	</title>
 	<title name="Ghostbusters" publisher="Activision, Inc." mobyGamesId="2619">
-		<release year="1985" system="Tandy+PCjr" os="PC Booter">
+		<release year="1985" variation="Tandy+PCjr" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="210AD2E79C9A364BB55E4C87F63A4BC7" cp="Activision sector overlap" />
 			</media>
@@ -6146,21 +6153,21 @@
 			</media>
 		</release>
 	</title>
-	<title name="Great Naval Battles: North Atlantic 1939-43: America in the Atlantic" publisher="Strategic Simulations, Inc." mobyGamesId="49021">
+	<title name="Great Naval Battles: North Atlantic 1939-43: America in the Atlantic" publisher="Strategic Simulations, Inc." addon="1" mobyGamesId="49021">
 		<release year="1993" version="1.2">
 			<media media="720K" status="V" tgod="2870">
 				<disk md5="014BAB911DB4E926C5E081B171ADA973" />
 			</media>
 		</release>
 	</title>
-	<title name="Great Naval Battles: North Atlantic 1939-43: Scenario Builder" publisher="Strategic Simulations, Inc." mobyGamesId="49022">
+	<title name="Great Naval Battles: North Atlantic 1939-43: Scenario Builder" publisher="Strategic Simulations, Inc." addon="1" mobyGamesId="49022">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V" tgod="2872">
 				<disk md5="6A8F8C6FDCDF018DBE4D13C686B4E43E" />
 			</media>
 		</release>
 	</title>
-	<title name="Great Naval Battles: North Atlantic 1939-43: Super Ships of the Atlantic" publisher="Strategic Simulations, Inc." mobyGamesId="37299">
+	<title name="Great Naval Battles: North Atlantic 1939-43: Super Ships of the Atlantic" publisher="Strategic Simulations, Inc." addon="1" mobyGamesId="37299">
 		<release year="1993" version="1.2">
 			<media media="720K" status="V" tgod="2871">
 				<disk md5="A291D5F36F4F2B0EF2B1ED9E92C75076" />
@@ -6168,7 +6175,7 @@
 		</release>
 	</title>
 	<title name="Gremlins" publisher="Atarisoft" mobyGamesId="5981">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="39C4275E5B1C75397009DCC58BFCF2B6" cp="Non-standard Sector Sizes" />
 			</media>
@@ -6280,7 +6287,7 @@
 		</release>
 	</title>
 	<title name="Hacker II: The Doomsday Papers" publisher="Activision, Inc." mobyGamesId="2166">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="950CE0A2235504760117571C52EFF43C" />
 			</media>
@@ -6295,7 +6302,7 @@
 		</release>
 	</title>
 	<title name="Hard Hat Mack" publisher="Electronic Arts, Inc." mobyGamesId="577">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="4E5EDC6815F73C4E235CF6A754AF7246" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -6343,14 +6350,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="HardBall III: Big League Ballpark Disk" publisher="Accolade, Inc." mobyGamesId="75683">
+	<title name="HardBall III: Big League Ballpark Disk" publisher="Accolade, Inc." addon="1" mobyGamesId="75683">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="67DEE0281EC5D6D9DD1FA37C7FC85499" />
 			</media>
 		</release>
 	</title>
-	<title name="HardBall III: MLBPA Players Disk" publisher="Accolade, Inc." mobyGamesId="34586">
+	<title name="HardBall III: MLBPA Players Disk" publisher="Accolade, Inc." addon="1" mobyGamesId="34586">
 		<release year="1992">
 			<media media="720K" status="V">
 				<disk md5="FD1085AC506D6A9CE7F1B61AA4AFB6A6" />
@@ -6502,7 +6509,7 @@
 		</release>
 	</title>
 	<title name="Hellcat Ace" publisher="MicroProse Software, Inc." mobyGamesId="9879">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="076D7689B4A217A8D7BA77628DB7423F" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
@@ -6743,7 +6750,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Hornet: Naval Strike Fighter" publisher="Spectrum Holobyte, Inc." mobyGamesId="2642">
+	<title name="Hornet: Naval Strike Fighter" publisher="Spectrum Holobyte, Inc." addon="1" mobyGamesId="2642">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="E132B8C03873320F9B7857188A9C0204" disk="1" />
@@ -6785,14 +6792,14 @@
 		</release>
 	</title>
 	<title name="Hoyle Classic Games for Laptops" publisher="Sierra On-Line, Inc." mobyGamesId="28770">
-		<release year="1995" version="1.0" int="10.25.95" os="Windows 3.1">
+		<release year="1995" version="1.0" int="10.25.95" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="963D5375E37AAB99CDCE3D4BBE4F5219" disk="1" />
 				<disk md5="58D7ED51256BDEC5A673561CC46D2798" disk="2" />
 				<disk md5="008F05CB0F98907CB1B110560BBFFAB9" disk="3" />
 			</media>
 		</release>
-		<release year="1995" version="1.0" int="11.22.95" os="Windows 3.1">
+		<release year="1995" version="1.0" int="11.22.95" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="7519A275B891FF11361D44DD0FD55518" disk="1" />
 				<disk md5="10E481CF1C018F672E716F1603612274" disk="2" />
@@ -6898,7 +6905,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Humans: Insult to Injury" publisher="GameTek, Inc." mobyGamesId="28548">
+	<title name="The Humans: Insult to Injury" publisher="GameTek, Inc." addon="1" mobyGamesId="28548">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="C0EB1DAB1A08D7D5C704A87A7F8F0C87" disk="Data Disk 1" />
@@ -6934,13 +6941,13 @@
 		</release>
 	</title>
 	<title name="Ikari Warriors" publisher="Data East Corporation" mobyGamesId="6739">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="6DBD21F703FBF5F9444411A3AF5B321F" disk="CGA Disk" cp="Quicksilver Sector Overlap" />
 				<disk md5="028EDB70494F207AF90B3D400A850E37" disk="EGA Disk" cp="Quicksilver Sector Overlap" />
 			</media>
 		</release>
-		<release year="1987" os="PC Booter" system="Tandy">
+		<release year="1987" platform="PC Booter" variation="Tandy">
 			<media media="360K" status="V">
 				<disk md5="74E44DF8FF3975D520DBBA1526ADF47B" cp="Epyx sector overlap" />
 			</media>
@@ -7011,7 +7018,7 @@
 		</release>
 	</title>
 	<title name="In the Chips" publisher="Creative Software, Inc." mobyGamesId="65149">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F5624AD2FED39AE9066A1C3991D28EDF" cp="Key Disk" />
 			</media>
@@ -7062,7 +7069,7 @@
 		</release>
 	</title>
 	<title name="Inca" publisher="Hayden Software Co., Inc." mobyGamesId="65768">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="33A43C150F29D98FFC8601D1223C1360" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
@@ -7115,27 +7122,27 @@
 		</release>
 	</title>
 	<title name="Indiana Jones and his Desktop Adventures" publisher="LucasArts Entertainment Company LLC" mobyGamesId="1843">
-		<release year="1996" os="Windows 3.1">
+		<release year="1996" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="2C505B7EFA9999803763338EA914A991" />
 			</media>
 		</release>
-		<release year="1996" version="1.00" region="FR" os="Windows 3.1" publisher="Ubi Soft Entertainment Software">
+		<release year="1996" version="1.00" region="FR" platform="Windows 3.1" publisher="Ubi Soft Entertainment Software">
 			<media media="1.44M" status="U" tgod="2818">
 				<disk md5="B5FF11C0F1060C4B13335B0C0FA57FD7" />
 			</media>
 		</release>
-		<release year="1996" version="1.00" region="DE" os="Windows 3.1" publisher="Funsoft GmbH">
+		<release year="1996" version="1.00" region="DE" platform="Windows 3.1" publisher="Funsoft GmbH">
 			<media media="1.44M" status="U">
 				<disk md5="7EF1B98046942EDFAB0C9028DDD7F51F" fixed="1" />
 			</media>
 		</release>
-		<release year="1996" version="1.00" region="ES" os="Windows 3.1" publisher="Erbe Software, S.A.">
+		<release year="1996" version="1.00" region="ES" platform="Windows 3.1" publisher="Erbe Software, S.A.">
 			<media media="1.44M" status="U" tgod="2819">
 				<disk md5="81962117D549A8292FC33CFAB5A6D197" />
 			</media>
 		</release>
-		<release year="1996" version="1.00" region="TW" os="Windows 3.1" publisher="Unalis Corporation">
+		<release year="1996" version="1.00" region="TW" platform="Windows 3.1" publisher="Unalis Corporation">
 			<media media="1.44M" status="U">
 				<disk md5="9038E80C43AFC95ED8E82A099B7DEBF5" />
 			</media>
@@ -7385,7 +7392,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="IndyCar Circuits Expansion Pack" publisher="Papyrus Publishing, Inc." mobyGamesId="37361">
+	<title name="IndyCar Circuits Expansion Pack" publisher="Papyrus Publishing, Inc." addon="1" mobyGamesId="37361">
 		<release year="1994" version="1.05">
 			<media media="1.44M" status="V" tgod="9">
 				<disk md5="713D55D2F6C781C249D11644CBDFAE92" disk="1" />
@@ -7445,7 +7452,7 @@
 		</release>
 	</title>
 	<title name="Infidel" publisher="Infocom, Inc." mobyGamesId="62">
-		<release year="1983" version="r22" serial="830916" int="3A" os="PC Booter">
+		<release year="1983" version="r22" serial="830916" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="5AD2F10843CD724B8526E282AF121207" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -7455,7 +7462,7 @@
 				<disk md5="DE1BF73E674A97F1CE213CFD4366A4FD" />
 			</media>
 		</release>
-		<release year="1983" version="r22" serial="830916" int="3D" os="PC Booter">
+		<release year="1983" version="r22" serial="830916" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="EE641D2B3C57E855DB7F2D96E6FA1265" cp="Non-standard Sector Sizes" />
 			</media>
@@ -7646,7 +7653,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Jack Nicklaus presents The Major Championship Courses of 1989" publisher="Accolade, Inc." mobyGamesId="45334">
+	<title name="Jack Nicklaus presents The Major Championship Courses of 1989" publisher="Accolade, Inc." addon="1" mobyGamesId="45334">
 		<release year="1989">
 			<media media="720K" status="V">
 				<disk md5="5761E12BAC065624D4E2A57F34CB13CE" />
@@ -7748,7 +7755,7 @@
 		</release>
 	</title>
 	<title name="Jet" publisher="subLOGIC" mobyGamesId="1856">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="E024CA0F574E11E64B8A44116C568534" cp="Key Disk" />
 			</media>
@@ -7806,7 +7813,7 @@
 		</release>
 	</title>
 	<title name="John Elway's Quarterback" publisher="Melbourne House" mobyGamesId="8017">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="DD74985FCE2C25F9D1E6268C8BEF5DC2" />
 			</media>
@@ -7833,7 +7840,7 @@
 		</release>
 	</title>
 	<title name="Jonah Barrington's Squash" publisher="Mastertronic, Inc." mobyGamesId="15191">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V" tgod="2028">
 				<disk md5="07848249A1DE8CB55DE7CEDBA3519301" />
 			</media>
@@ -7899,26 +7906,26 @@
 		</release>
 	</title>
 	<title name="Julius Erving and Larry Bird Go One-on-One" publisher="Electronic Arts, Inc." mobyGamesId="488">
-		<release year="1984" os="PC Booter" publisher="Tandy Corporation">
+		<release year="1984" platform="PC Booter" publisher="Tandy Corporation">
 			<media media="180K" status="V">
 				<disk md5="610D58DEF208C29B130E480F0FF6E830" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="02ACE190367DBB1A0546F4941854244F" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
 	</title>
 	<title name="Jumpman" publisher="IBM" mobyGamesId="80">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="DDED8502B0ABAEE12C07D317568BE116" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="Jungle Hunt" publisher="Atarisoft" mobyGamesId="133">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="D6DB1092ABE42B5E1526155C2720C55A" cp="Non-standard Sector Sizes" />
 			</media>
@@ -8041,27 +8048,27 @@
 		</release>
 	</title>
 	<title name="King's Quest" publisher="Sierra On-Line, Inc." mobyGamesId="122">
-		<release year="1984" system="PCjr" publisher="IBM" os="PC Booter">
+		<release year="1984" variation="PCjr" publisher="IBM" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="8B5122D370FD264855EDBDC07BBDE871" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1984" system="CGA" os="PC Booter">
+		<release year="1984" variation="CGA" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="48A9CF0CC3A94BC8390AEF8B3433323F" cp="Formaster Copylock v1/v2.0" />
 			</media>
 		</release>
-		<release year="1984" system="CGA+RGB" os="PC Booter">
+		<release year="1984" variation="CGA+RGB" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="ECE2CCA00DEC4BB18ED341F8C2E7536D" cp="Formaster Copylock v2.2" />
 			</media>
 		</release>
-		<release year="1985" system="Tandy" version="01.01.00" publisher="Tandy Corporation" os="PC Booter">
+		<release year="1985" variation="Tandy" version="01.01.00" publisher="Tandy Corporation" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="CB6BC9B1B81E2F3A69AFF084318A62A1" cp="Sector ID Duplication" />
 			</media>
 		</release>
-		<release year="1985" system="Tandy+PCjr" os="PC Booter">
+		<release year="1985" variation="Tandy+PCjr" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="E9A951F2126CC663EEEF0CD5BB4575C7" cp="Sector ID Duplication" />
 			</media>
@@ -8119,19 +8126,19 @@
 		</release>
 	</title>
 	<title name="King's Quest II: Romancing the Throne" publisher="Sierra On-Line, Inc." mobyGamesId="123">
-		<release year="1985" version="1.0W" os="PC Booter">
+		<release year="1985" version="1.0W" platform="PC Booter">
 			<media media="360K" status="U">
 				<disk disk="1" />
 				<disk md5="95F13A90953292CA492C6370AEFD7AD7" disk="2" />
 			</media>
 		</release>
-		<release year="1985" version="1.1H" os="PC Booter">
+		<release year="1985" version="1.1H" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="81CFFA320F7B7E15DEC45F6CEFDE7F77" disk="1" cp="Softguard Superlok v2" />
 				<disk md5="9BE35324E698065B30B3DB6F1B6C52BC" disk="2" />
 			</media>
 		</release>
-		<release year="1985" version="01.00.00" publisher="Tandy Corporation" os="PC Booter">
+		<release year="1985" version="01.00.00" publisher="Tandy Corporation" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="06E3E8FC21EA8360D29B6CDC50C29BEA" disk="1" cp="Softguard Superlok v2" />
 				<disk md5="397F2AF89E4EDAF880900303EC8D5703" disk="2" />
@@ -8308,7 +8315,7 @@
 		</release>
 	</title>
 	<title name="King's Quest V: Absence Makes the Heart Go Yonder!" publisher="Sierra On-Line, Inc." mobyGamesId="130">
-		<release variation="16 Color" year="1990" version="0.000.054" int="11.15.90">
+		<release variation="16 Color" year="1990" version="0.000.055" int="11.15.90">
 			<media media="1.2M" status="V">
 				<disk md5="7966483C40FA2993EC4C2CBE1132E75C" disk="1" />
 				<disk md5="57583DABD4B992AE18BB1D58C725B595" disk="2" />
@@ -8563,7 +8570,7 @@
 		</release>
 	</title>
 	<title name="King's Quest VII: The Princeless Bride" publisher="Sierra On-Line, Inc." mobyGamesId="135">
-		<release year="1994" version="1.4" int="11.23.94" os="Windows 3.1">
+		<release year="1994" version="1.4" int="11.23.94" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="5F35E5CF338149A2810CDCFD1EB38752" disk="Startup / Disk 1" />
 			</media>
@@ -8578,7 +8585,7 @@
 		</release>
 	</title>
 	<title name="Klik &amp; Play" publisher="Maxis Software Inc." mobyGamesId="51146">
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="530">
 				<disk md5="F6F3ECF4A9CF94AA02882636EC93DC55" disk="1" />
 				<disk md5="1D1428FCE39D2D59BC6231F680976E54" disk="2" />
@@ -8630,7 +8637,7 @@
 		</release>
 	</title>
 	<title name="Kobayashi Naru" publisher="Mastertronic, Inc." mobyGamesId="27107">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V" tgod="2029">
 				<disk md5="2E5E009E7B39DA24F8A573428582A55B" />
 			</media>
@@ -8707,7 +8714,7 @@
 		</release>
 	</title>
 	<title name="Lane Mastodon vs. the Blubbermen" publisher="Infocom, Inc." mobyGamesId="1688">
-		<release year="1988" os="PC Booter">
+		<release year="1988" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="824B503ADD4EB73A1037CDEC227E4D9C" cp="Key Disk" />
 			</media>
@@ -8794,7 +8801,7 @@
 		</release>
 	</title>
 	<title name="Learning with Leeper" publisher="Sierra On-Line, Inc." mobyGamesId="56058">
-		<release year="1984" version="01.00.00" os="PC Booter" publisher="Tandy Corporation">
+		<release year="1984" version="01.00.00" platform="PC Booter" publisher="Tandy Corporation">
 			<media media="180K" status="U">
 				<disk md5="9ED9E36168A87B16A12819C74AC4DBC0" />
 			</media>
@@ -8886,7 +8893,7 @@
 		</release>
 	</title>
 	<title name="Legions" publisher="Mindscape, Inc." mobyGamesId="1701">
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="8A1B0BADE7D13DE3950D7349CED15226" disk="1" />
 				<disk md5="E697F8FC74FEAC78F8662656D083BD81" disk="2" />
@@ -9348,7 +9355,7 @@
 		</release>
 	</title>
 	<title name="Lightspeed" publisher="MicroProse Software, Inc." mobyGamesId="1681">
-		<release year="1990" version="461.01">
+		<release year="1990" version="461.02">
 			<media media="720K" status="U" tgod="1766">
 				<disk md5="F465C1BD6342664E8237A8A314154782" disk="A" />
 				<disk md5="25159B7485161C3535BB7E7CEDF1E363" disk="B" />
@@ -9878,7 +9885,7 @@
 				<disk md5="0B638D13AB1546AFC1070D3400E16360" disk="5" />
 			</media>
 		</release>
-		<release year="1994" version="1.01" int="8.25.94" os="Windows 3.1">
+		<release year="1994" version="1.01" int="8.25.94" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="ABB910B30AEBB34ECCD2B5ABAF01AFE4" disk="1" />
 				<disk md5="8B4CEA6859DBE498501FB52B80D37BA9" disk="2" />
@@ -9886,7 +9893,7 @@
 				<disk md5="4948E32BEDE8F5736C428BAB472F69B2" disk="4" />
 			</media>
 		</release>
-		<release year="1994" version="1.2" int="9.28.94" os="Windows 3.1">
+		<release year="1994" version="1.2" int="9.28.94" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="1681">
 				<disk md5="E7FB776F90AD6A3B7B609E72FB98AF02" disk="1" />
 				<disk md5="8AB85A2C6413524171CB598F78641521" disk="2" />
@@ -9971,7 +9978,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Loom: Roland Upgrade" publisher="Lucasfilm Games" mobyGamesId="176">
+	<title name="Loom: Roland Upgrade" publisher="Lucasfilm Games" addon="1" mobyGamesId="176">
 		<release year="1990" version="1.0">
 			<media media="360K" status="U" tgod="2270">
 				<disk md5="E494A85A3190945E5332B7A7842CE70A" />
@@ -10104,7 +10111,7 @@
 		</release>
 	</title>
 	<title name="Lost Tomb" publisher="Datasoft, Inc." mobyGamesId="59200">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="1860B495DA34A7246BDC0973C47A7E58" cp="Key Disk" />
 			</media>
@@ -10177,7 +10184,7 @@
 		</release>
 	</title>
 	<title name="M.U.L.E." publisher="IBM" mobyGamesId="9752">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="U">
 				<disk md5="89FAD20BB425E46D67FAD6105D27BED4" cp="Key Disk" />
 			</media>
@@ -10424,7 +10431,7 @@
 		</release>
 	</title>
 	<title name="Marble Madness" publisher="Electronic Arts, Inc." mobyGamesId="466">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="B9BEC5D5C421DC2D3CA4B573943EC03E" disk="1" cp="Electronic Arts IBM Interlock" />
 				<disk md5="C2AB076DA7EEB47EB7ED216BBBEB21B5" disk="2" />
@@ -10658,7 +10665,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mean 18: Famous Course Disk Vol. II" publisher="Accolade, Inc." mobyGamesId="69802">
+	<title name="Mean 18: Famous Course Disk Vol. II" publisher="Accolade, Inc." addon="1" mobyGamesId="69802">
 		<release year="1986">
 			<media media="360K" status="U">
 				<disk md5="B4DB40B88FB5732F6D94253B6665F047" fixed="1" />
@@ -10869,7 +10876,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Metaltech: EarthSiege: Speech Pack" publisher="Sierra On-Line, Inc." mobyGamesId="6382">
+	<title name="Metaltech: EarthSiege: Speech Pack" publisher="Sierra On-Line, Inc." addon="1" mobyGamesId="6382">
 		<release year="1994" version="1.0" int="10.24.94">
 			<media media="1.44M" status="V">
 				<disk md5="70D48B4190079D439BA9D4D1D446D245" disk="1" />
@@ -10880,7 +10887,7 @@
 		</release>
 	</title>
 	<title name="Metropolis" publisher="Arcadia Systems, Inc." mobyGamesId="7100">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="360K" status="V" tgod="3209">
 				<disk md5="FEDF3E2687F9F855C85F208ECB5564BC" disk="1" />
 				<disk md5="51745C08F8A2AAB374268B302DDF2487" disk="2" />
@@ -10965,14 +10972,14 @@
 				<disk md5="5A5CA812FFAA5FFD941E00B1AD261453" disk="2" />
 			</media>
 		</release>
-		<release system="Tandy" year="1985">
+		<release variation="Tandy" year="1985">
 			<media media="720K" status="V">
 				<disk md5="0E1B862F7FDBB33FC99B9543A7A7EDE0" cp="Softguard Superlok v2" />
 			</media>
 		</release>
 	</title>
 	<title name="MicroLeague Baseball" publisher="MicroLeague Multimedia, Inc." mobyGamesId="3951">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="6AEDDE5CB51E12FFBEBF80ACF81B5030" cp="Key Disk" />
 			</media>
@@ -11009,29 +11016,29 @@
 		</release>
 	</title>
 	<title name="Microsoft Adventure" publisher="IBM" mobyGamesId="4074">
-		<release year="1981" version="1.00" os="PC Booter">
+		<release year="1981" version="1.00" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="BB2099B9DB60E167DC91E21853A8BDCE" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="Microsoft Flight Simulator" publisher="Microsoft Corporation">
-		<release year="1982" version="1.00" os="PC Booter" mobyGamesId="4003">
+		<release year="1982" version="1.00" platform="PC Booter" mobyGamesId="4003">
 			<media media="160K" status="V">
 				<disk md5="0AD954B0016A45DD596ED74A35F8D3A3" />
 			</media>
 		</release>
-		<release year="1984" version="2.10A" os="PC Booter" mobyGamesId="1642">
+		<release year="1984" version="2.10A" platform="PC Booter" mobyGamesId="1642">
 			<media media="160K" status="V">
 				<disk md5="9288FEDFC7F676AF1A47501B12A3CA19" cp="Key Disk" />
 			</media>
 		</release>
-		<release year="1985" version="2.12" os="PC Booter">
+		<release year="1985" version="2.12" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F532B86E5FF497F66A3A3FAF6EC79A0A" cp="Key Disk" />
 			</media>
 		</release>
-		<release year="1985" version="2.13" os="PC Booter" mobyGamesId="1642">
+		<release year="1985" version="2.13" platform="PC Booter" mobyGamesId="1642">
 			<media media="160K" status="U">
 				<disk md5="D3E83301326752CBECDB58CD0A0E2415" cp="Key Disk" fixed="1" />
 			</media>
@@ -11115,7 +11122,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Flight Simulator: Aircraft &amp; Scenery Designer" publisher="Microsoft Corporation" mobyGamesId="8357">
+	<title name="Microsoft Flight Simulator: Aircraft &amp; Scenery Designer" publisher="Microsoft Corporation" addon="1" mobyGamesId="8357">
 		<release year="1990" region="FR">
 			<media media="360K" status="V">
 				<disk md5="F0465AE825B7C6D00D1305C3F4293891" />
@@ -11123,13 +11130,13 @@
 		</release>
 	</title>
 	<title name="Microsoft Golf" publisher="Microsoft Corporation" mobyGamesId="14214">
-		<release year="1992" version="1.0" os="Windows 3.1">
+		<release year="1992" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="U">
-				<disk disk="1" />
+				<disk md5="B12E4E8BA09EFD4DE847CA84EBE35173" disk="1" />
 				<disk md5="7BCBC9076BCDFF8D50B5F8820277B60F" disk="2" />
 			</media>
 		</release>
-		<release year="1994" version="2.0" os="Windows 3.1">
+		<release year="1994" version="2.0" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="17BD4191204370DCCB903964368C8B89" disk="1" />
 				<disk md5="A5DEDAE42E25E772AAD83590DAD594B8" disk="2" />
@@ -11304,7 +11311,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="MiG-29: Deadly Adversary of Falcon 3.0" publisher="Spectrum Holobyte, Inc." mobyGamesId="2643">
+	<title name="MiG-29: Deadly Adversary of Falcon 3.0" publisher="Spectrum Holobyte, Inc." addon="1" mobyGamesId="2643">
 		<release year="1993" version="3.02">
 			<media media="1.44M" status="V" tgod="2197,2321">
 				<disk md5="979CF67840A2A61F87FCC7534E7EB501" disk="1" media="720K" />
@@ -11505,7 +11512,7 @@
 		</release>
 	</title>
 	<title name="Mindshadow" publisher="Activision, Inc." mobyGamesId="4519">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="941B6E8C22258EA1395A7C2850BBA914" cp="Key Disk" />
 			</media>
@@ -11685,7 +11692,7 @@
 		</release>
 	</title>
 	<title name="Moon Patrol" publisher="Atarisoft" mobyGamesId="575">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="016B2D44CE8C25B7976C563821E00D41" cp="Non-standard Sector Sizes" />
 			</media>
@@ -11735,12 +11742,12 @@
 		</release>
 	</title>
 	<title name="Mr. Cool" publisher="Sierra On-Line, Inc." mobyGamesId="9295">
-		<release year="1984" system="CGA" os="PC Booter">
+		<release year="1984" variation="CGA" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="9DCFDE69350404FAC356BD4147D0C1B8" cp="Formaster Copylock v1/v2.0" />
 			</media>
 		</release>
-		<release year="1984" system="CGA+PCjr" os="PC Booter">
+		<release year="1984" variation="CGA+PCjr" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="6498ABDF54DAF5B7AF7ABE94B59AE924" cp="Formaster Copylock v1/v2.0" />
 			</media>
@@ -11754,19 +11761,19 @@
 		</release>
 	</title>
 	<title name="Ms. Pac-Man" publisher="Atarisoft" mobyGamesId="576">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="473CE4EAD85437DC6919ADA9D08DE7CF" />
 			</media>
 		</release>
-		<release year="1988" os="PC Booter" publisher="Thunder Mountain">
+		<release year="1988" platform="PC Booter" publisher="Thunder Mountain">
 			<media media="160K" status="V">
 				<disk md5="8C771158857A858BC255BEFEF7EBF207" />
 			</media>
 		</release>
 	</title>
 	<title name="Murder on the Zinderneuf" publisher="Electronic Arts, Inc." mobyGamesId="11798">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="77BC748086FC80094F26697938FFEB47" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -11782,7 +11789,7 @@
 		</release>
 	</title>
 	<title name="Music 101: Trivia from Mozart to Motown" publisher="IBM">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="8057DEC9D403D8F8F5714DC1BA51C98F" cp="Key Disk" />
 			</media>
@@ -11850,7 +11857,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="New Facilities Locator" publisher="subLOGIC" mobyGamesId="147705">
+	<title name="New Facilities Locator" publisher="subLOGIC" addon="1" mobyGamesId="147705">
 		<release year="1991">
 			<media media="360K" status="V">
 				<disk md5="2D3C697B18F7CE3A3A6B858D9706F087" disk="1" />
@@ -11933,7 +11940,7 @@
 		</release>
 	</title>
 	<title name="Night Stalker" publisher="Mattel Electronics" mobyGamesId="10388">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="B4F7F23B39ED2551E5AED1CCA3942C3C" cp="Key Disk" />
 			</media>
@@ -12078,7 +12085,7 @@
 		</release>
 	</title>
 	<title name="Oh No! More Lemmings" publisher="Psygnosis Limited" mobyGamesId="684">
-		<release variation="Data Disk Version" year="1991">
+		<release variation="Data Disk Version" year="1991" addon="1">
 			<media media="360K" status="V" tgod="2504">
 				<disk md5="EAC5FCB650272AF5025922CF6A4DE810" disk="Amstrad, EGA, VGA" />
 				<disk md5="9B3769F8E422E0764C4215CA028CB72A" disk="Tandy" />
@@ -12106,7 +12113,7 @@
 		</release>
 	</title>
 	<title name="Oil's Well" publisher="Sierra On-Line, Inc." mobyGamesId="1427">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="6508AC43A1D56DC73B98039712C4082F" cp="Formaster Copylock v2.2" />
 			</media>
@@ -12206,7 +12213,7 @@
 		</release>
 	</title>
 	<title name="Outpost" publisher="Sierra On-Line, Inc." mobyGamesId="1613">
-		<release year="1994" version="1.1" int="7.15.94" os="Windows 3.1">
+		<release year="1994" version="1.1" int="7.15.94" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="BFC68B965E5003A32A09753040E5C281" disk="Setup / Disk 1" />
 				<disk md5="92416EDE93C1E2D6CB2DC7ED110D0263" disk="2" />
@@ -12217,7 +12224,7 @@
 				<disk md5="CD8A611FB5BE1DE6E0795292D006ADAA" disk="7" />
 			</media>
 		</release>
-		<release year="1994" version="1.1" int="9.2.94" os="Windows 3.1" region="DE">
+		<release year="1994" version="1.1" int="9.2.94" platform="Windows 3.1" region="DE">
 			<media media="1.44M" status="U" tgod="3148">
 				<disk md5="F3ED8D387C8E3CE6CC5A1E5110AADF10" disk="Setup / Disk 1" />
 				<disk md5="95C625C9186DB77EB1D0F071F4017731" disk="2" />
@@ -12228,7 +12235,7 @@
 				<disk md5="1A62FB3D6BDD24C709D2E03750F44474" disk="7" />
 			</media>
 		</release>
-		<release year="1995" version="1.51" int="8.7.95" os="Windows 3.1">
+		<release year="1995" version="1.51" int="8.7.95" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="90549B9E8D57A63D677E4DA38255A09D" disk="Setup / Disk 1" />
 				<disk md5="1679D33034E4D6BF35D2A0CB1AF8684D" disk="2" />
@@ -12262,7 +12269,7 @@
 		</release>
 	</title>
 	<title name="Outpost: Launch Control Disk" publisher="Sierra On-Line, Inc." mobyGamesId="1613">
-		<release year="1994" version="1.0" int="6.24.94" os="Windows 3.1">
+		<release year="1994" version="1.0" int="6.24.94" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="094FCC60243FCC2AB9C0CDF40F6A7995" />
 			</media>
@@ -12307,7 +12314,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Pacific Strike: Speech Pack" publisher="ORIGIN Systems, Inc." mobyGamesId="2125">
+	<title name="Pacific Strike: Speech Pack" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="2125">
 		<release year="1994">
 			<media media="1.44M" status="V">
 				<disk md5="4A8DA291B82B3710909C7695FB2BED50" disk="1" />
@@ -12318,12 +12325,12 @@
 		</release>
 	</title>
 	<title name="Pac-Man" publisher="Atarisoft" mobyGamesId="138">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="72FB046417775CD88B70C58C8A5D0E6D" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1988" os="PC Booter" publisher="Thunder Mountain">
+		<release year="1988" platform="PC Booter" publisher="Thunder Mountain">
 			<media media="360K" status="V">
 				<disk md5="6A3CBF3ED1FBEB7A3CDD90FB0E30BEA0" />
 			</media>
@@ -12421,7 +12428,7 @@
 		</release>
 	</title>
 	<title name="PC Pool Challenges" publisher="IBM" mobyGamesId="1797">
-		<release year="1984" version="1.0" os="PC Booter">
+		<release year="1984" version="1.0" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="CE61176B0683D4325596830F8B888406" cp="Key Disk" />
 			</media>
@@ -12466,7 +12473,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="PGA Tour Golf: Tournament Course Disk" publisher="Electronic Arts, Inc." mobyGamesId="24260">
+	<title name="PGA Tour Golf: Tournament Course Disk" publisher="Electronic Arts, Inc." addon="1" mobyGamesId="24260">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="AF6A04514E71A1FECB40C4D990D3378D" />
@@ -12537,17 +12544,17 @@
 		</release>
 	</title>
 	<title name="Pinball Construction Set" publisher="Electronic Arts, Inc." mobyGamesId="255">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="88CAD1C3C107A6CFF0EC3C3195718D35" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
-		<release year="1984" version="01.00.00" publisher="Tandy Corporation" os="PC Booter">
+		<release year="1984" version="01.00.00" publisher="Tandy Corporation" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="B09A60616FA81F2A9AB53574FEE5D6AB" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="14C41AB59107E61CAC2490AA9323C2C4" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -12603,24 +12610,24 @@
 		</release>
 	</title>
 	<title name="Pitstop II" publisher="Epyx, Inc." mobyGamesId="578">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="35815FEA1D03659C318745678FBEFA20" />
 			</media>
 		</release>
 	</title>
 	<title name="Planetfall" publisher="Infocom, Inc." mobyGamesId="51">
-		<release year="1983" version="r20" serial="830708" int="3A" os="PC Booter">
+		<release year="1983" version="r20" serial="830708" int="3A" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F5C84C168C6868A99CC806E73D9C27EF" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r26" serial="831014" int="3B" os="PC Booter">
+		<release year="1983" version="r26" serial="831014" int="3B" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="E84A7B1A8C948100EC6786CEDDC93B06" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1984" version="r29" serial="840118" int="3D" os="PC Booter">
+		<release year="1984" version="r29" serial="840118" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="DC063EFF3D0F48D11F01EA2270F4C443" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -12986,7 +12993,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Populous: The Promised Lands" publisher="Electronic Arts, Inc." mobyGamesId="2730">
+	<title name="Populous: The Promised Lands" publisher="Electronic Arts, Inc." addon="1" mobyGamesId="2730">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="A6A2C2F2C138625D2DB8C7162CA9034F" />
@@ -13151,7 +13158,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Print Shop Graphics Library: Special Edition" publisher="Brøderbund Software, Inc.">
+	<title name="Print Shop Graphics Library: Special Edition" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1987">
 			<media media="360K" status="V">
 				<disk md5="01435631CAA39701DA2878461526A483" />
@@ -13159,7 +13166,7 @@
 		</release>
 	</title>
 	<title name="Pro Golf" publisher="Mastertronic, Inc." mobyGamesId="31894">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="3B95836335DC930EFF64F7B125A91588" />
 			</media>
@@ -13195,14 +13202,14 @@
 		</release>
 	</title>
 	<title name="Prowler" publisher="Mastertronic, Inc." mobyGamesId="1220">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="3739B0D271B3D677845F527A7734706E" />
 			</media>
 		</release>
 	</title>
 	<title name="Psi-5 Trading Company" publisher="Accolade, Inc." mobyGamesId="13147">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="368BFC715ECD63F4DE2D5B5F4E8AA0B7" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
@@ -13558,7 +13565,7 @@
 		</release>
 	</title>
 	<title name="Rasterscan" publisher="Mastertronic, Inc." mobyGamesId="16538">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="180K" status="V" tgod="338">
 				<disk md5="78CE57B7423A6277779F74AF85920550" />
 			</media>
@@ -13657,7 +13664,7 @@
 	<title name="Red Baron" publisher="Sierra On-Line, Inc." mobyGamesId="1766">
 		<release variation="16 Color" year="1991" version="1.0" int="1.24.91">
 			<media media="720K" status="U" tgod="2546">
-				<disk md5="2EF6C46E241E44287D4A6574854817CB" disk="1" />
+				<disk md5="2EF6C46E241E44287D4A6574854817CB" disk="1" fixed="1" />
 				<disk md5="8B7C6119CDA5A6E18448EB1AF2C1AAD5" disk="2" status="V" />
 				<disk md5="BCF410B957FB4D9251EC624F8DFD075A" disk="3" status="V" />
 			</media>
@@ -13684,7 +13691,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Red Baron: Mission Builder" publisher="Sierra On-Line, Inc." mobyGamesId="2722">
+	<title name="Red Baron: Mission Builder" publisher="Sierra On-Line, Inc." addon="1" mobyGamesId="2722">
 		<release year="1992" version="1.0" int="9.11.92">
 			<media media="720K" status="V" tgod="2547">
 				<disk md5="327EDEE457BD07C1564323252048F916" />
@@ -13962,7 +13969,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Road &amp; Car: Test Drive III: The Passion: Add-On Disk #1" publisher="Accolade, Inc." mobyGamesId="185">
+	<title name="Road &amp; Car: Test Drive III: The Passion: Add-On Disk #1" publisher="Accolade, Inc." addon="1" mobyGamesId="185">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="10D032E2C372AAC5926384D345201B2E" fixed="1" />
@@ -14000,7 +14007,7 @@
 		</release>
 	</title>
 	<title name="RoboSport" publisher="Maxis Software Inc." mobyGamesId="1834">
-		<release year="1992-06" os="Windows 3.1">
+		<release year="1992-06" platform="Windows 3.1">
 			<media media="1.2M" status="U" tgod="1726">
 				<disk md5="8C9989A425603E17A0C7EE65C815D2DF" />
 			</media>
@@ -14009,7 +14016,7 @@
 				<disk md5="65F8B7A64AB9AE89CCC576FEF8412C7C" disk="2" />
 			</media>
 		</release>
-		<release year="1992-11" os="Windows 3.1">
+		<release year="1992-11" platform="Windows 3.1">
 			<media media="720K" status="U" tgod="531">
 				<disk md5="F020D83E0FD56E4A03D032820D4D30A7" disk="1" />
 				<disk md5="A76910B4F44B2E5B42DCA4B56E69FE0C" disk="2" />
@@ -14024,7 +14031,7 @@
 		</release>
 	</title>
 	<title name="Robotron: 2084" publisher="Atarisoft" mobyGamesId="102">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="EA8A43F738210E670779573F1FFDD77C" cp="Non-standard Sector Sizes" />
 			</media>
@@ -14230,10 +14237,10 @@
 		</release>
 	</title>
 	<title name="Sargon III" publisher="Hayden Software Co., Inc." mobyGamesId="1306">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="DC0377DA584FAB1E8E36650472E58615" cp="Key Disk" />
-				<disk md5="5CB087326F838AD4DE26B3E82577A8C2" disk="Great Games and Chess Problems" os="" />
+				<disk md5="5CB087326F838AD4DE26B3E82577A8C2" disk="Great Games and Chess Problems" platform="" />
 			</media>
 		</release>
 	</title>
@@ -14245,7 +14252,7 @@
 		</release>
 	</title>
 	<title name="Screen Antics: Johnny Castaway" publisher="Sierra On-Line, Inc.">
-		<release year="1993" version="1.01" int="1.4.93" os="Windows 3.1">
+		<release year="1993" version="1.01" int="1.4.93" platform="Windows 3.1">
 			<media media="1.44M" status="V" tgod="580">
 				<disk md5="81087EA7CC6A304896E81C722B0A85EC" />
 			</media>
@@ -14286,7 +14293,7 @@
 		</release>
 	</title>
 	<title name="Seastalker" publisher="Infocom, Inc." mobyGamesId="63">
-		<release year="1984" version="r15" serial="840501" int="3C" os="PC Booter">
+		<release year="1984" version="r15" serial="840501" int="3C" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F01178E593E318D79F25818B6C98FAAC" cp="Non-standard Sector Sizes" />
 			</media>
@@ -14427,7 +14434,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: Do 335 Pfeil" publisher="Lucasfilm Games" mobyGamesId="232">
+	<title name="Secret Weapons of the Luftwaffe: Do 335 Pfeil" publisher="Lucasfilm Games" addon="1" mobyGamesId="232">
 		<release year="1992" version="2.1">
 			<media media="1.2M" status="V" tgod="3439">
 				<disk md5="5FA43BB8F5972C09A8DD51F5E46F7B05" />
@@ -14437,7 +14444,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: He 162 Volksjäger" publisher="Lucasfilm Games" mobyGamesId="231">
+	<title name="Secret Weapons of the Luftwaffe: He 162 Volksjäger" publisher="Lucasfilm Games" addon="1" mobyGamesId="231">
 		<release year="1992" version="2.1">
 			<media media="1.2M" status="V">
 				<disk md5="6AC9347221B763A1A2D0A6C0B3598639" />
@@ -14448,14 +14455,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: He 162 Volksjäger &amp; Do 335 Pfeil" publisher="Lucasfilm Games">
+	<title name="Secret Weapons of the Luftwaffe: He 162 Volksjäger &amp; Do 335 Pfeil" publisher="Lucasfilm Games" addon="1">
 		<release year="1994" region="GB" publisher="Kixx">
 			<media media="720K" status="U">
 				<disk md5="E7B15CDAF5EB7D808053C0763E170819" />
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: P-38 Lightning" publisher="Lucasfilm Games" mobyGamesId="229">
+	<title name="Secret Weapons of the Luftwaffe: P-38 Lightning" publisher="Lucasfilm Games" addon="1" mobyGamesId="229">
 		<release year="1991" version="2.0">
 			<media media="1.2M" status="U">
 				<disk md5="B25E764E1F020D2D94416B189E4078FF" />
@@ -14485,7 +14492,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: P-80 Shooting Star" publisher="Lucasfilm Games" mobyGamesId="230">
+	<title name="Secret Weapons of the Luftwaffe: P-80 Shooting Star" publisher="Lucasfilm Games" addon="1" mobyGamesId="230">
 		<release year="1992" version="2.1">
 			<media media="1.2M" status="U">
 				<disk md5="9151F6168DF29F8BABA982484F7CE030" />
@@ -14496,7 +14503,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Secret Weapons of the Luftwaffe: P-80 Shooting Star &amp; P-38 Lightning" publisher="Lucasfilm Games">
+	<title name="Secret Weapons of the Luftwaffe: P-80 Shooting Star &amp; P-38 Lightning" publisher="Lucasfilm Games" addon="1">
 		<release year="1994" region="GB" publisher="Kixx">
 			<media media="720K" status="U">
 				<disk md5="9855408D9E380CC2B0BC3D2EA2436914" />
@@ -14597,7 +14604,7 @@
 		</release>
 	</title>
 	<title name="Shamus" publisher="IBM" mobyGamesId="76">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="99839FEB0C0893DD55A2B4FDE6B6464D" cp="Key Disk" />
 			</media>
@@ -14616,7 +14623,7 @@
 				<disk md5="5D8778DE96E9F80C06CC9A69CCD8F20C" disk="2" />
 			</media>
 		</release>
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="1B1EAB267CFD8E98412C2AE2A6206BC6" disk="1" />
 				<disk md5="7B64A54E4D47B251D973EB18A497275C" disk="2" />
@@ -14624,7 +14631,7 @@
 		</release>
 	</title>
 	<title name="Shard of Inovar" publisher="Mastertronic Ltd." mobyGamesId="50736">
-		<release year="1988" region="EU" os="PC Booter">
+		<release year="1988" region="EU" platform="PC Booter">
 			<media media="360K" status="V" tgod="2048">
 				<disk md5="D18DA64252B5BAB7FD6E2F2F8E448B6F" />
 			</media>
@@ -14638,7 +14645,7 @@
 		</release>
 	</title>
 	<title name="Sherlock Holmes in &quot;Another Bow&quot;" publisher="Bantam Software" mobyGamesId="21462">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="E6445F5B52BB1114A69D43F6B44AE425" cp="Activision sector overlap" />
 			</media>
@@ -14729,13 +14736,13 @@
 		</release>
 	</title>
 	<title name="Sid Meier's Pirates!" publisher="MicroProse Software, Inc." mobyGamesId="214">
-		<release year="1987" version="432.02" os="PC Booter">
+		<release year="1987" version="432.02" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="98A03A1CE8DB43B79618EA50CFEB356D" disk="A" cp="Microprose Protection 1" />
 				<disk md5="1F6C173EAB7BACFE0959FEA79F82A7C4" disk="B" />
 			</media>
 		</release>
-		<release year="1987" version="432.03" os="PC Booter">
+		<release year="1987" version="432.03" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="8B497B31AA452C4FF4CEF2FF377D5061" disk="A" cp="Microprose Protection 1" />
 				<disk md5="1F6C173EAB7BACFE0959FEA79F82A7C4" disk="B" />
@@ -14762,6 +14769,10 @@
 				<disk md5="39B094839E532643921475F0FC8A53BA" disk="A" />
 				<disk md5="ABE9634D95B08152E1D1364CA257A841" disk="B" />
 				<disk md5="F8478940A31E72D0874140C0278583FD" disk="C" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="307C8E57967A1E5F912BCADD3A64D584" disk="A" />
+				<disk md5="BCEB1198383719AAD1EB7A616EBA766D" disk="B" />
 			</media>
 		</release>
 	</title>
@@ -14796,14 +14807,14 @@
 		</release>
 	</title>
 	<title name="Sierra Championship Boxing" publisher="Sierra On-Line, Inc." mobyGamesId="4172">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="3907A5D21A6CC6B6DE8B9F3EBC2984A2" cp="Softguard Superlok v2" />
 			</media>
 		</release>
 	</title>
 	<title name="Silent Service" publisher="MicroProse Software, Inc." mobyGamesId="1812">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="CD0E1229F980F601DF12A34DAB294F06" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
@@ -14873,15 +14884,16 @@
 				<disk md5="08465D89E8BD363EF40D1FF0FB207E37" disk="2" />
 			</media>
 		</release>
-		<release variation="IBM Special Pak" year="1990" version="3.2" int="5-7-90">
+		<release variation="IBM Special Pak" year="1990" version="3.2" int="8.28.90">
 			<media media="720K" status="V" tgod="3442">
-				<disk md5="8643230707B02F6716FFCB08CCD6FE7E" disk="1" />
-				<disk md5="DAA10280CBE89E6D4F1C9578A4A9F29F" disk="2" />
+				<disk md5="8643230707B02F6716FFCB08CCD6FE7E" disk="Game Disk" />
+				<disk md5="DAA10280CBE89E6D4F1C9578A4A9F29F" disk="Demo Disk" />
 			</media>
 		</release>
 		<release variation="IBM Special Pak" year="1990" version="3.21" int="5.7.90">
 			<media media="720K" status="U">
-				<disk md5="8285F4FB7BB9A112555F0A815E0C8573" />
+				<disk md5="8285F4FB7BB9A112555F0A815E0C8573" disk="Game Disk" />
+				<disk md5="DAA10280CBE89E6D4F1C9578A4A9F29F" disk="Demo Disk" status="V" />
 			</media>
 		</release>
 	</title>
@@ -14947,7 +14959,7 @@
 				<disk md5="9C2CD15B85CB056F2148FB0D34249B88" disk="Install Disk / Program Disk" />
 			</media>
 		</release>
-		<release year="1992" version="1.34" os="Windows 3.1">
+		<release year="1992" version="1.34" platform="Windows 3.1">
 			<media media="720K" status="V" tgod="626">
 				<disk md5="CD28F7D549E36DA132890D6F59E1E00F" disk="1" />
 				<disk md5="3CB508B915520B7317F44FA4BA023DDA" disk="2" />
@@ -15047,19 +15059,19 @@
 				<disk md5="7AE4CD3E5E963870E1633279726C6214" disk="3" />
 			</media>
 		</release>
-		<release year="1994" os="Windows 3.1">
+		<release year="1994" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="ECA64C67D08202DA111D3AF6B617FDEE" disk="1" />
 				<disk md5="3BE49605B698AF7F379B77981FDDBEF7" disk="2" />
 			</media>
 		</release>
-		<release year="1995" version="1.2" os="Windows 3.1">
+		<release year="1995" version="1.2" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="FEA2026BEC07D1F52E8ECE1A0765F081" disk="1" />
 				<disk md5="41420BC9604C4E5AEA541D933FE02924" disk="2" />
 			</media>
 		</release>
-		<release year="1995" os="Windows 3.1">
+		<release year="1995" platform="Windows 3.1">
 			<media media="1.44M" status="V" region="DE">
 				<disk md5="BBDF654EEA86631BA47A133E9A587A51" disk="1" />
 				<disk md5="FD2662CBB5EC4D0977EEDCD75A04FA18" disk="2" />
@@ -15071,14 +15083,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity 2000: Berlin 1994" publisher="Maxis Software Inc.">
+	<title name="SimCity 2000: Berlin 1994" publisher="Maxis Software Inc." addon="1">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="1096">
 				<disk md5="A043C3BEAFD679F98E5EB5414275F659" />
 			</media>
 		</release>
 	</title>
-	<title name="SimCity 2000 Scenarios: Volume 1: Great Disasters" publisher="Maxis Software Inc." mobyGamesId="40993">
+	<title name="SimCity 2000 Scenarios: Volume 1: Great Disasters" publisher="Maxis Software Inc." addon="1" mobyGamesId="40993">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="357,577">
 				<disk md5="56409C1CEC56EFA9388B7943B6F1A84A" />
@@ -15090,13 +15102,13 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity 2000: Urban Renewal Kit" publisher="Maxis Software Inc." mobyGamesId="2422">
+	<title name="SimCity 2000: Urban Renewal Kit" publisher="Maxis Software Inc." addon="1" mobyGamesId="2422">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="F5DC077684709DFD67295EB8030A97F5" />
 			</media>
 		</release>
-		<release year="1995" os="Windows 3.1">
+		<release year="1995" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="1577">
 				<disk md5="1F5353D32AB36871670ED42C65E41144" disk="1" />
 				<disk md5="B2A548F5B818D313E0484645D8D10643" disk="2" />
@@ -15108,7 +15120,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity Architecture 2" publisher="Infogrames Europe SA" mobyGamesId="13635">
+	<title name="SimCity Architecture 2" publisher="Infogrames Europe SA" addon="1" mobyGamesId="13635">
 		<release year="1990" region="EU">
 			<media media="360K" status="V">
 				<disk md5="C2D281F431A2CED5AD30468B28973FB7" disk="Ancient Asia" />
@@ -15158,7 +15170,7 @@
 				<disk md5="DAC86A6EB6D756DD8AC1AC1631E24833" />
 			</media>
 		</release>
-		<release year="1993" version="1.1" os="Windows 3.1">
+		<release year="1993" version="1.1" platform="Windows 3.1">
 			<media media="1.2M" status="U">
 				<disk md5="FB4C20DC5265A96961176FC2F7CFF14E" />
 			</media>
@@ -15168,7 +15180,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity Classic: Graphics" publisher="Maxis Software Inc." mobyGamesId="42596">
+	<title name="SimCity Classic: Graphics" publisher="Maxis Software Inc." addon="1" mobyGamesId="42596">
 		<release year="1994">
 			<media media="720K" status="U" tgod="624">
 				<disk md5="45849056050D2F1F4FA4562FE766C862" disk="1" />
@@ -15183,14 +15195,14 @@
 		</release>
 	</title>
 	<title name="SimCity for Windows" publisher="Maxis Software Inc." mobyGamesId="202400">
-		<release year="1992" os="Windows 3.1">
+		<release year="1992" platform="Windows 3.1">
 			<media media="360K" status="V">
 				<disk md5="26836662236373C771F7D567DD3318DF" disk="Data Disk" />
 				<disk md5="F7C1FC1D2C88B2586C3128A0B453636D" disk="Install Disk" />
 			</media>
 		</release>
 	</title>
-	<title name="SimCity Graphics Set 1: Ancient Cities" publisher="Maxis Software Inc." mobyGamesId="13635">
+	<title name="SimCity Graphics Set 1: Ancient Cities" publisher="Maxis Software Inc." addon="1" mobyGamesId="13635">
 		<release year="1990">
 			<media media="360K" status="V" tgod="537">
 				<disk md5="F0CBE652266345928B40D452A2046474" disk="Disk 1: Install" />
@@ -15200,7 +15212,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity Graphics Set 2: Future Cities" publisher="Maxis Software Inc." mobyGamesId="29809">
+	<title name="SimCity Graphics Set 2: Future Cities" publisher="Maxis Software Inc." addon="1" mobyGamesId="29809">
 		<release year="1990">
 			<media media="360K" status="V" tgod="538">
 				<disk md5="5DA64DDD2F964C074D0C419BF1C93B8A" disk="Disk 1: Install" />
@@ -15214,7 +15226,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="SimCity: Terrain Editor" publisher="Maxis Software Inc." mobyGamesId="14236">
+	<title name="SimCity: Terrain Editor" publisher="Maxis Software Inc." addon="1" mobyGamesId="14236">
 		<release year="1989" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="C24649649D31DE969DCF146B9896BD57" disk="1" />
@@ -15245,7 +15257,7 @@
 				<disk md5="94D85C14703858639DBBA7673EBCAEA7" disk="Install Disk" />
 			</media>
 		</release>
-		<release year="1991" version="1.0" os="Windows 3.1">
+		<release year="1991" version="1.0" platform="Windows 3.1">
 			<media media="720K" status="V">
 				<disk md5="0AD68336E694C3CCED9D417D83EAA41F" disk="Install Disk / Disk 1" />
 				<disk md5="94F9927F4D75DB57BD5C6D9BC9437A75" disk="2" />
@@ -15306,7 +15318,7 @@
 				<disk md5="ECC59BA2ECCA2833D3DCF6D17B5AA173" />
 			</media>
 		</release>
-		<release year="1994" version="1.0" os="Windows 3.1">
+		<release year="1994" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="9EC2E049428EABB6F96BCB8D5C004055" disk="Disk 1 / Setup" />
 				<disk md5="C3498E8F942F71E5A6E11F8DA9E62696" disk="2" />
@@ -15353,7 +15365,7 @@
 				<disk md5="B88CC22F5B2366FFDAD9A093B9224402" />
 			</media>
 		</release>
-		<release year="1993" os="Windows 3.1">
+		<release year="1993" platform="Windows 3.1">
 			<media media="720K" status="U" tgod="3031">
 				<disk md5="BA61F781F77167CE4388B0524FA983B0" disk="1" />
 				<disk md5="60D21FE72B85EE13071B356ABC819E97" disk="2" />
@@ -15371,7 +15383,7 @@
 		</release>
 	</title>
 	<title name="SimTower: The Vertical Empire" publisher="Maxis Software Inc." mobyGamesId="312">
-		<release year="1995" os="Windows 3.1">
+		<release year="1995" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="360,2810">
 				<disk md5="40953ABADFF2060DB762EA946FD5496A" disk="1" />
 				<disk md5="A92674C667B591CCE264666F0C608D85" disk="2" />
@@ -15506,12 +15518,12 @@
 		</release>
 	</title>
 	<title name="Sorcerer" publisher="Infocom, Inc." mobyGamesId="57">
-		<release year="1984" version="r4" serial="840131" int="3B" os="PC Booter">
+		<release year="1984" version="r4" serial="840131" int="3B" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="BC2F0F96FCB70DAB9A2850D6388B95DF" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1984" version="r6" serial="840508" int="3D" os="PC Booter">
+		<release year="1984" version="r6" serial="840508" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="183C00687F1334BCE2FE79BDEE3B7E6A" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -15994,7 +16006,7 @@
 		</release>
 	</title>
 	<title name="Spaceward Ho!" publisher="New World Computing, Inc." mobyGamesId="1491">
-		<release year="1992" version="2.0" os="Windows 3.1">
+		<release year="1992" version="2.0" platform="Windows 3.1">
 			<media media="1.2M" status="V">
 				<disk md5="B644EAEB8F3E2D9F038B4D128BFFA324" />
 			</media>
@@ -16204,7 +16216,7 @@
 	</title>
 	<title name="Spiderbot" publisher="Epyx, Inc." mobyGamesId="579">
 		<release year="1988">
-			<media media="360K" status="V" os="PC Booter">
+			<media media="360K" status="V" platform="PC Booter">
 				<disk md5="ED3B80DCADBD49E8680164218B78DADD" cp="H.L.S. Duplication" />
 			</media>
 		</release>
@@ -16245,7 +16257,7 @@
 	</title>
 	<title name="Spitfire Ace" publisher="MicroProse Software, Inc." mobyGamesId="29">
 		<release year="1984">
-			<media media="320K" status="V" os="PC Booter">
+			<media media="320K" status="V" platform="PC Booter">
 				<disk md5="0775513C6C9D61FA5C17817BE83E39CA" cp="Xidex Magnetics (XEMAG) XELOK v2" />
 			</media>
 		</release>
@@ -16276,7 +16288,7 @@
 		</release>
 	</title>
 	<title name="Spy Hunter" publisher="SEGA Enterprises, Inc." mobyGamesId="7668">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="47D0B1C1FA5E1391B7730B7F875E4F01" cp="Key Disk" />
 			</media>
@@ -16337,14 +16349,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Crusader: Bonus Missions Pack" publisher="GameTek, Inc." mobyGamesId="45934">
+	<title name="Star Crusader: Bonus Missions Pack" publisher="GameTek, Inc." addon="1" mobyGamesId="45934">
 		<release year="1994" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="U">
 				<disk md5="D07FBBD3D85C6EC6ACA71AE8B0AACEEA" fixed="1" />
 			</media>
 		</release>
 	</title>
-	<title name="Star Crusader: Speech Pack" publisher="GameTek, Inc.">
+	<title name="Star Crusader: Speech Pack" publisher="GameTek, Inc." addon="1">
 		<release year="1994" region="EU">
 			<media media="1.44M" status="U">
 				<disk md5="5792AE6CCD67C04FC1B9C6FD65CF0ED3" disk="1" fixed="1" />
@@ -16456,7 +16468,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Trek: Judgment Rites: Movie &amp; Sound Pack" publisher="Interplay Productions, Inc." mobyGamesId="31451">
+	<title name="Star Trek: Judgment Rites: Movie &amp; Sound Pack" publisher="Interplay Productions, Inc." addon="1" mobyGamesId="31451">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="2511">
 				<disk md5="CC83D4F6389EE14FE1331F1D2128C223" disk="1" />
@@ -16549,7 +16561,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Wars: TIE Fighter: Defender of the Empire" publisher="LucasArts Entertainment Company LLC" mobyGamesId="4634">
+	<title name="Star Wars: TIE Fighter: Defender of the Empire" publisher="LucasArts Entertainment Company LLC" addon="1" mobyGamesId="4634">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="V" tgod="2766">
 				<disk md5="606490A0CB678C7E913CF88746707C18" disk="1" />
@@ -16609,7 +16621,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Wars: X-Wing: B-Wing" publisher="LucasArts Entertainment Company LLC" mobyGamesId="540">
+	<title name="Star Wars: X-Wing: B-Wing" publisher="LucasArts Entertainment Company LLC" addon="1" mobyGamesId="540">
 		<release year="1993" region="DE" publisher="Softgold Computerspiele GmbH">
 			<media media="1.44M" status="V" tgod="379">
 				<disk md5="4E7A99DE1D312D369EBEEBE6CD8A6670" disk="1" />
@@ -16622,7 +16634,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Wars: X-Wing: Imperial Pursuit" publisher="LucasArts Entertainment Company LLC" mobyGamesId="901">
+	<title name="Star Wars: X-Wing: Imperial Pursuit" publisher="LucasArts Entertainment Company LLC" addon="1" mobyGamesId="901">
 		<release year="1993" region="DE" language="En" publisher="Softgold Computerspiele GmbH">
 			<media media="1.44M" status="V" tgod="1830">
 				<disk md5="3F806F6B4FC840E68C214D93E5DB7186" />
@@ -16639,7 +16651,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Wars: X-Wing: Imperial Pursuit: Upgrade Kit" publisher="Softgold Computerspiele GmbH" mobyGamesId="901">
+	<title name="Star Wars: X-Wing: Imperial Pursuit: Upgrade Kit" publisher="Softgold Computerspiele GmbH" addon="1" mobyGamesId="901">
 		<release year="1993" region="DE">
 			<media media="1.44M" status="V" tgod="1167">
 				<disk md5="330B4301C4E83B0FA9C0EB4DBB0FB559" disk="1" />
@@ -16648,7 +16660,7 @@
 		</release>
 	</title>
 	<title name="Starcross" publisher="Infocom, Inc." mobyGamesId="59">
-		<release year="1982" version="r17" serial="821021" int="3A" os="PC Booter">
+		<release year="1982" version="r17" serial="821021" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="6BD011439FB48C2A638BDC0231B6272D" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -16715,17 +16727,17 @@
 		</release>
 	</title>
 	<title name="Stargate" publisher="Atarisoft" mobyGamesId="5952">
-		<release year="1983" version="Rel. 1" os="PC Booter">
+		<release year="1983" version="Rel. 1" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="ED866B58EC7BBBBB95073A9B696EC779" cp="Atarisoft" />
 			</media>
 		</release>
-		<release year="1983" version="Rel. 2" os="PC Booter">
+		<release year="1983" version="Rel. 2" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F6ADD85D652E6A9948BC0E5A4171AD28" cp="Atarisoft" />
 			</media>
 		</release>
-		<release year="1983" version="Rel. 2" os="PC Booter">
+		<release year="1983" version="Rel. 2" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="E50E67D71CB6081ED6BC95D6B3BD299F" cp="Atarisoft" />
 			</media>
@@ -16796,12 +16808,12 @@
 		</release>
 	</title>
 	<title name="Storm" publisher="Mastertronic, Inc." mobyGamesId="1650">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="180K" status="V" tgod="383">
 				<disk md5="D65D8B0D4CB0CA830621A3BB026CE26C" disk="Side A" />
 			</media>
 		</release>
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V" tgod="2051">
 				<disk md5="26CEEC9649ACA7210EC95B0DB60C12AE" />
 			</media>
@@ -16891,7 +16903,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Strike Commander: Speech Pack" publisher="ORIGIN Systems, Inc." mobyGamesId="1995">
+	<title name="Strike Commander: Speech Pack" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1995">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="589">
 				<disk md5="96C0392A5FBA6E1F3364D32223225C3D" disk="1" />
@@ -16900,7 +16912,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Strike Commander: Tactical Operations" publisher="ORIGIN Systems, Inc." mobyGamesId="2084">
+	<title name="Strike Commander: Tactical Operations" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="2084">
 		<release year="1993" version="F2.1">
 			<media media="1.44M" status="V" tgod="1363,1633">
 				<disk md5="840D599D568698D7742A348F3C6FA95D" disk="1" />
@@ -17142,7 +17154,7 @@
 		</release>
 	</title>
 	<title name="Super Boulder Dash" publisher="Electronic Arts, Inc." mobyGamesId="11789">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="6AABF4C5E4B6F35D589C2393DE6DC4BF" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -17278,7 +17290,7 @@
 		</release>
 	</title>
 	<title name="Suspect" publisher="Infocom, Inc." mobyGamesId="93">
-		<release year="1984" version="r14" serial="841005" int="3D" os="PC Booter">
+		<release year="1984" version="r14" serial="841005" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="DEA65EB9694AF02D78FCFBB880F046C5" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -17290,12 +17302,12 @@
 		</release>
 	</title>
 	<title name="Suspended" publisher="Infocom, Inc." mobyGamesId="60">
-		<release year="1983" version="r5" serial="830222" int="3" os="PC Booter">
+		<release year="1983" version="r5" serial="830222" int="3" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="560514B0FD470B263D021AB1DD6296C2" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r8" serial="830521" int="3A" os="PC Booter">
+		<release year="1983" version="r8" serial="830521" int="3A" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="85083D8EB2966872850D9F3EF336D5FE" cp="Non-standard Sector Sizes" />
 			</media>
@@ -17368,7 +17380,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Syndicate: American Revolt" publisher="Electronic Arts, Inc." mobyGamesId="282">
+	<title name="Syndicate: American Revolt" publisher="Electronic Arts, Inc." addon="1" mobyGamesId="282">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="636DA8EB1B14AD0611FDF5AECCEBD657" />
@@ -17398,21 +17410,21 @@
 		</release>
 	</title>
 	<title name="Tag Team Wrestling" publisher="Data East Corporation" mobyGamesId="1397">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="160K" status="U" tgod="3450">
 				<disk md5="0E3921D190A201EF6DBCA2C0E4D58942" />
 			</media>
 		</release>
 	</title>
 	<title name="Take a Break! Crosswords" publisher="Sierra On-Line, Inc." mobyGamesId="25412">
-		<release year="1992" version="1.0" int="9.23.92" os="Windows 3.1">
+		<release year="1992" version="1.0" int="9.23.92" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="880F5B41CC5080293503C47E358FF55E" />
 			</media>
 		</release>
 	</title>
 	<title name="Take a Break! Crosswords Vol 1+2" publisher="Sierra On-Line, Inc." mobyGamesId="25412">
-		<release year="1993" version="1.01" int="9.29.93" os="Windows 3.1">
+		<release year="1993" version="1.01" int="9.29.93" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="83FB973BC99756494B103EFD9173796E" disk="1" />
 				<disk md5="0217CBD9DB22D7B6B71A5EF7D1E91C0A" disk="2" />
@@ -17420,7 +17432,7 @@
 		</release>
 	</title>
 	<title name="Take a Break! Pinball" publisher="Sierra On-Line, Inc." mobyGamesId="441">
-		<release year="1993" version="1.0" int="6.25.93" os="Windows 3.1">
+		<release year="1993" version="1.0" int="6.25.93" platform="Windows 3.1">
 			<media media="1.44M" status="V" tgod="2381">
 				<disk md5="92E19109E13A0B7673D0FCB52ADC3E8F" disk="1" />
 				<disk md5="8E883B2CFBB86CF1D0CD30AEE93B3469" disk="2" />
@@ -17531,7 +17543,7 @@
 			</media>
 			<media media="720K" status="V" tgod="1137">
 				<disk md5="AC7550BB16FB58981F8481EB8C1FF5AE" disk="Boot Disk / Program Disk" />
-				<disk md5="700124E4852011275769CBAE4D0823D5" disk="Master / Play Disk" />
+				<disk md5="700124E4852011275769CBAE4D0823D5" disk="Master Play Disk" />
 			</media>
 		</release>
 		<release year="1991" version="2.0">
@@ -17570,7 +17582,7 @@
 				<disk md5="D49E86238175B145E9E5FAE779DD8412" />
 			</media>
 		</release>
-		<release year="1992" version="1.0" os="Windows 3.1">
+		<release year="1992" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="CA180D8781A31A41E0B056C588C11277" disk="1" />
 				<disk md5="A34D54087C634255064D2432874B1A8A" disk="2" media="720K" />
@@ -17645,12 +17657,22 @@
 				<disk md5="4A0A5F342D709E392493AF9FB9A98536" disk="6" />
 				<disk md5="186EC1C77F343A022BEFFE94328036B1" disk="7" />
 			</media>
-			<media media="1.44M" status="U" tgod="2828">
+			<media media="1.44M" status="V">
 				<disk md5="DDA284DACE20FA709A6D33D73EED8C5E" disk="1" />
 				<disk md5="3B37BE66F0A5613F92643DB34081187C" disk="2" />
 				<disk md5="9BD6888C69F6454470A950AF14E63744" disk="3" />
 				<disk md5="96695085467EA79DB6FDF6BFD8071A14" disk="4" />
 				<disk md5="F420EE4AA540F7D7FEC05539FFE0F855" disk="5" />
+				<disk disk="6" />
+			</media>
+		</release>
+		<release variation="256 Color" year="1991" version="1.02?" int="11.8.91">
+			<media media="1.44M" status="U" tgod="2828">
+				<disk md5="DDA284DACE20FA709A6D33D73EED8C5E" disk="1" status="V" />
+				<disk md5="3B37BE66F0A5613F92643DB34081187C" disk="2" status="V" />
+				<disk md5="9BD6888C69F6454470A950AF14E63744" disk="3" status="V" />
+				<disk md5="96695085467EA79DB6FDF6BFD8071A14" disk="4" status="V" />
+				<disk md5="F420EE4AA540F7D7FEC05539FFE0F855" disk="5" status="V" />
 				<disk md5="162C3C8B54626770CC0389E3FC792098" disk="6" />
 			</media>
 		</release>
@@ -17788,25 +17810,25 @@
 		</release>
 	</title>
 	<title name="The Black Cauldron" publisher="Sierra On-Line, Inc." mobyGamesId="194">
-		<release year="1985" version="1.1J" int="1.12" os="PC Booter">
+		<release year="1985" version="1.1J" int="1.12" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="B65110B00B940C9C87D30A1CA64B097D" disk="1" cp="Softguard Superlok v2" />
 				<disk md5="F2FE815367DCC60049A9ED7E39F9A735" disk="2" />
 			</media>
 		</release>
-		<release year="1986" version="1.1K" int="1.12" os="PC Booter">
+		<release year="1986" version="1.1K" int="1.12" platform="PC Booter">
 			<media media="360K" status="U">
 				<disk md5="7C5FB6E71A18EF63D7046AF3E420E9D8" disk="1" cp="Softguard Superlok v2" />
 				<disk md5="E0FE0B4298DF89E6751D53A72F1296DD" disk="2" />
 			</media>
 		</release>
-		<release year="1986" version="1.1M" int="1.12" os="PC Booter">
+		<release year="1986" version="1.1M" int="1.12" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="D1B0A14494FA4D225FCB492E6721837D" disk="1" cp="Softguard Superlok v2" />
 				<disk md5="24FEE032ECD14651D4FAE8E4CD54FFDC" disk="2" />
 			</media>
 		</release>
-		<release year="1986" version="01.00.00" publisher="Tandy Corporation" os="PC Booter">
+		<release year="1986" version="01.00.00" publisher="Tandy Corporation" platform="PC Booter">
 			<media media="360K" status="U">
 				<disk disk="1" />
 				<disk md5="16310B2F5277FF19F964EE346095600E" disk="2" />
@@ -17829,7 +17851,7 @@
 		</release>
 	</title>
 	<title name="The Body Transparent" publisher="DesignWare, Inc." mobyGamesId="155002">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="DABFB13053EA7B23947170E99CB649C7" cp="Key Disk" />
 			</media>
@@ -18010,7 +18032,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Test Drive II Car Disk: The Muscle Cars" publisher="Accolade, Inc." mobyGamesId="9710">
+	<title name="Test Drive II Car Disk: The Muscle Cars" publisher="Accolade, Inc." addon="1" mobyGamesId="9710">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="11FFEBA8229DA5408889D0F6DB8A959F" cp="H.L.S. Duplication" />
@@ -18020,7 +18042,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Test Drive II Car Disk: The Supercars" publisher="Accolade, Inc." mobyGamesId="9709">
+	<title name="Test Drive II Car Disk: The Supercars" publisher="Accolade, Inc." addon="1" mobyGamesId="9709">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="4FAD0162510043FD4E8C9910ED160FAF" cp="H.L.S. Duplication" />
@@ -18030,7 +18052,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Test Drive II Scenery Disk: California Challenge" publisher="Accolade, Inc." mobyGamesId="9707">
+	<title name="Test Drive II Scenery Disk: California Challenge" publisher="Accolade, Inc." addon="1" mobyGamesId="9707">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="97E1F2B49E51EE2BBA81643D1D4906CB" cp="H.L.S. Duplication" />
@@ -18040,7 +18062,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Test Drive II Scenery Disk: European Challenge" publisher="Accolade, Inc." mobyGamesId="9708">
+	<title name="Test Drive II Scenery Disk: European Challenge" publisher="Accolade, Inc." addon="1" mobyGamesId="9708">
 		<release year="1990">
 			<media media="360K" status="V">
 				<disk md5="8B6D976FED1FD62393C84EF3CD267207" cp="H.L.S. Duplication" />
@@ -18075,7 +18097,7 @@
 				<disk md5="DDF86DF35EE62A342FFA10E5D82069E8" />
 			</media>
 		</release>
-		<release year="1993" version="1.2" os="Windows 3.1">
+		<release year="1993" version="1.2" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="B627864AEB5BE6E6D5174DE0CAAAF11A" />
 			</media>
@@ -18108,7 +18130,7 @@
 		</release>
 	</title>
 	<title name="The Four-in-One Infocom Sampler" publisher="Infocom, Inc." mobyGamesId="29351">
-		<release year="1984" version="r26" serial="840731" int="3D" os="PC Booter">
+		<release year="1984" version="r26" serial="840731" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="B409F12889D1440AE47FE2F77DEBEBFE" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -18224,12 +18246,12 @@
 		</release>
 	</title>
 	<title name="The Hitchhiker's Guide to the Galaxy" publisher="Infocom, Inc." mobyGamesId="3941">
-		<release year="1984" version="r47" serial="840914" int="3D" os="PC Booter">
+		<release year="1984" version="r47" serial="840914" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="730AD344E67227C4167D68992D34A031" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1985" version="r56" serial="841221" int="3D" os="PC Booter">
+		<release year="1985" version="r56" serial="841221" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="4B0987ABF7FAAB10DA745968A88876A0" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
@@ -18315,7 +18337,7 @@
 		</release>
 	</title>
 	<title name="The Incredible Toon Machine" publisher="Sierra On-Line, Inc." mobyGamesId="9601">
-		<release year="1994" os="Windows 3.1" version="1.0" int="11.1.94">
+		<release year="1994" platform="Windows 3.1" version="1.0" int="11.1.94">
 			<media media="1.44M" status="U" tgod="2421">
 				<disk md5="E6BCBE07F713F3184E0D3AB9C596A19C" disk="1" />
 				<disk md5="A723B644D823B5B9B362A775E6385A97" disk="2" />
@@ -18388,7 +18410,7 @@
 				<disk md5="6518A2E2AC03AAE598ABEEE41A2AFCC8" disk="4" />
 			</media>
 		</release>
-		<release year="1992" version="1.0" int="3.5.92" os="Windows 3.0">
+		<release year="1992" version="1.0" int="3.5.92" platform="Windows 3.0">
 			<media media="1.2M" status="V">
 				<disk md5="A957CBB5E640C7E57BBD3FE4266DCBCA" disk="1" />
 				<disk md5="A44BC7D24B91A319172F4DD7CC19CF93" disk="2" />
@@ -18529,12 +18551,12 @@
 		</release>
 	</title>
 	<title name="The Lost Vikings" publisher="Interplay Productions, Inc." mobyGamesId="1547">
-		<release year="1993-06-10">
+		<release year="1993">
 			<media media="1.44M" status="V" tgod="2467">
 				<disk md5="75C55DAFDDF6B03962C8BB56477A5FA1" />
 			</media>
 		</release>
-		<release year="1993-06-30">
+		<release year="1993" region="UK">
 			<media media="1.44M" status="U" tgod="2314">
 				<disk md5="4972636BA76A4A1D0D7A76D06A8D95B2" />
 			</media>
@@ -18570,7 +18592,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The New Print Shop Companion" publisher="Brøderbund Software, Inc.">
+	<title name="The New Print Shop Companion" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1990" version="3.0">
 			<media media="360K" status="U">
 				<disk md5="D1AFF577F36D7AB6075E30A2CA4982CD" disk="Data Disk" />
@@ -18590,7 +18612,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The New Print Shop Graphics Library: School &amp; Business Edition" publisher="Brøderbund Software, Inc.">
+	<title name="The New Print Shop Graphics Library: School &amp; Business Edition" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="B3692FA41BA2567F806441514D71FFD5" disk="1" />
@@ -18599,7 +18621,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The New Print Shop: Graphics Library: Holiday Fun Edition" publisher="Brøderbund Software, Inc.">
+	<title name="The New Print Shop: Graphics Library: Holiday Fun Edition" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1991">
 			<media media="360K" status="V">
 				<disk md5="21C3672724F27316DEEEAA764AB5EA6F" />
@@ -18664,7 +18686,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Print Shop Deluxe Companion" publisher="Brøderbund Software, Inc.">
+	<title name="The Print Shop Deluxe Companion" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="U">
 				<disk md5="7AAA96C4E87CDFCE8FA6CC627E19A7E5" disk="1" />
@@ -18673,14 +18695,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Print Shop Deluxe: Celebrations Graphics Collection" publisher="Brøderbund Software, Inc.">
+	<title name="The Print Shop Deluxe: Celebrations Graphics Collection" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="41387A75577795BEF4E2011B27E24E3B" />
 			</media>
 		</release>
 	</title>
-	<title name="The Print Shop Deluxe: Sports Graphics Collection" publisher="Brøderbund Software, Inc.">
+	<title name="The Print Shop Deluxe: Sports Graphics Collection" publisher="Brøderbund Software, Inc." addon="1">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="A1186EE315787E44BE5ED79E250E0027" />
@@ -18905,12 +18927,12 @@
 		</release>
 	</title>
 	<title name="The Seven Cities of Gold" publisher="Electronic Arts, Inc." mobyGamesId="3451">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="B88B976F3F8F946C2F4A61A67BAF7281" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="02CEA01D68E0D10849F152A29BA36D96" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -18986,7 +19008,7 @@
 		</release>
 	</title>
 	<title name="The Slugger" publisher="Mastertronic, Inc." mobyGamesId="6850">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V" tgod="362">
 				<disk md5="5761AF56E0C55F0DEED35C5375B346F8" />
 			</media>
@@ -19046,7 +19068,7 @@
 		</release>
 	</title>
 	<title name="The Tracer Sanction" publisher="Activision, Inc." mobyGamesId="7485">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="469C877CA012C43136FB1DF425149361" cp="Key Disk" />
 			</media>
@@ -19087,12 +19109,12 @@
 		</release>
 	</title>
 	<title name="The Witness" publisher="Infocom, Inc." mobyGamesId="61">
-		<release year="1983" version="r18" serial="830910" int="3A" os="PC Booter">
+		<release year="1983" version="r18" serial="830910" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="5FB11A8FF2F83611085907C2F67ABEB9" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1983" version="r21" serial="831208" int="3B" os="PC Booter">
+		<release year="1983" version="r21" serial="831208" int="3B" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="77D63F127495B58EA5B4B9F6CFF97DB5" cp="Non-standard Sector Sizes" />
 			</media>
@@ -19105,14 +19127,14 @@
 	</title>
 	<title name="The World's Greatest Baseball Game" publisher="Epyx, Inc." mobyGamesId="22398">
 		<release year="1985">
-			<media media="360K" status="V" os="PC Booter">
+			<media media="360K" status="V" platform="PC Booter">
 				<disk md5="3C7CCDD4A5DE693753508906300146F4" cp="Epyx sector overlap" />
 			</media>
 		</release>
 	</title>
 	<title name="The World's Greatest Baseball Game: Enhanced Version" publisher="Epyx, Inc." mobyGamesId="22398">
 		<release year="1986">
-			<media media="360K" status="V" os="PC Booter">
+			<media media="360K" status="V" platform="PC Booter">
 				<disk md5="CF04F69DE2EAD488D391C25B9BBAED0F" cp="Epyx sector overlap" />
 			</media>
 		</release>
@@ -19148,7 +19170,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Their Finest Missions: Volume One" publisher="Lucasfilm Games" mobyGamesId="1035">
+	<title name="Their Finest Missions: Volume One" publisher="Lucasfilm Games" addon="1" mobyGamesId="1035">
 		<release year="1991">
 			<media media="720K" status="U">
 				<disk md5="E9253A6025D803CF3FE1983575F79746" />
@@ -19259,14 +19281,14 @@
 		</release>
 	</title>
 	<title name="Timothy Leary's Mind Mirror" publisher="Electronic Arts, Inc." mobyGamesId="254">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="DDFC1CDEB7FCEB9D1DEBE3BC6DC9BA32" cp="Electronic Arts IBM Interlock" />
 			</media>
 		</release>
 	</title>
 	<title name="Tink!Tonk!: Tink's Adventure" publisher="Mindscape, Inc." mobyGamesId="156876">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="41D8F386545D250469B3BC170C3364D2" cp="Key Disk" />
 			</media>
@@ -19349,7 +19371,7 @@
 		</release>
 	</title>
 	<title name="Touchdown Football" publisher="IBM" mobyGamesId="100">
-		<release year="1984" version="1.00" os="PC Booter" system="PCjr">
+		<release year="1984" version="1.00" platform="PC Booter" variation="PCjr">
 			<media media="320K" status="V">
 				<disk md5="FF4EA0DEE7E7DAC2BCC938D6A8ED6D43" cp="Key Disk" />
 			</media>
@@ -19390,7 +19412,7 @@
 		</release>
 	</title>
 	<title name="Trap-A-Zoid" publisher="DesignWare, Inc." mobyGamesId="122452">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="C5F41851E4BF920158F68F3AA9175D48" cp="Key Disk" />
 			</media>
@@ -19414,12 +19436,12 @@
 		</release>
 	</title>
 	<title name="Trilogy" publisher="Mastertronic, Inc." mobyGamesId="1284">
-		<release year="1988-06" os="PC Booter">
+		<release year="1988-06" platform="PC Booter">
 			<media media="360K" status="U" tgod="594">
 				<disk md5="7942FE992EB8EB2094F5124A96929B8A" />
 			</media>
 		</release>
-		<release year="1988-10" os="PC Booter">
+		<release year="1988-10" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="D3C70C78A74F6F976502C47847DD9AED" />
 			</media>
@@ -19438,7 +19460,7 @@
 		</release>
 	</title>
 	<title name="Trivia 101: The Introductory Course" publisher="IBM" mobyGamesId="1814">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="E9CB0CA9D0B6D3FB06484E829ACF19CF" cp="Key Disk" />
 			</media>
@@ -19467,7 +19489,7 @@
 		</release>
 	</title>
 	<title name="Troll's Tale" publisher="Sierra On-Line, Inc." mobyGamesId="7271">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="C2CB569745158D48F5CC622233800CF7" cp="Formaster Copylock v1/v2.0" />
 			</media>
@@ -19511,7 +19533,7 @@
 		</release>
 	</title>
 	<title name="TV and Cinema 101: Trivia from Talkies to Trekkies" publisher="IBM" mobyGamesId="81">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="0BBF43B2AA80DF9D3EFAD2BCF91F4A70" cp="Key Disk" />
 			</media>
@@ -19744,14 +19766,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Ultima VII Part Two: The Silver Seed" publisher="ORIGIN Systems, Inc." mobyGamesId="2079">
+	<title name="Ultima VII Part Two: The Silver Seed" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="2079">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="2089,3229">
 				<disk md5="A975638C7E416F288DD10526C3EACC10" />
 			</media>
 		</release>
 	</title>
-	<title name="Ultima VII: Forge of Virtue" publisher="ORIGIN Systems, Inc." mobyGamesId="1810">
+	<title name="Ultima VII: Forge of Virtue" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1810">
 		<release year="1992" version="3.4">
 			<media media="1.2M" status="V" tgod="3372">
 				<disk md5="E2F0156073AF4A25A0E09344FA7BEE17" />
@@ -19817,7 +19839,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Ultima VIII: Pagan: Speech Pack" publisher="ORIGIN Systems, Inc." mobyGamesId="2096">
+	<title name="Ultima VIII: Pagan: Speech Pack" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="2096">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="3373">
 				<disk md5="C021982D9E7D2D941079EC2312040C1F" disk="1" />
@@ -19849,7 +19871,7 @@
 		</release>
 	</title>
 	<title name="Ulysses and the Golden Fleece" publisher="Sierra On-Line, Inc." mobyGamesId="10343">
-		<release year="1982" os="PC Booter">
+		<release year="1982" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="88ABD8E4E7D79284BB0585E465EF68D7" disk="1" cp="On-Line Systems" />
 				<disk md5="46508AFCF3D308518735863D55635298" disk="2" />
@@ -19867,7 +19889,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="UMS II: Nations at War: Planet Editor" publisher="MicroProse Software, Inc." mobyGamesId="61064">
+	<title name="UMS II: Nations at War: Planet Editor" publisher="MicroProse Software, Inc." addon="1" mobyGamesId="61064">
 		<release year="1992" version="1.2" region="GB">
 			<media media="720K" status="U">
 				<disk md5="4855D9DF37C1FD801ACB497766FA94E4" disk="Program Disk" />
@@ -19884,7 +19906,7 @@
 		</release>
 	</title>
 	<title name="Uninvited for Windows" publisher="Mindscape, Inc." mobyGamesId="1071">
-		<release year="1993" os="Windows 3.1">
+		<release year="1993" platform="Windows 3.1">
 			<media media="1.44M" status="U">
 				<disk md5="07C09F2B1FB84BE7E2D58DA2C5013E8A" disk="Graphics Disk 1" />
 				<disk md5="A01F164767DE0B30B8EAFB0437FB1F61" disk="Graphics Disk 2" />
@@ -19964,7 +19986,7 @@
 		</release>
 	</title>
 	<title name="Venom" publisher="Mastertronic Ltd." mobyGamesId="50776">
-		<release year="1987" region="EU" os="PC Booter">
+		<release year="1987" region="EU" platform="PC Booter">
 			<media media="360K" status="V" tgod="2063">
 				<disk md5="3F5FED4AB03ABDFE85CB3BD5A96E75B8" />
 			</media>
@@ -20374,7 +20396,7 @@
 		</release>
 	</title>
 	<title name="Will Harvey's Music Construction Set" publisher="Electronic Arts, Inc." mobyGamesId="151">
-		<release year="1985" os="PC Booter">
+		<release year="1985" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="7FE8E5CCDAC5A36E3B39AB5CF8D5EBF5" cp="Electronic Arts IBM Interlock" />
 			</media>
@@ -20496,7 +20518,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander II: Special Operations 1" publisher="ORIGIN Systems, Inc." mobyGamesId="1106">
+	<title name="Wing Commander II: Special Operations 1" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1106">
 		<release year="1991" version="1.3">
 			<media media="1.44M" status="V" tgod="3285">
 				<disk md5="593E5139B051D6153B444B7E3F079E39" disk="1" />
@@ -20512,7 +20534,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander II: Special Operations 2" publisher="ORIGIN Systems, Inc." mobyGamesId="1107">
+	<title name="Wing Commander II: Special Operations 2" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1107">
 		<release year="1992">
 			<media media="1.44M" status="V" tgod="921">
 				<disk md5="C5ED5FC4AB28A11FA89D8C8E754394EC" disk="1" />
@@ -20520,7 +20542,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander II: Speech Accessory Pack" publisher="ORIGIN Systems, Inc." mobyGamesId="1994">
+	<title name="Wing Commander II: Speech Accessory Pack" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1994">
 		<release year="1991">
 			<media media="1.2M" status="V" tgod="751">
 				<disk md5="2A828F92C3EED03FFA3344186D78D6B4" disk="1" />
@@ -20608,7 +20630,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander: Privateer: Righteous Fire" publisher="ORIGIN Systems, Inc." mobyGamesId="1577">
+	<title name="Wing Commander: Privateer: Righteous Fire" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1577">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="416">
 				<disk md5="5ECD0B772D9D266E1BEDBDEF29B053B8" disk="1" />
@@ -20616,7 +20638,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander: Privateer: Speech Pack" publisher="ORIGIN Systems, Inc." mobyGamesId="2085">
+	<title name="Wing Commander: Privateer: Speech Pack" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="2085">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="417">
 				<disk md5="0833DC2DB4E25D80458B863D13D747FD" disk="1" />
@@ -20625,7 +20647,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander: The Secret Missions" publisher="ORIGIN Systems, Inc." mobyGamesId="1104">
+	<title name="Wing Commander: The Secret Missions" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1104">
 		<release year="1990">
 			<media media="1.2M" status="U" tgod="1643">
 				<disk md5="4117899A81AA637421D802BC6BB7917B" />
@@ -20635,7 +20657,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wing Commander: The Secret Missions 2: Crusade" publisher="ORIGIN Systems, Inc." mobyGamesId="1105">
+	<title name="Wing Commander: The Secret Missions 2: Crusade" publisher="ORIGIN Systems, Inc." addon="1" mobyGamesId="1105">
 		<release year="1991">
 			<media media="720K" status="U" tgod="413,2814">
 				<disk md5="1F009A3BB0DB02070D1160AE644F9CB5" disk="1" />
@@ -20665,7 +20687,7 @@
 		</release>
 	</title>
 	<title name="Winter Games" publisher="Epyx, Inc." mobyGamesId="1215">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="2A84B2E2E122FF8C1F8028C117BFB323" />
 			</media>
@@ -20674,7 +20696,7 @@
 	<title name="Winter Gold" publisher="Kixx">
 		<release year="1995" region="EU">
 			<media media="1.44M" status="V">
-				<disk disk="Disk 1- Winter Games" os="PC Booter" />
+				<disk disk="Disk 1- Winter Games" platform="PC Booter" />
 				<disk md5="93B8F9345409A4DAABAB65AE58FD5189" disk="Disk 2 - The Games - Winter Edition" />
 			</media>
 		</release>
@@ -20704,7 +20726,7 @@
 		</release>
 	</title>
 	<title name="The Wizard and the Princess" publisher="Sierra On-Line, Inc." mobyGamesId="1761">
-		<release year="1984" system="PCjr" os="PC Booter">
+		<release year="1984" variation="PCjr" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="A59AE53C2DB97F6EBD0191F12CF8F9B8" cp="Formaster Copylock v1/v2.0" />
 			</media>
@@ -20726,7 +20748,7 @@
 	</title>
 	<title name="Wizardry V: Heart of the Maelstrom" publisher="Sir-tech Software, Inc." mobyGamesId="3983">
 		<release year="1988">
-			<media media="320K" status="U" os="PC Booter">
+			<media media="320K" status="U" platform="PC Booter">
 				<disk md5="853EF3DEEE327508DE66C7D7D72BD6D2" disk="1" cp="Key Disk" />
 				<disk md5="4E1E33E281EBBA93EE40A56D1D93952B" disk="2" cp="Key Disk" />
 				<disk md5="94883CE3654938598269B41AA825BCBC" disk="3" cp="Key Disk" />
@@ -20755,8 +20777,8 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wizardry: Knight of Diamonds: The Second Scenario" publisher="Sir-tech Software, Inc." mobyGamesId="1304">
-		<release year="1987" os="PC Booter">
+	<title name="Wizardry: Knight of Diamonds: The Second Scenario" publisher="Sir-tech Software, Inc." addon="1" mobyGamesId="1304">
+		<release year="1987" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="FEE01BEC2EF233B7B0D15D86C72FBCE4" cp="Key Disk" />
 			</media>
@@ -20765,8 +20787,8 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wizardry: Legacy of Llylgamyn: The Third Scenario" publisher="Sir-tech Software, Inc." mobyGamesId="3984">
-		<release year="1987" os="PC Booter">
+	<title name="Wizardry: Legacy of Llylgamyn: The Third Scenario" publisher="Sir-tech Software, Inc." addon="1" mobyGamesId="3984">
+		<release year="1987" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="7388A0DA73871FBF8BFAE136BE30419E" cp="Key Disk" />
 			</media>
@@ -20776,24 +20798,24 @@
 		</release>
 	</title>
 	<title name="Wizardry: Proving Grounds of the Mad Overlord" publisher="Sir-tech Software, Inc." mobyGamesId="1209">
-		<release year="1984" version="r840227" os="PC Booter">
+		<release year="1984" version="r840227" platform="PC Booter">
 			<media media="320K" status="V">
 				<disk md5="4055FDDE2E07CC24F08692D577E3B637" cp="Key Disk" />
 			</media>
 		</release>
-		<release year="1987" version="r870314" os="PC Booter">
+		<release year="1987" version="r870314" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="6B6678BC6138F6DF9ECF1304E1AAE1EC" cp="Key Disk" />
 			</media>
 		</release>
-		<release year="1987" version="r870910" os="PC Booter">
+		<release year="1987" version="r870910" platform="PC Booter">
 			<media media="720K" status="U">
 				<disk md5="CC3935952A8AC3628451346FDA8C0865" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="Wizardry: The Return of Werdna: The Fourth Scenario" publisher="Sir-tech Software, Inc." mobyGamesId="1272">
-		<release year="1988" os="PC Booter">
+		<release year="1988" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="865FB1BAC11A8EFFDC92D02B482038A0" cp="Key Disk" />
 			</media>
@@ -20925,7 +20947,7 @@
 		</release>
 	</title>
 	<title name="Word Challenge" publisher="Hayden Software Co., Inc." mobyGamesId="135868">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="7FB79395E6B4DB8D24E4D854BE50F01D" cp="Key Disk" />
 			</media>
@@ -21013,7 +21035,7 @@
 		</release>
 	</title>
 	<title name="World Games" publisher="Epyx, Inc." mobyGamesId="1217">
-		<release year="1986" os="PC Booter">
+		<release year="1986" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="B0BFDA197D81BB8B4ADD06A9C5E876DE" cp=" Epyx sector overlap" />
 			</media>
@@ -21307,29 +21329,29 @@
 		</release>
 	</title>
 	<title name="Zork I: The Great Underground Empire: Demo" publisher="Infocom, Inc.">
-		<release year="1984" version="r15" serial="840330" int="3B" os="PC Booter">
+		<release year="1984" version="r15" serial="840330" int="3B" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="A17D0C1BCE9D08A07B9C4943300E338C" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
 	</title>
 	<title name="Zork II: The Wizard of Frobozz" publisher="Infocom, Inc." mobyGamesId="52">
-		<release year="1982" version="r19" serial="820721" os="PC Booter">
+		<release year="1982" version="r19" serial="820721" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="C2C22A0D8C2D7A4CE8CC8097F5BB2F7A" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r22" serial="830331" int="3A" os="PC Booter">
+		<release year="1983" version="r22" serial="830331" int="3A" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="0010DDE3CC29154425CCE2B4CD8271D9" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r22" serial="830331" int="3B" os="PC Booter">
+		<release year="1983" version="r22" serial="830331" int="3B" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="01497B98A4E2525CA6EE3F3B7EFF35F3" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1984" version="r48" serial="840904" int="3D" os="PC Booter">
+		<release year="1984" version="r48" serial="840904" int="3D" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="6C68DAC06DE6AA2082F4F45580A3D603" cp="Non-standard Sector Sizes" />
 			</media>
@@ -21359,17 +21381,17 @@
 				<disk md5="F1349A9A0731C92D11168A796D2F1B32" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r15" serial="830331" int="3A" os="PC Booter">
+		<release year="1983" version="r15" serial="830331" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="0A20D54CF33EC6F46A8350AD0CADB0E1" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1983" version="r16" serial="830410" int="3B" os="PC Booter">
+		<release year="1983" version="r16" serial="830410" int="3B" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="9BF1088D14CAA84B879B624B79C1B4CA" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1984" version="r17" serial="840727" int="3D" os="PC Booter">
+		<release year="1984" version="r17" serial="840727" int="3D" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="6D8A4EB64CBEF3FDD136752A14FFBE3E" cp="Non-standard Sector Sizes" />
 			</media>
@@ -21409,27 +21431,27 @@
 		</release>
 	</title>
 	<title name="Zork I: The Great Underground Empire" publisher="Infocom, Inc." mobyGamesId="50">
-		<release year="1982" version="r26" serial="820803" os="PC Booter">
+		<release year="1982" version="r26" serial="820803" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="F4457C09D76F3E9E2FB341C025123213" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r30" serial="830330" int="3A" os="PC Booter">
+		<release year="1983" version="r30" serial="830330" int="3A" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="5E7BB799ED98F59E965F39A66FA1CC6A" cp="Non-standard Sector Sizes" />
 			</media>
 		</release>
-		<release year="1983" version="r75" serial="830929" int="3A" os="PC Booter">
+		<release year="1983" version="r75" serial="830929" int="3A" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="D740B57E8A51B4B5FBEBEDB57BED267E" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1983" version="r75" serial="830929" int="3B" os="PC Booter">
+		<release year="1983" version="r75" serial="830929" int="3B" platform="PC Booter">
 			<media media="160K" status="U">
 				<disk md5="F2855A967870284D3ADF508979535CAA" cp="Non-standard Sector Sizes" fixed="1" />
 			</media>
 		</release>
-		<release year="1984" version="r88" serial="840726" int="3D" os="PC Booter">
+		<release year="1984" version="r88" serial="840726" int="3D" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="E0925A748A640222AA33A76343C565BE" cp="Non-standard Sector Sizes" />
 			</media>
@@ -21464,21 +21486,21 @@
 		</release>
 	</title>
 	<title name="ZorkQuest II: The Crystal of Doom" publisher="Infocom, Inc." mobyGamesId="1699">
-		<release year="1988" os="PC Booter">
+		<release year="1988" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="ABDFA8F205BAE2F707BACCD2EF2752AE" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="ZorkQuest: Assault on Egreth Castle" publisher="Infocom, Inc." mobyGamesId="1694">
-		<release year="1988" os="PC Booter">
+		<release year="1988" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="2E02D35FB7F27AE094D41639B984AD3C" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="Zyll" publisher="IBM" mobyGamesId="47">
-		<release year="1984" version="1.00" os="PC Booter">
+		<release year="1984" version="1.00" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="CB4BFD24ED4BBD39992A249BB27ABE69" />
 			</media>
@@ -21503,7 +21525,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Sound, Graphics &amp; Aircraft Upgrade for Microsoft Flight Simulator" publisher="Mallard Software Inc." mobyGamesId="3469">
+	<title name="Sound, Graphics &amp; Aircraft Upgrade for Microsoft Flight Simulator" publisher="Mallard Software Inc." addon="1" mobyGamesId="3469">
 		<release year="1992">
 			<media media="1.2M" status="V">
 				<disk md5="4C77987E35C3F6E5C98ED0FBC296932B" />
@@ -21857,7 +21879,9 @@
 				<disk md5="C3A582913E6AF6C1CA79AAF5D419C1E9" />
 			</media>
 		</release>
-		<release year="1993" version="1.0" os="Windows 3.1">
+	</title>
+	<title name="The Oregon Trail for Windows" publisher="MECC">
+		<release year="1993" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="3401">
 				<disk md5="D1AE719AE65BAEBE3554653253D47C4F" disk="1" />
 				<disk md5="D2AF805F99AE0F58AE3E546AADF9C1AC" disk="2" />
@@ -21880,6 +21904,10 @@
 				<disk md5="7E732975ADEA26E36704C01FD78034ED" disk="1" />
 				<disk md5="D7DF6D355559DCD0B72ADC19014D31B3" disk="2" />
 				<disk md5="D48724D52544690CD9127832FCC6BD4E" disk="3" />
+			</media>
+			<media media="1.2M" status="U">
+				<disk md5="0668154C64D38B5DEC92B0E5EF74F423" disk="1" />
+				<disk md5="1D8628031165465DA92291A95B18068B" disk="2" />
 			</media>
 		</release>
 	</title>
@@ -21918,7 +21946,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="JetFighter II: Operation Lightning Storm" publisher="Velocity Inc.">
+	<title name="JetFighter II: Operation Lightning Storm" publisher="Velocity Inc." addon="1">
 		<release year="1992" version="1.1B">
 			<media media="720K" status="U">
 				<disk md5="065399BA5474C47B3CDD20EBEBDD3545" disk="1" />
@@ -21987,7 +22015,7 @@
 		</release>
 	</title>
 	<title name="Presidents Choice" publisher="Spinnaker Software Corporation">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk disk="Program" />
 				<disk md5="6FF9A464C2939B74038F6DDEC2CF3E6D" disk="Scenarios" />
@@ -22093,7 +22121,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon II: Battleset 3: Cold War" publisher="U.S. Gold Ltd.">
+	<title name="Harpoon II: Battleset 3: Cold War" publisher="U.S. Gold Ltd." addon="1">
 		<release year="1995" region="GB">
 			<media media="1.44M" status="V" tgod="2885">
 				<disk md5="E676E8189330E2B5C1748BED2F3CF82F" disk="1" />
@@ -22277,7 +22305,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 2: North Atlantic Convoys" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon BattleSet 2: North Atlantic Convoys" publisher="Three-Sixty Pacific, Inc." addon="1">
 		<release year="1991">
 			<media media="720K" status="V" tgod="1844">
 				<disk md5="8A647DAEA397A3592FBE94E26AD54F29" disk="1" />
@@ -22285,7 +22313,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 4: Indian Ocean: Persian Gulf" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon BattleSet 4: Indian Ocean: Persian Gulf" publisher="Three-Sixty Pacific, Inc." addon="1">
 		<release year="1991">
 			<media media="360K" status="V" tgod="2878">
 				<disk md5="D7E3209580D73270482FBA409E2A6751" disk="1" />
@@ -22294,7 +22322,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon II: BattleSet 2: WestPac" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon II: BattleSet 2: WestPac" publisher="Three-Sixty Pacific, Inc." addon="1">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="2884">
 				<disk md5="E225D0702D9DDC243B998301844066BC" disk="1" />
@@ -22314,7 +22342,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon Scenario Editor" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon Scenario Editor" publisher="Three-Sixty Pacific, Inc." addon="1">
 		<release year="1990">
 			<media media="360K" status="V" tgod="2882">
 				<disk md5="D0E2AF0B46405656D3C42987A0E5FEC1" />
@@ -22571,7 +22599,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 3: The MED Conflict" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon BattleSet 3: The MED Conflict" publisher="Three-Sixty Pacific, Inc." addon="1">
 		<release year="1990">
 			<media media="360K" status="U" tgod="2877">
 				<disk md5="654FB356EC536E608235C88E2D4F99A4" disk="1" />
@@ -22926,7 +22954,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="NASCAR Track Pack" publisher="Papyrus Publishing, Inc.">
+	<title name="NASCAR Track Pack" publisher="Papyrus Publishing, Inc." addon="1">
 		<release year="1995" version="1.2">
 			<media media="1.44M" status="V" tgod="930">
 				<disk md5="C2B4B796013CE923B64F1BDD86E0044C" disk="1" />
@@ -22936,14 +22964,14 @@
 		</release>
 	</title>
 	<title name="Frogger II: ThreeeDeep!" publisher="SEGA Enterprises, Inc.">
-		<release year="1984" os="PC Booter">
+		<release year="1984" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="37BD02F0991891B0D7181C74DE24BA9D" cp="Key Disk" />
 			</media>
 		</release>
 	</title>
 	<title name="Tapper" publisher="SEGA Enterprises, Inc.">
-		<release year="1983" os="PC Booter">
+		<release year="1983" platform="PC Booter">
 			<media media="180K" status="V">
 				<disk md5="D53F43B18147630F80FCEA76A1CDB7D0" cp="Key Disk" disk="Composite" />
 				<disk md5="07A23962A690BA353D4DB9F7B3F1F5BF" cp="Key Disk" disk="RGB" />
@@ -22959,7 +22987,7 @@
 		</release>
 	</title>
 	<title name="Tag Team Wrestling" publisher="Data East Corporation">
-		<release year="1987" os="PC Booter">
+		<release year="1987" platform="PC Booter">
 			<media media="160K" status="V">
 				<disk md5="2D4CFBBBE3A78C6FF80DADC4C74D5BA3" cp="Epyx sector overlap" />
 			</media>
@@ -23058,14 +23086,14 @@
 		</release>
 	</title>
 	<title name="I Can Be Anything" publisher="IBM">
-		<release year="1983" version="1.00" os="PC Booter">
+		<release year="1983" version="1.00" platform="PC Booter">
 			<media media="360K" status="U">
 				<disk md5="57E27E39F0F3C416E26A3A882FE38744" />
 			</media>
 		</release>
 	</title>
 	<title name="Turtle Power" publisher="IBM">
-		<release year="1983" version="1.00" os="PC Booter">
+		<release year="1983" version="1.00" platform="PC Booter">
 			<media media="320K" status="U">
 				<disk md5="DC3E38C4B801376898C4B5C210513665" />
 			</media>
@@ -23343,7 +23371,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warlords II Scenario Builder" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Warlords II Scenario Builder" publisher="SSG Strategic Studies Group Pty Ltd." addon="1">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="1420">
 				<disk md5="8E62C358BCF743F3B17D8CF7A8955160" disk="1" />
@@ -23467,7 +23495,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Lots -o- $lot$" publisher="Capstone Software">
+	<title name="Lots -o- $lot$" publisher="Capstone Software" addon="1">
 		<release year="1992">
 			<media media="360K" status="U">
 				<disk md5="91196BA5A6FA9E82C9D979C7C1943444" disk="1" />
@@ -23484,7 +23512,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Poker" publisher="Capstone Software">
+	<title name="Poker" publisher="Capstone Software" addon="1">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="28C6448E9B9395B209883A92295534F3" disk="1" />
@@ -23757,7 +23785,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Transport Tycoon: Scenario" publisher="MicroProse Software, Inc.">
+	<title name="Transport Tycoon: Scenario" publisher="MicroProse Software, Inc." addon="1">
 		<release year="1995">
 			<media media="1.44M" status="V">
 				<disk md5="0CAAA6A3AE24CA27C4A5DABB70440135" />
@@ -23788,7 +23816,7 @@
 		</release>
 	</title>
 	<title name="Street Football" publisher="Capcom Co., Ltd.">
-		<release year="1988">
+		<release year="1988" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk md5="C53B43B1972FFE6CBFE6BEA3B0D32DAE" cp="Key Disk" />
 			</media>
@@ -23802,10 +23830,47 @@
 		</release>
 	</title>
 	<title name="Deluxe Scrabble for Windows" publisher="Virgin Games, Inc.">
-		<release year="1992" version="1.0">
+		<release year="1992" version="1.0" platform="Windows 3.1">
+			<media media="1.2M" status="U" tgod="1917">
+				<disk md5="92F3FDEBD246D890D472BBA0232EC18A" disk="1" />
+				<disk md5="01D1918C3CA35376722D3F4DE3F9052A" disk="2" />
+			</media>
 			<media media="1.44M" status="V">
 				<disk md5="C7B13ED00320C2857A37076B2097DC7D" disk="1" />
 				<disk md5="8308EFBDE44B394B56D70968A9737653" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="The Simpsons: Bart's House of Weirdness" publisher="Konami Corporation">
+		<release year="1991">
+			<media media="1.2M" status="U">
+				<disk md5="37FA26F7F1604C750602E3215D7BC7FA" disk="1" fixed="1" />
+				<disk md5="4E3CF0F28B3077FDC2876BE4CE955CE4" disk="2" status="V" />
+			</media>
+		</release>
+	</title>
+	<title name="Ashes of Empire" publisher="GameTek, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="99986EBCE001C191881E166FEAE3C470" disk="1" />
+				<disk md5="5890ED356EA7E72CFC194E01C6B0A2E1" disk="2" />
+				<disk md5="7F8D3C20B2059A3DC34C5FDA6ED54ACB" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Championship Baseball" publisher="Activision, Inc.">
+		<release year="1987">
+			<media media="360K" status="V">
+				<disk md5="D1A08B54093833E05E66C359CA288B7E" cp="Key Disk" />
+			</media>
+		</release>
+	</title>
+	<title name="Atari 2600 Action Pack for Windows" publisher="Activision, Inc.">
+		<release year="1995" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="30B7E5A516A3EB0FD07DF975A2CE8C3E" disk="1" />
+				<disk md5="84DB0A0BE0734252C3032AACCD387983" disk="2" />
+				<disk md5="5C8F868F77208155409291943E71AADC" disk="3" />
 			</media>
 		</release>
 	</title>
