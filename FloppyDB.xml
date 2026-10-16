@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root version="20261011.01">
+<root version="20261015.01">
 	<languages>
 		<language code="En" name="English" />
 		<language code="Fr" name="French" />
@@ -20,7 +20,7 @@
 		<region code="ES" name="Spain" />
 		<region code="IT" name="Italy" />
 		<region code="PT" name="Portugal" />
-		<region code="TW" name="Taiwan" />	
+		<region code="TW" name="Taiwan" />
 		<region code="ZH" name="China" />
 	</regions>
 	<title name="007: James Bond: The Stealth Affair" publisher="Interplay Productions, Inc." mobyGamesId="2236">
@@ -99,7 +99,7 @@
 			<media media="720K" status="V">
 				<disk md5="A90F90A9B5029AB375CAC5B58EB8CE66" cp="H.L.S. Duplication" />
 			</media>
-		</release>	
+		</release>
 		<release year="1988" publisher="Accolade Europe Ltd.">
 			<media media="360K" status="V">
 				<disk md5="E709E0F2BC5A7924F299E0530BBB8FB6" cp="H.L.S. Duplication" />
@@ -581,7 +581,7 @@
 				<disk md5="E06836461125398642ED708AD14952A3" disk="3" />
 				<disk md5="F4B0B3BEB92C77870A0E39AABE7617DE" disk="4" />
 			</media>
-		</release>	
+		</release>
 	</title>
 	<title name="Alley Cat" publisher="IBM" mobyGamesId="190">
 		<release year="1984" platform="PC Booter">
@@ -1132,7 +1132,7 @@
 				<disk md5="846178EC453E9E2E75104EC676906840" disk="1" />
 				<disk md5="07E8E97F42C45D6BD27972BE63C361F6" disk="2" />
 				<disk md5="8CF4B26FD43170484EBF7D74AB35D54C" disk="3" />
-			</media>			
+			</media>
 		</release>
 		<release year="1992" region="DE" publisher="Ocean Software Ltd.">
 			<media media="720K" status="U" tgod="3036">
@@ -3586,7 +3586,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Destroyer" publisher="Epyx, Inc." mobyGamesId="11068">		
+	<title name="Destroyer" publisher="Epyx, Inc." mobyGamesId="11068">
 		<release year="1987-03-17">
 			<media media="360K" status="V">
 				<disk md5="C339E9C4DFA3ECF2BF4A171AB9325557" cp="H.L.S. Duplication" />
@@ -4711,7 +4711,7 @@
 				<disk md5="188F4EA73C9A964836B1223A5789C7D8" disk="1 &amp; 2" />
 				<disk md5="E03CB6E87814A81E652690F69F29A690" disk="3 &amp; 4" />
 				<disk md5="ACF1367E3DA80376853D4BF68B3C065A" disk="5" />
-			</media>			
+			</media>
 		</release>
 		<release year="1991" version="1.6">
 			<media media="360K" status="U" tgod="1694">
@@ -5236,7 +5236,7 @@
 				<disk md5="B4CCAF3C927290A1ED03FC1EA04A8435" disk="4" status="V" />
 				<disk md5="EC0E5B65016CA5E262B3D9F1186B4546" disk="5" fixed="1" />
 			</media>
-		</release>		
+		</release>
 	</title>
 	<title name="Fiendish Freddy's Big Top O' Fun" publisher="Mindscape, Inc." mobyGamesId="17986">
 		<release year="1989">
@@ -5995,7 +5995,7 @@
 				<disk md5="D182B78C5372D899BFA78AF5DEF9E6C0" disk="4" />
 				<disk md5="A88BA612CF16CEE052F99E4FBC201A40" disk="5" />
 			</media>
-		</release>		
+		</release>
 		<release year="1993-10" region="DE">
 			<media media="1.44M" status="V" tgod="1394">
 				<disk md5="0F04837033BD5CC6C58AFB539EE427BE" disk="1" status="U" />
@@ -6557,7 +6557,7 @@
 		</release>
 		<release year="1989" version="1.000" int="0.000.566">
 			<media media="360K" status="V">
-				<disk md5="0C8D1CED11FFC973884D6A353257AFDF" disk="1" />				
+				<disk md5="0C8D1CED11FFC973884D6A353257AFDF" disk="1" />
 				<disk md5="154F9B7CA8ADE6BE0C7AB2C7CC8FF09A" disk="2" />
 				<disk md5="5CD4A39B133B7023181495080123C489" disk="3" />
 				<disk md5="E7E0B0928E50F4A8B78BCABE9D492518" disk="4" />
@@ -7286,6 +7286,11 @@
 				<disk md5="6E545C9EAF6C56A66F55C32E626B5943" disk="1" />
 				<disk md5="49F21736ECD508578ADD90C10162898E" disk="2" />
 				<disk md5="6D00017A0F92384511D5D036E6BEFC29" disk="3" />
+			</media>
+		</release>
+		<release variation="EGA" year="1993" version="1.4" region="DE" publisher="Softgold Computerspiele GmbH">
+			<media media="1.44M" status="V">
+				<disk md5="89C72B94752AC52C4956B7F253599B97" />
 			</media>
 		</release>
 		<release variation="EGA" year="1992" version="1.3" publisher="Ubi Soft Entertainment Software" region="FR">
@@ -9418,7 +9423,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Banff Springs" publisher="Access Software, Inc." mobyGamesId="4173">
+	<title name="Links: Championship Course: Banff Springs" publisher="Access Software, Inc." addon="1" mobyGamesId="4173">
 		<release year="1993" version="1.10">
 			<media media="1.44M" status="V">
 				<disk md5="D6349309BFF6AA823C0EBD344D10009E" disk="1" />
@@ -9434,7 +9439,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Barton Creek" publisher="Access Software, Inc." mobyGamesId="21613">
+	<title name="Links: Championship Course: Barton Creek" publisher="Access Software, Inc." addon="1" mobyGamesId="21613">
 		<release variation="VGA" year="1992" version="1.52">
 			<media media="720K" status="V" tgod="1673">
 				<disk md5="AEB54955CA405439F1B440783046C600" disk="1" />
@@ -9459,7 +9464,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Bay Hill Club &amp; Lodge" publisher="Access Software, Inc." mobyGamesId="2222">
+	<title name="Links: Championship Course: Bay Hill Club &amp; Lodge" publisher="Access Software, Inc." addon="1" mobyGamesId="2222">
 		<release year="1991" version="1.45">
 			<media media="1.2M" status="U" tgod="2315">
 				<disk md5="E27CF9343EA6FC609495C88448D787F5" />
@@ -9485,7 +9490,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Bighorn" publisher="Access Software, Inc." mobyGamesId="4030">
+	<title name="Links: Championship Course: Bighorn" publisher="Access Software, Inc." addon="1" mobyGamesId="4030">
 		<release year="1994" version="1.21">
 			<media media="1.44M" status="V" tgod="2607">
 				<disk md5="653066B773CA6133D515FAD853907AB2" disk="1" />
@@ -9494,7 +9499,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Bountiful Golf Course" publisher="Access Software, Inc." mobyGamesId="2221">
+	<title name="Links: Championship Course: Bountiful Golf Course" publisher="Access Software, Inc." addon="1" mobyGamesId="2221">
 		<release variation="VGA" year="1991" version="1.44">
 			<media media="1.2M" status="U" tgod="2316">
 				<disk md5="B70F23041677D0B5CAC116AD6DAF7E54" />
@@ -9525,7 +9530,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Castle Pines Golf Club" publisher="Access Software, Inc." mobyGamesId="4547">
+	<title name="Links: Championship Course: Castle Pines Golf Club" publisher="Access Software, Inc." addon="1" mobyGamesId="4547">
 		<release year="1994-03-10" version="1.21">
 			<media media="1.44M" status="V" tgod="2999">
 				<disk md5="8921FECDD8F3B64BB21855880835020C" disk="1" />
@@ -9541,7 +9546,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Cog Hill Golf &amp; Country Club" publisher="Access Software, Inc." mobyGamesId="56756">
+	<title name="Links: Championship Course: Cog Hill Golf &amp; Country Club" publisher="Access Software, Inc." addon="1" mobyGamesId="56756">
 		<release year="1995" version="1.21">
 			<media media="1.44M" status="V">
 				<disk md5="3480388F04EE894B8F9E9701A9BC5EE8" disk="1" />
@@ -9551,7 +9556,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Firestone Country Club" publisher="Access Software, Inc." mobyGamesId="2224">
+	<title name="Links: Championship Course: Firestone Country Club" publisher="Access Software, Inc." addon="1" mobyGamesId="2224">
 		<release variation="VGA" year="1991" version="1.43">
 			<media media="720K" status="U" tgod="3315">
 				<disk md5="3F529FB1404780296C22548BC57C916F" />
@@ -9591,7 +9596,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Hyatt Dorado Beach" publisher="Access Software, Inc." mobyGamesId="2223">
+	<title name="Links: Championship Course: Hyatt Dorado Beach" publisher="Access Software, Inc." addon="1" mobyGamesId="2223">
 		<release year="1991" version="1.51">
 			<media media="1.2M" status="U" tgod="2991">
 				<disk md5="9D92E38A43EC88243448ED97F90FE9F7" />
@@ -9617,7 +9622,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Innisbrook" publisher="Access Software, Inc." mobyGamesId="9630">
+	<title name="Links: Championship Course: Innisbrook" publisher="Access Software, Inc." addon="1" mobyGamesId="9630">
 		<release year="1993" version="1.10">
 			<media media="1.44M" status="V">
 				<disk md5="1858142E487AE3AF353C0D0580AC1BB8" disk="1" />
@@ -9633,7 +9638,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Mauna Kea" publisher="Access Software, Inc." mobyGamesId="5243">
+	<title name="Links: Championship Course: Mauna Kea" publisher="Access Software, Inc." addon="1" mobyGamesId="5243">
 		<release year="1992" version="1.08">
 			<media media="1.44M" status="V">
 				<disk md5="3EFA437C4AE4558EBF8001245483F6C1" disk="1" />
@@ -9649,7 +9654,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Pebble Beach" publisher="Access Software, Inc." mobyGamesId="3885">
+	<title name="Links: Championship Course: Pebble Beach" publisher="Access Software, Inc." addon="1" mobyGamesId="3885">
 		<release year="1993" version="1.20">
 			<media media="1.44M" status="V" tgod="2959">
 				<disk md5="864B89D48515AF5A70270A7D2DB01C35" disk="1" />
@@ -9665,7 +9670,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Pinehurst Resort &amp; Country Club" publisher="Access Software, Inc." mobyGamesId="2225">
+	<title name="Links: Championship Course: Pinehurst Resort &amp; Country Club" publisher="Access Software, Inc." addon="1" mobyGamesId="2225">
 		<release variation="VGA" year="1991" version="1.50">
 			<media media="720K" status="U">
 				<disk md5="43295D3809B4875277A63872C12C36E9" disk="1" fixed="1" />
@@ -9699,7 +9704,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Pinehurst Resort &amp; Country Club: A Personal Tour" publisher="Access Software, Inc." mobyGamesId="2225">
+	<title name="Links: Championship Course: Pinehurst Resort &amp; Country Club: A Personal Tour" publisher="Access Software, Inc." addon="1" mobyGamesId="2225">
 		<release year="1991">
 			<media media="720K" status="V">
 				<disk md5="6C1DC3D83FF3B2D7257694D10CCEC5B1" disk="1" />
@@ -9707,7 +9712,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Prairie Dunes Country Club" publisher="Access Software, Inc." mobyGamesId="56745">
+	<title name="Links: Championship Course: Prairie Dunes Country Club" publisher="Access Software, Inc." addon="1" mobyGamesId="56745">
 		<release year="1995" version="1.21">
 			<media media="1.44M" status="V" tgod="3005">
 				<disk md5="5BF3F22AECFD078F009D33E3639BD007" disk="1" />
@@ -9716,7 +9721,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Riviera Country Club" publisher="Access Software, Inc." mobyGamesId="56739">
+	<title name="Links: Championship Course: Riviera Country Club" publisher="Access Software, Inc." addon="1" mobyGamesId="56739">
 		<release year="1995" version="1.21">
 			<media media="1.44M" status="V">
 				<disk md5="CF2477F3606A375D9B7B62AA1E2E7795" disk="1" />
@@ -9726,7 +9731,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: The Belfry" publisher="Access Software, Inc." mobyGamesId="37368">
+	<title name="Links: Championship Course: The Belfry" publisher="Access Software, Inc." addon="1" mobyGamesId="37368">
 		<release year="1993" version="1.10">
 			<media media="1.44M" status="V">
 				<disk md5="C914E1179893F9D61262F4B0239A4093" disk="1" />
@@ -9749,7 +9754,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Championship Course: Troon North" publisher="Access Software, Inc." mobyGamesId="2226">
+	<title name="Links: Championship Course: Troon North" publisher="Access Software, Inc." addon="1" mobyGamesId="2226">
 		<release variation="VGA" year="1992" version="1.53">
 			<media media="720K" status="V" tgod="1679">
 				<disk md5="F2030C07746C3618BAF0F56A250FCBED" disk="1" />
@@ -9773,7 +9778,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Links: Fantasy Course: Devil's Island" publisher="Access Software, Inc." mobyGamesId="4029">
+	<title name="Links: Fantasy Course: Devil's Island" publisher="Access Software, Inc." addon="1" mobyGamesId="4029">
 		<release year="1995" version="1.21">
 			<media media="1.44M" status="V" tgod="3008">
 				<disk md5="3F79143D172530F55FAC785AC33A4338" disk="1" />
@@ -9808,12 +9813,12 @@
 				<disk md5="7E6271E0F2BBE054BDF174725FB2347D" disk="3" />
 				<disk md5="D15B6FBADEE23CEB9D6E05A4987C12D5" disk="4" />
 				<disk md5="AB49BA35BBE764D37EB47DF197BA24C0" disk="5" />
-			</media>	
+			</media>
 			<media media="720K" status="V" tgod="1680">
 				<disk md5="9F3A62EBACE3EEFCFEFDFE6B4F518864" disk="1" />
 				<disk md5="47110181F78D26141C470646FE345D5A" disk="2" />
 				<disk md5="1A9E4DAE6BA6144911E656599DBC91C8" disk="3" />
-			</media>			
+			</media>
 		</release>
 		<release year="1991" version="1.52">
 			<media media="1.2M" status="U" tgod="855">
@@ -9964,7 +9969,7 @@
 				<disk md5="846483898205BF809557C995E60BA942" disk="2" />
 				<disk md5="105AE54725C0E812D6E2E52B05377853" disk="3" />
 			</media>
-		</release>		
+		</release>
 		<release year="1991" version="1.1" int="3.5.37">
 			<media media="720K" status="V">
 				<disk md5="7B9D52C377425B3A400015E4E16FDEE3" disk="1" />
@@ -11061,8 +11066,8 @@
 				<disk disk="1" />
 				<disk md5="07DDCA6FABF3FD61F972FC239688B54B" disk="2" />
 				<disk md5="0B86DB22CEE20FB6DE585F94EE4DDA35" disk="3" />
-			</media>                                                 
-			<media media="720K" status="V" tgod="2869">                          
+			</media>
+			<media media="720K" status="V" tgod="2869">
 				<disk md5="D9147BB5FDF26D7BF68B76C53B2B8D73" disk="1" />
 				<disk md5="91AD714EB98B074F6930865B8419EFD9" disk="2" />
 			</media>
@@ -11144,6 +11149,46 @@
 			</media>
 		</release>
 	</title>
+	<title name="Microsoft MS-DOS 3.30" publisher="Microsoft Corporation">
+		<release variation="OEM" year="1987" region="FR" publisher="DTK Computer">
+			<media media="360K" status="V">
+				<disk md5="270E6266C7EAB9F5917DC3DBF50AD0CF" disk="1" />
+				<disk md5="D50B0B5C368ADC718058B8420A572275" disk="2" />
+			</media>
+		</release>
+		<release variation="OEM" year="1991" region="DE" publisher="Toshiba">
+			<media media="720K" status="U">
+				<disk md5="F6392F48CB52DF12620E256607376FA3" disk="1" />
+				<disk md5="AF44B6FA2FC1B4C4E1C182FB3D88CFCD" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft MS-DOS 4.01" publisher="Microsoft Corporation">
+		<release year="1989" region="FR">
+			<media media="360K" status="V">
+				<disk md5="F65B8F7BFBDE22ADAFAB034221D43F51" disk="1" />
+				<disk md5="4F4E36235747E8951C6AC1441825A6FB" disk="2" />
+				<disk md5="878D0D6AC625CD229B184843EFE9455D" disk="3" />
+				<disk md5="444DE85FDB7F0125EFA1CD36E5EB6E77" disk="4" />
+				<disk md5="992183D5E21F35D27ADB852D84A2F2E9" disk="5" />
+				<disk md5="82A69E6F16654261274F0F775E58E094" disk="Shell" />
+			</media>
+		</release>
+		<release variation="OEM" year="1990-08-17" region="DE" publisher="Commodore Electronics Limited">
+			<media media="720K" status="V">
+				<disk md5="530AA231B062B5D0CB9C994E8509166D" disk="Install" />
+				<disk md5="80641A1082610D7843F1D66998442702" disk="Operating System" />
+				<disk md5="A82E3BB3E88E1B9BD28D0D896EFBFAD3" disk="Shell 1.01" />
+			</media>
+		</release>
+		<release variation="OEM" year="1990-08-22" region="DE" publisher="Commodore Electronics Limited">
+			<media media="720K" status="U">
+				<disk md5="0520FBCB7842D298356D505FA4BECE0E" disk="Install" />
+				<disk md5="80641A1082610D7843F1D66998442702" disk="Operating System" status="V" />
+				<disk md5="C9D2F4E556171DD08A94A57C746F6A58" disk="Shell 1.01" />
+			</media>
+		</release>
+	</title>
 	<title name="Microsoft MS-DOS 5.0" publisher="Microsoft Corporation">
 		<release year="1991">
 			<media media="360K" status="U">
@@ -11167,6 +11212,20 @@
 				<disk md5="49C9860FD62F2EF1008DCFDD381C73C5" disk="2" />
 			</media>
 		</release>
+		<release year="1991" region="FR">
+			<media media="720K" status="V">
+				<disk md5="78F15432434BAFBAD9DBDEC0460A43BC" disk="1" />
+				<disk md5="0B10A4A53CAB156D7482E05DD387B264" disk="2" />
+				<disk md5="F622626B336D6508448BD0D8253458C3" disk="3" />
+			</media>
+		</release>
+		<release year="1991" variation="OEM" region="DE" publisher="Commodore Electronics Limited">
+			<media media="720K" status="U">
+				<disk md5="93F101C581913AB0D8B0A60A9A726FE1" disk="1" />
+				<disk md5="ED99FEACEB7A56EFA6D3AB5D5927551D" disk="2" />
+				<disk md5="3651013D3080CBFB27F8E3F1B1991CBC" disk="3" />
+			</media>
+		</release>
 	</title>
 	<title name="Microsoft MS-DOS 5.0 Upgrade" publisher="Microsoft Corporation">
 		<release year="1991">
@@ -11186,6 +11245,17 @@
 				<disk md5="24608EF8E4857AAFCE54B56D1F0BBD4E" disk="3" />
 			</media>
 		</release>
+		<release year="1991" region="DE">
+			<media media="360K" status="V">
+				<disk md5="F7CD1714ED37107B1FD3A8628F633BC8" disk="1" />
+				<disk md5="79B193CB913D1ED6E85F89BE4DFDB875" disk="2" />
+				<disk md5="549800211A70C258DB38AD94720FF339" disk="3" />
+				<disk md5="AD6AD686720C4AE0265AFC21F901B517" disk="4" />
+				<disk md5="8C87EF0A0326EBA857F955CF55D33CFF" disk="5" />
+				<disk md5="BB0ED770100901A6C41BB0CD379ABA46" disk="6" />
+				<disk md5="5616444987742E6FFB531C3F84B40915" disk="7" />
+			</media>
+		</release>
 	</title>
 	<title name="Microsoft MS-DOS 5.0a" publisher="Microsoft Corporation">
 		<release year="1991">
@@ -11198,6 +11268,49 @@
 		<release year="1991">
 			<media media="1.44M" status="U">
 				<disk md5="50F69E72FBA8523334FD8855E0BD2A9F" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft MS-DOS 6 Update" publisher="Microsoft Corporation">
+		<release year="1993" region="DE">
+			<media media="1.2M" status="V">
+				<disk md5="F87E0A5F26A06D362A0F084DB10502AD" disk="1" />
+				<disk md5="9A21261E41A68C23C8325582DAB6ECAC" disk="2" />
+				<disk md5="46F62D4FE9612E798ADCEB8C866A7870" disk="3" />
+				<disk md5="C998794F57D4F055309314F7E3434D23" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft MS-DOS 6.2" publisher="Microsoft Corporation">
+		<release year="1993" region="FR">
+			<media media="1.44M" status="V">
+				<disk md5="2A02BB4A91985405FF32E295113F3887" disk="1" />
+				<disk md5="A23FB948CEFF47B3EE080DFBBDD66271" disk="2" />
+				<disk md5="54D55DC4A3147E46181FCD53D3A6DDD7" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft MS-DOS 6.2 Step-Up" publisher="Microsoft Corporation">
+		<release year="1993" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="92529126C6B0DFC7C6ACA673403C5CEB" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft MS-DOS 6.22" publisher="Microsoft Corporation">
+		<release year="1994" region="FR">
+			<media media="1.44M" status="V">
+				<disk md5="4EEB0503CEDE0A64AD514E3F452FD6AE" disk="1" />
+				<disk md5="214D1FDDC7B9D6D2AF8A2FBE7E4AA1F0" disk="2" />
+				<disk md5="6DDAA689A25C9D7A4211520EAD8A2AA8" disk="3" />
+			</media>
+		</release>
+		<release year="1994" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="72ED33DE548A5AE5DE9C6C079A6A245B" disk="1" />
+				<disk md5="1BB536AEA2E6B58FBA4E91D396CBE74E" disk="2" />
+				<disk md5="32EE443F1FAA75483BAB9017C6851C9B" disk="3" />
+				<disk md5="82BB89CF5B0747808D12B615BB3E5E85" disk="Zusatzdiskette" />
 			</media>
 		</release>
 	</title>
@@ -11214,7 +11327,7 @@
 	<title name="Microsoft MS-DOS 6.22 Upgrade" publisher="Microsoft Corporation">
 		<release year="1994">
 			<media media="1.44M" status="V">
-				<disk md5="BC929D88ACD0BBBD6734CD18E1A633F2" disk="1 - Setup" />
+				<disk md5="BC929D88ACD0BBBD6734CD18E1A633F2" disk="Disk 1 - Setup" />
 				<disk md5="203046EEF066FB97A58BDCA70204D136" disk="2" />
 				<disk md5="0A2A061A95A822D2A0EED4FF52147CB2" disk="3" />
 			</media>
@@ -11243,6 +11356,52 @@
 			</media>
 		</release>
 	</title>
+	<title name="Microsoft Windows/286" publisher="Microsoft Corporation">
+		<release year="1989" version="2.10" region="FR">
+			<media media="720K" status="U">
+				<disk md5="0CFA9A1F7E277A2CDD5D9714A30F190D" disk="1" />
+				<disk md5="7C4ADD2EA660394703640D5DDF622600" disk="2" status="V" />
+				<disk md5="E4576935964849FA939DBE8757B7F124" disk="3" status="V" />
+				<disk md5="8FF1FD7AC1AEE2DD027E656A299B40B1" disk="4" />
+				<disk md5="35A6D5F7B7221218D001943657DE6A75" disk="5" status="V" />
+				<disk md5="65E06277932F3AD37AD49C50D4A1A9CA" disk="6" />
+				<disk md5="808B3C14B468A93E1F03D220DE47008F" disk="7" />
+			</media>
+		</release>
+		<release year="1989" version="2.11" region="DE">
+			<media media="1.2M" status="V">
+				<disk md5="8342B11E94C80D2015DC39FB2AB4D3BD" disk="1" />
+				<disk md5="C1F8843AABEF032E776A64D0BF50C5CD" disk="2" />
+				<disk md5="2B3F8C4A7129C033FE70018BCDEBC374" disk="3" />
+				<disk md5="2A4337CC7028B740E0C1DD661BC6406B" disk="4" />
+			</media>
+		</release>
+		<release year="1989" version="2.11">
+			<media media="720K" status="V">
+				<disk md5="5E26C903F3D64BF1A7794FF90243A4A0" disk="Additional Drivers" />
+				<disk md5="13D4738FA9B942CADAC6EE134EE575CA" disk="Desktop Applications and Microsoft Windows Write" />
+				<disk md5="D2E4C377A564F577036E72B3D9836CB8" disk="Displays" status="U" fixed="1" />
+				<disk md5="521F65D32DF7FA7A9D1A90AFE740AE85" disk="Fonts" />
+				<disk md5="41C541FD3D868F72D5B83D75443AAB09" disk="Setup/PC Paintbrush for Windows" status="U" fixed="1" />
+				<disk md5="10FF21EF3EED629F77A8557A31686FE6" disk="Setup and Build" status="U" fixed="1" />
+				<disk md5="8EB21F452E0CB777AEA6BE62BC2BE497" disk="Utilities 1" />
+				<disk md5="C9D8B2B647952A6E8F1BAC9D05D0DD59" disk="Utilities 2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows/386" publisher="Microsoft Corporation">
+		<release year="1989" version="2.11" region="DE">
+			<media media="720K" status="V">
+				<disk md5="19E3B7F8EEC2DE4E6755663634DA0D69" disk="1" />
+				<disk md5="5BBE89202A87FF3BD10917ECCBC8CAED" disk="2" />
+				<disk md5="010D8EEF5B157FBCBBA4720484743956" disk="3" />
+				<disk md5="156924A202AC53C812B39BDF22B283A9" disk="4" />
+				<disk md5="94ED375CDEC6422AB1AF6C99D25504D6" disk="5" />
+				<disk md5="B5ECB8090C65E7A92F5DD94A04FDE3FC" disk="6" />
+				<disk md5="402413DCF9AD8ADE6C5C33B782BF9FED" disk="7" />
+			</media>
+		</release>
+	</title>
 	<title name="Microsoft Windows 3.0" publisher="Microsoft Corporation">
 		<release year="1990">
 			<media media="720K" status="V">
@@ -11253,6 +11412,218 @@
 				<disk md5="A8192459926DC6FDCC7B6CA74388A99F" disk="5" />
 				<disk md5="974875D1B298C631961F47267FC8E725" disk="6" />
 				<disk md5="321DAF0FE6B4DC80371C7F34A995E861" disk="7" />
+			</media>
+		</release>
+		<release year="1990" region="DE">
+			<media media="1.2M" status="V">
+				<disk md5="E42EB64C75C07755F1A210703E42EA5E" disk="1" />
+				<disk md5="494C964EDDD4FC5BE37EEA6C9F0E26C7" disk="2" />
+				<disk md5="1FB2C891789C39BE7D06900A0334919E" disk="3" />
+				<disk md5="6B917BBB5098BE1B9FC71E52010A6E15" disk="4" />
+				<disk md5="CD034398F963F9AF69EC4AC7731FFB78" disk="5" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="190913053833C7123D59BC7D82FF9201" disk="1" />
+				<disk md5="7E7E872CF1510D453193C579F194055A" disk="2" />
+				<disk md5="03AC218BB9671E4DF4A717BBB7788C26" disk="3" />
+				<disk md5="D8719E08EE41E07EC982BD92B74B04A8" disk="4" />
+				<disk md5="B12E5F16D5FE281C2657C15F2DB8FA76" disk="5" />
+				<disk md5="96D896560A0B28E06E1E6192F950B6A9" disk="6" />
+				<disk md5="E86481E4666E0E16DD2BE728887966A4" disk="7" />
+			</media>
+		</release>
+		<release year="1990" variation="OEM" region="DE" publisher="ESCOM">
+			<media media="720K" status="V">
+				<disk md5="190913053833C7123D59BC7D82FF9201" disk="1" />
+				<disk md5="7E7E872CF1510D453193C579F194055A" disk="2" />
+				<disk md5="696414FE8CB3B66047A845D206AA0114" disk="3" />
+				<disk md5="D8719E08EE41E07EC982BD92B74B04A8" disk="4" />
+				<disk md5="B12E5F16D5FE281C2657C15F2DB8FA76" disk="5" />
+				<disk md5="96D896560A0B28E06E1E6192F950B6A9" disk="6" />
+				<disk md5="E86481E4666E0E16DD2BE728887966A4" disk="7" />
+			</media>
+		</release>
+		<release year="1991" version="3.0a" region="FR">
+			<media media="720K" status="V">
+				<disk md5="A0DDC4B0C6B16CC70CD3564C6C864CDF" disk="1" />
+				<disk md5="4CFE8136264719432D91F3930513BA3B" disk="2" />
+				<disk md5="36188389A9247CAF85A4CFB1C151A14B" disk="3" />
+				<disk md5="10D7B1B82D09B507CF4F4A23275AEECD" disk="4" />
+				<disk md5="C7A14D2B4F4B859C8F9687B09E3276B4" disk="5" />
+				<disk md5="06C608014F35FF1D2CD6B83C0D93B65F" disk="6" />
+				<disk md5="BF153276BA124B0214B6E2793065E6D0" disk="7" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows 3.1" publisher="Microsoft Corporation">
+		<release year="1992" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="890B8502C77F988BBF58680050427FDA" disk="1" />
+				<disk md5="229E8D85F397C461ED2258A448081C05" disk="2" />
+				<disk md5="290935FB63986002E9114AAC72B44628" disk="3" />
+				<disk md5="60B627138A56241B3AC0E398769551CD" disk="4" />
+				<disk md5="4C56EF12388D17967C8DB9F253A878DC" disk="5" />
+				<disk md5="0D49E027656370DFECA2A3F450BB6BC7" disk="6" />
+				<disk md5="D0B7F369DFCC27F87156DF5F5AAFB27A" disk="7" />
+
+			</media>
+		</release>
+		<release variation="OEM" year="1992" region="DE" publisher="Compaq">
+			<media media="1.44M" status="V">
+				<disk md5="FCCBBF3BA34F866CAFC6D082FF6A3A87" disk="1" />
+				<disk md5="226B721DD5C5497B66C0810D3BDE442F" disk="2" />
+				<disk md5="6415FA0AFEFC8DE1BC806C7A0FA72B61" disk="3" />
+				<disk md5="FD3F8A2F07873726B8B6E36C7A72DA20" disk="4" />
+				<disk md5="5B3F2EB3BA9080E8A9D9789F8F27D86D" disk="5" />
+				<disk md5="83E65F9C8895010E95726241DFDF2C28" disk="6" />
+				<disk md5="97CD809DF4C584041984DBF305AE9964" disk="7" />
+			</media>
+		</release>
+		<release variation="OEM" year="1992" region="DE" publisher="Siemens Nixdorf">
+			<media media="1.44M" status="V">
+				<disk md5="AD376A36490F71942523678B11C31BA6" disk="1" />
+				<disk md5="EFF878FF8CDFB2BFB1C6B2DBF96216FE" disk="2" />
+				<disk md5="33ADCA285928231B915CCEBA5E36E2F0" disk="3" />
+				<disk md5="D5437DF992303297643748675A329D3E" disk="4" />
+				<disk md5="DBBFCEADBB95DA4B3BE20DE5E181183C" disk="5" />
+				<disk md5="34E8FEAF60A28B24CA439C635AA85FB9" disk="6" />
+				<disk md5="41075AE3ED4E4A54E355368D14B537F2" disk="7" />
+			</media>
+		</release>
+		<release year="1992">
+			<media media="1.44M" status="V">
+				<disk md5="74BBCB548CFAED8D8C916FA570CD77A0" disk="1" />
+				<disk md5="99600C81E31AB6DE8BBC6CF3567B5655" disk="2" />
+				<disk md5="2BA8CD16165358F2989B5154E47C6978" disk="3" />
+				<disk md5="A8EAD656F5B8BA3F049478A53F2F1803" disk="4" />
+				<disk md5="5F3ECAB94B75CAD5767F29187176636B" disk="5" />
+				<disk md5="A2AE9F5C56A962374A03B53CBEC01A25" disk="6" />
+				<disk md5="8E904D9E5DE9F04AFE3507E488E66A56" disk="7" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows 3.11" publisher="Microsoft Corporation">
+		<release variation="OEM" year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="FEC70046EAA9B774035FAD6CFD7F7FA0" disk="Disk 1 - Setup" />
+				<disk md5="807403C3BBB0C5B6D0C26F4CBDB6E239" disk="2" />
+				<disk md5="0986D880B621D8F0CC895008C9880009" disk="3" />
+				<disk md5="F8E92A836ACFE2EA3313D3D4C55D19C1" disk="4" />
+				<disk md5="B2846C309097EDD7C5B2FA77CB957776" disk="5" />
+				<disk md5="1281A806B8BD1FE43844EF501803B907" disk="6" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows 3.11: Fresh-Up Disk for Windows 3.1" publisher="Microsoft Corporation">
+		<release year="1994" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="B2D5882CBEDB8895997345B5B1FDE58C" disk="1" />
+				<disk md5="F285F43E3C6A4FF8B2DB9EAA8A9B6747" disk="2" />
+				<disk md5="30CD3B64C169F337084496B05CA9845F" disk="3 - English Version" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows for Workgroups 3.11" publisher="Microsoft Corporation">
+		<release year="1993" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="530B7FF2AA4E4AB4919C3692241ABC25" disk="1" />
+				<disk md5="55014184FCCD7A4FD4AE808C73900F37" disk="2" />
+				<disk md5="23FF88C1D93860083F223AA4830F67B1" disk="3" />
+				<disk md5="B935B6B1E4B3EAC2F157F0DBD7C1DBAB" disk="4" />
+				<disk md5="AC4FA8CA63F51ABA51BF50C237FAEE1B" disk="5" />
+				<disk md5="A8CE683BA7C36EBAC7EEDDCB5EFE2717" disk="6" />
+				<disk md5="5C77ECCFD57CA24F556E54AA268FA243" disk="7" />
+				<disk md5="09C70BB8D4E0CE3D6EF652794D377090" disk="8" />
+				<disk md5="EBF6C76795F229BB88954920281301E3" disk="9" />
+			</media>
+		</release>
+		<release year="1993">
+			<media media="1.44M" status="V">
+				<disk md5="8CD90DDA99D782B8312D519905507ABF" disk="1" />
+				<disk md5="8B1A1C5CCA012A4CCE0BFB57071EB058" disk="2" />
+				<disk md5="90ADB539F2EA1AB2FC77162A9C596887" disk="3" />
+				<disk md5="01730763426D656CB997260D9E7DBE8E" disk="4" />
+				<disk md5="9BFBF126D9D596D48F27DC4855EC96AE" disk="5" />
+				<disk md5="10FD5ADD264B35AF4EAB957B28B92107" disk="6" status="U" fixed="1" />
+				<disk md5="FA1EBA6FAA891273626D042A4E1436D3" disk="7" status="U" />
+				<disk md5="90073C613F572C8550FA36BAFBA184CF" disk="8" status="U" />
+			</media>
+		</release>
+		<release year="1993" region="FR">
+			<media media="1.44M" status="V">
+				<disk md5="413C1BB212B291D81B70C714F100178F" disk="1" />
+				<disk md5="3E379F68DD5B482A0DE523830E310270" disk="2" />
+				<disk md5="350E10D6680547A14B214FEA833EECA5" disk="3" />
+				<disk md5="3DF13DB6F9420BB4FB09ADB14207633F" disk="4" />
+				<disk md5="B3FD227A1FF593E0035BDECD02F60FAE" disk="5" />
+				<disk md5="7C68B6BE03C32CC49B19E1D881CF4029" disk="6" />
+				<disk md5="9E3E867BA24474CBE4F4B592810D5708" disk="7" />
+				<disk md5="F7C8AC88D6DCAC80E889FAF0C8F95205" disk="8" />
+				<disk md5="8F63BED9CF878DEE9535C04B2C89F49C" disk="9" />
+			</media>
+		</release>
+		<release year="1993" region="FR">
+			<media media="1.44M" status="V">
+				<disk md5="2BF5DC714E95149CC44C1666B011DD1A" disk="1" />
+				<disk md5="7C2AC18623D370202B6997916227E895" disk="2" />
+				<disk md5="99B392CB8B703C06DA356A476F80F1E6" disk="3" />
+				<disk md5="5F0ECE6E888EA9DFDC800B4F502DDD79" disk="4" />
+				<disk md5="A4C275EBCBC25EE4B8631EA137A1C240" disk="5" />
+				<disk md5="3914108E385063D7ECD1E95292FE79C9" disk="6" />
+				<disk md5="B1CB552B2F6B7A057AE990C0C2AF51A8" disk="7" />
+				<disk md5="1183CC0FCE92341BB11C8AF858ECC04E" disk="8" />
+				<disk md5="752EE820814BCF463FD6E74F1BD27CD0" disk="9" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows 95" publisher="Microsoft Corporation">
+		<release year="1995" region="DE">
+			<media media="DMF" status="V">
+				<disk md5="A566127469BF92B39513DBBD8F00D762" disk="Boot Disk" media="1.44M" />
+				<disk md5="85526447EF332DC62F787504A2F7F254" disk="1" media="1.44M" />
+				<disk md5="C94EC0290C1C220DCEC369C7625C440F" disk="2" />
+				<disk md5="607973015D4EBB57D8A2153714593D85" disk="3" />
+				<disk md5="2FB80532C603C0C079230366EA1DB3CE" disk="4" />
+				<disk md5="A3ED65526A18CDFC719B13258EF7E3ED" disk="5" />
+				<disk md5="F86BDB8AC5C277250CBFB2F65958ECCF" disk="6" />
+				<disk md5="E74F8358471A8847D39E19389D4F8AD1" disk="7" />
+				<disk md5="C406B8DE7F67D9056A188FC3BA1ABDDA" disk="8" />
+				<disk md5="BC5E694543B90D726FAFD47282523A56" disk="9" />
+				<disk md5="E7D5856B29D46BAD5A847652C3A5FC91" disk="10" />
+				<disk md5="10560842F13D9972F8C08621EDDBBE12" disk="11" />
+				<disk md5="ACAD70FFA66AFE377DC040F3C3F60924" disk="12" />
+				<disk md5="8A81A96CD677F7700BD7281D286B95C1" disk="13" />
+				<disk md5="C992F9D431F1C1EEAAF77CF492B28897" disk="14" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Windows 95 Update" publisher="Microsoft Corporation">
+		<release year="1995" region="DE">
+			<media media="DMF" status="V">
+				<disk md5="CF94E2EED50B2EC6C7BD2A02DE5FCF0F" disk="1" media="1.44M" />
+				<disk md5="C241AB852F9DC6B3EEA2B1EA11D3BF61" disk="2" />
+				<disk md5="607973015D4EBB57D8A2153714593D85" disk="3" />
+				<disk md5="2FB80532C603C0C079230366EA1DB3CE" disk="4" />
+				<disk md5="A3ED65526A18CDFC719B13258EF7E3ED" disk="5" />
+				<disk md5="F86BDB8AC5C277250CBFB2F65958ECCF" disk="6" />
+				<disk md5="E74F8358471A8847D39E19389D4F8AD1" disk="7" />
+				<disk md5="C406B8DE7F67D9056A188FC3BA1ABDDA" disk="8" />
+				<disk md5="BC5E694543B90D726FAFD47282523A56" disk="9" />
+				<disk md5="E7D5856B29D46BAD5A847652C3A5FC91" disk="10" />
+				<disk md5="10560842F13D9972F8C08621EDDBBE12" disk="11" />
+				<disk md5="ACAD70FFA66AFE377DC040F3C3F60924" disk="12" />
+				<disk md5="8A81A96CD677F7700BD7281D286B95C1" disk="13" />
+				<disk md5="C992F9D431F1C1EEAAF77CF492B28897" disk="14" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Internet Explorer for Windows 95" publisher="Microsoft Corporation">
+		<release year="1996" region="DE">
+			<media media="1.44M" status="V">
+				<disk md5="7B06A4B43293F9DC77003716324CD827" disk="1" />
+				<disk md5="069C2F3F03D5077653A51465FBA2ED62" disk="2" />
+				<disk md5="A7545788E8788F66A7C4F71CB454B3D9" disk="3" />
+				<disk md5="AC1BB9B862DE8283171F31C6610659BC" disk="4" />
 			</media>
 		</release>
 	</title>
@@ -14021,7 +14392,7 @@
 				<disk md5="F020D83E0FD56E4A03D032820D4D30A7" disk="1" />
 				<disk md5="A76910B4F44B2E5B42DCA4B56E69FE0C" disk="2" />
 			</media>
-		</release>	
+		</release>
 	</title>
 	<title name="Robot Rascals" publisher="Electronic Arts, Inc." mobyGamesId="10658">
 		<release year="1987">
@@ -14375,7 +14746,7 @@
 				<disk md5="23C55BD62F6C28317DC4A2B56CB46B15" disk="1" media="360K" />
 				<disk md5="F942C900E8C822ADBBCC466DDCB92DB5" disk="2" status="U" />
 				<disk md5="A4334184ACFD3BB3B1633477CEAA3ABF" disk="3" status="U" />
-			</media>			
+			</media>
 		</release>
 		<release year="1991" version="1.01" region="IT" publisher="CTO S.p.A.">
 			<media media="720K" status="V">
@@ -14419,7 +14790,7 @@
 				<disk md5="11E4B99C28D3C26AD90DFE448BDACBF7" disk="1" media="360K" />
 				<disk md5="B85938E87999B62F4C149B92DE699C99" disk="2" />
 				<disk md5="A16FEEC4465DADBDCBD33A9E695154FB" disk="3" />
-			</media>			
+			</media>
 		</release>
 		<release year="1994" version="2.2" region="DE" language="En" publisher="Top Shots">
 			<media media="1.44M" status="U">
@@ -14916,7 +15287,7 @@
 			<media media="720K" status="V">
 				<disk md5="04E147B1D38E0262C1D0C9F6059DC9C1" disk="Data Disk" />
 				<disk md5="7EE4A3D18FD4B8F88A6F78A22A691EE7" disk="Install Disk / Program Disk" />
-			</media>			
+			</media>
 		</release>
 		<release year="1992" version="1.06">
 			<media media="360K" status="V">
@@ -17208,7 +17579,7 @@
 			</media>
 		</release>
 		<release year="1995" publisher="Big Games" region="IT" language="En">
-			<media media="1.44M" status="V">				
+			<media media="1.44M" status="V">
 				<disk md5="F13962EAEE110F7BE2537B58AE1BB333" disk="1" media="720K" />
 				<disk md5="5F1997EE640230B785961442CB836E82" disk="2" />
 			</media>
@@ -21773,13 +22144,13 @@
 		<release year="1990">
 			<media media="720K" status="V">
 				<disk md5="8B9AF2A7CC2487DCAC4A2697BEBA8126" disk="Disk 1 - VGA" />
-				<disk md5="4ED5159E0FFAE7BF2D4BDB22E2B15325" disk="Disk 2 - EGA/Tandy" />				
+				<disk md5="4ED5159E0FFAE7BF2D4BDB22E2B15325" disk="Disk 2 - EGA/Tandy" />
 			</media>
 		</release>
 		<release year="1990" region="EU" publisher="Mirrorsoft Ltd.">
 			<media media="720K" status="V">
 				<disk md5="83B56B3A8305E411F766660C0E76C557" disk="Disk 1 - VGA" />
-				<disk md5="C5C43E683D327728C3369F00ED6E2141" disk="Disk 2 - EGA/Tandy" />				
+				<disk md5="C5C43E683D327728C3369F00ED6E2141" disk="Disk 2 - EGA/Tandy" />
 			</media>
 		</release>
 	</title>
@@ -22235,7 +22606,7 @@
 	<title name="Tiger Road" publisher="Erbe Software, S.A.">
 		<release year="1990" region="ES" language="En">
 			<media media="360K" status="V">
-				<disk disk="1" cp="Mindscape DEM v2" />	
+				<disk disk="1" cp="Mindscape DEM v2" />
 				<disk md5="166A9F0B1401DAAD3F26F51EE6BE09D0" disk="2" cp="Mindscape DEM v2" />
 			</media>
 			<media media="720K" status="V">
@@ -22896,7 +23267,7 @@
 			</media>
 		</release>
 	</title>
-	
+
 	<title name="International Soccer Challenge" publisher="Kixx">
 		<release year="1994">
 			<media media="720K" status="V">
@@ -23207,19 +23578,13 @@
 			</media>
 		</release>
 	</title>
-	<title name="Tandy 1000 SX: MS-DOS/GW-BASIC" publisher="Tandy Corporation">
+	<title name="Tandy 1000 SX: System Disks" publisher="Tandy Corporation">
 		<release year="1986">
 			<media media="360K" status="V">
-				<disk md5="D6DF0BB56C40272AA38F6519467B55E2" disk="1" />
-				<disk md5="A8E4D30538C15019A162C3E2D3D22918" disk="Disk 2 - Supplemental Programs" />
-			</media>
-		</release>
-	</title>
-	<title name="Tandy 1000 SX: Deskmate II" publisher="Tandy Corporation">
-		<release year="1986">
-			<media media="360K" status="U">
-				<disk md5="D08903A380DB8B4BF7F715B8E8E7FFC8" disk="1" fixed="1" />
-				<disk md5="02B86FF8860028373C793F9CE816E90D" disk="Disk 2 - Sample Data" status="V" />
+				<disk md5="D6DF0BB56C40272AA38F6519467B55E2" name="Tandy 1000 SX: MS-DOS/GW-BASIC" disk="Disk 1 of 2" />
+				<disk md5="A8E4D30538C15019A162C3E2D3D22918" name="Tandy 1000 SX: MS-DOS - Supplemental Programs" disk="Disk 2 of 2" />
+				<disk md5="D08903A380DB8B4BF7F715B8E8E7FFC8" name="Tandy 1000 SX: Deskmate II" disk="Disk 1 of 2" status="U" fixed="1" />
+				<disk md5="02B86FF8860028373C793F9CE816E90D" name="Tandy 1000 SX: Deskmate II - Sample Data" disk="Disk 2 of 2" />
 			</media>
 		</release>
 	</title>
@@ -23629,7 +23994,7 @@
 	<title name="Isaac Asimov: Science Adventure" publisher="Knowledge Adventure, Inc.">
 		<release year="1992">
 			<media media="720K" status="U">
-				<disk md5="876AD422A0ECAF620672F5AE6A659081" disk="1" />				
+				<disk md5="876AD422A0ECAF620672F5AE6A659081" disk="1" />
 				<disk md5="1DACB353DC0DCB1E7229AAFC5EFB8740" disk="2" />
 				<disk md5="57C802D36A580A4A6565D869F4E402FB" disk="3" />
 				<disk md5="559932B82A6D7462DB121A7954D68258" disk="4" />
@@ -23871,6 +24236,410 @@
 				<disk md5="30B7E5A516A3EB0FD07DF975A2CE8C3E" disk="1" />
 				<disk md5="84DB0A0BE0734252C3032AACCD387983" disk="2" />
 				<disk md5="5C8F868F77208155409291943E71AADC" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="EcoQuest: The Search for Cetus" publisher="Sierra On-Line, Inc.">
+		<release year="1992" version="1.1" int="6.12.92">
+			<media media="1.44M" status="V">
+				<disk md5="094E9951E43E860A5EE3458DE63653B7" disk="2" />
+				<disk md5="4D6BE64218A80F2997F494017649DBD6" disk="3" />
+				<disk md5="D980A9B7E29BAB31107F9DD4936A9480" disk="Startup / Disk 1" />
+			</media>
+		</release>
+	</title>
+	<title name="The Best of Microsoft Entertainment Pack" publisher="Microsoft Corporation">
+		<release year="1994">
+			<media media="1.2M" status="V">
+				<disk md5="83B39A2C47D57A2A2A34B7401BEEC43D" disk="1" />
+				<disk md5="92D6AAB69C6479B42DC561C74C60840A" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Arcade" publisher="Microsoft Corporation">
+		<release year="1993" version="1.0">
+			<media media="1.44M" status="V">
+				<disk md5="D92128EC9BC63A07C93F5BADA82E664E" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Entertainment Pack 2" publisher="Microsoft Corporation">
+		<release year="1991" version="1.0">
+			<media media="1.2M" status="V">
+				<disk md5="A0B01D66C8C22D47060EBB5604D47D11" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="02B755A80B85014CDF2500F231B45307" disk="1" />
+				<disk md5="C6D1680718D3023DDF98ED16F7AA237F" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Entertainment Pack 3" publisher="Microsoft Corporation">
+		<release year="1991" version="1.0">
+			<media media="1.2M" status="V">
+				<disk md5="98B085006349885097BA5DC33469B306" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="B34FD7238C299DB029CA6A9C05A9B941" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Entertainment Pack 4" publisher="Microsoft Corporation">
+		<release year="1992-09-10" version="1.0">
+			<media media="720K" status="U">
+				<disk md5="54626C7AAA2FE47BA69415863ECC0683" disk="1" />
+				<disk md5="2F07280609C33A049BD8AF25421AD05F" disk="2" />
+			</media>
+		</release>
+		<release year="1992-09-22" version="1.0">
+			<media media="1.2M" status="V">
+				<disk md5="23053C7380C6D38B59B39D4F426EBA26" />
+			</media>
+			<media media="720K" status="U">
+				<disk md5="E99872E0813A53290A66B3E33444BF07" disk="1" />
+				<disk md5="A4420DE8395966979C3276DB631A88C5" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Entertainment Pack for Windows" publisher="Microsoft Corporation">
+		<release year="1991" version="1.0">
+			<media media="1.2M" status="V">
+				<disk md5="96B45C6D3E17F7B2BA845014F21312AF" />
+			</media>
+			<media media="720K" status="V">
+				<disk md5="3C5C31F8E17DF04E501FB16C850F8186" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Return of Arcade" publisher="Microsoft Corporation">
+		<release year="1996">
+			<media media="1.44M" status="V">
+				<disk md5="810FBBB7772F7F2EDFC7AAEEEBB2B4C3" disk="1" status="U" />
+				<disk md5="B2165529DAEC2E7F92E3B52C24ADCDC6" disk="2" />
+				<disk md5="481D85F95ECB934B21512F0FA68EA60C" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Fatty Bear's Birthday Surprise" publisher="Humongous Entertainment, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="U">
+				<disk md5="7371465DC04E8E5239669DAE1350E6F7" disk="1" fixed="1" />
+				<disk md5="55F956FC3617EB8E20ACAC44ECB83280" disk="2" fixed="1" />
+				<disk md5="45ED95158C8E9A3B41853060A7761EA7" disk="3" fixed="1" />
+				<disk md5="956E33A6D519B8DDB326346AB1A167D4" disk="4" fixed="1" />
+				<disk md5="A674797435A0CEE394212898D7929011" disk="5" fixed="1" />
+				<disk md5="47759C09AC53532F0B270E08A1F9EC32" disk="6" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="Putt-Putt Goes to the Moon" publisher="Humongous Entertainment, Inc.">
+		<release year="1993">
+			<media media="1.44M" status="U">
+				<disk md5="BAEF569F3C3191987CDB5D7E3503E57F" disk="1" fixed="1" />
+				<disk md5="79DAAA3E4DA39166819A7621A68CFE52" disk="2" fixed="1" />
+				<disk md5="4427D015AA32DBAF5112AE69E878EF81" disk="3" fixed="1" />
+				<disk md5="636E1CE272CAE13FA7F2DDFAF17009CB" disk="4" fixed="1" />
+				<disk md5="F3EF6F5CC7D271EC9A992F99B5C260C9" disk="5" fixed="1" />
+				<disk md5="7DF413E6754E286B7DC71B1C2BABD5E4" disk="6" fixed="1" />
+			</media>
+		</release>
+	</title>
+	<title name="Beat the House for Windows" publisher="Interplay Productions, Inc.">
+		<release year="1995" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="10811151EFB9383D8CE0B780D7FD50D5" disk="1" />
+				<disk md5="813A952FF22F3AA0F8A9F6244F562687" disk="2" />
+				<disk md5="39C06F39603A1E74EC815D8BD4EDBAFF" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Game Shop" publisher="Microsoft Corporation">
+		<release year="1990">
+			<media media="360K" status="U">
+				<disk md5="EC32C1ACB278EBA380D7D85AFBC3C532" disk="1" />
+				<disk md5="946BA7789E64091AB4E50301CFC8C5B9" disk="2" />
+				<disk md5="FE28C22B99B27DEC63C91E5BAFE5D9B5" disk="3" />
+				<disk md5="7502C7604AF2DB186B709885027D0098" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Publisher" publisher="Microsoft Corporation">
+		<release year="1993" version="2.0" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="9F1610D0A3999DF4357955018907CFB3" disk="Disk 1 - Setup" />
+				<disk md5="BB81F1236A944128AF3298EE0DE47489" disk="2" />
+				<disk md5="646E361E63A9BA1FBC5C7153CA05333B" disk="3" />
+				<disk md5="8ADEB7C517DE71976BE76BD26DEBEE74" disk="4" />
+				<disk md5="54A067F136276777929E1D052CD4EFCF" disk="5" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Visual Basic for Windows: Standard Edition" publisher="Microsoft Corporation">
+		<release year="1993" version="3.0" platform="Windows 3.1">
+			<media media="1.44M" status="U">
+				<disk md5="A79257EBEA308F4058DF58FEC00CA089" disk="Disk 1 - Setup" />
+				<disk md5="A9E795D2FBED1E2CAEDFD954F22B083E" disk="2" status="V" />
+				<disk md5="93F855DEE5FDE1C56DB277E3290E37CA" disk="3" status="V" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Word" publisher="Microsoft Corporation">
+		<release year="1985" version="2.00">
+			<media media="360K" status="V">
+				<disk md5="92F726780EC8EC2F1EDEA13C81D8CBF0" disk="1" cp="Key Disk" />
+				<disk md5="DFBB53D61E0CF1958DD12B678C6D459E" disk="2" />
+				<disk md5="21A98ECF0FA465E25F48225F224708E2" disk="3" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Word for Windows" publisher="Microsoft Corporation">
+		<release year="1990" version="1.1" region="DE" platform="Windows 2.1">
+			<media media="1.2M" status="V">
+				<disk md5="5BC14AC8C82499AF244CFCDED8697CCF" disk="1 - Installationsdiskette" />
+				<disk md5="FAB3A653AC095AF0B342A627F72FDB5A" disk="2 - Hilfsprogramme" />
+				<disk md5="0C5C0D2C076BE5807005E6FC3414DDA7" disk="3 - Umwandlungsprogramme" />
+				<disk md5="CFB0A692F5132BC592AD7503761733FE" disk="4 - Lernprogramm/Korrekturhilfen/Hilfe" />
+				<disk md5="EC8E15FA3A46D848C9B8915EE79C63A9" disk="5 - Programmdiskette" />
+			</media>
+			<media media="1.44M" status="V">
+				<disk md5="AA6CB87B597E1CC216122B01F1DA4DBB" disk="1 - Installationsdiskette" />
+				<disk md5="53B4387855B78932587028B38723412F" disk="2 - Hilfsprogramme" />
+				<disk md5="2C993FA7DDABE270DFD6C5624AFBA32B" disk="3 - Umwandlungsprogramme" />
+				<disk md5="56609D98FACB6895369D0B5E1BD9A52B" status="U" disk="4 - Lernprogramm/Korrekturhilfen/Hilfe" />
+				<disk md5="B4AD17FF6CC93928E4DB7C44DA8ECF96" disk="5 - Programmdiskette" />
+			</media>
+		</release>
+		<release year="1992" version="2.0" region="DE" platform="Windows 3.0">
+			<media media="1.44M" status="V">
+				<disk md5="5B48D84C0835F346842E604C0C49626B" disk="1" />
+				<disk md5="BCCB72138321AB13C1B8AFC37C1623A9" disk="2" />
+				<disk md5="0E2F7B3D9ADD0ED31ADFBA5E2FDFEF6E" disk="3" />
+				<disk md5="BF645CEF6394D9A2610E9991FF10A570" disk="4" />
+				<disk md5="549BB0BC5B5C2578DC828165B7D88041" disk="5" />
+				<disk md5="A988024C99F2A5304246294E05C1E3D4" disk="6" />
+				<disk md5="30F52E4F27EB8622D21850E1263B57CE" disk="7" />
+				<disk md5="83285683F2CC8AEA3F78716A7588184D" disk="8" />
+			</media>
+		</release>
+		<release year="1992" version="2.0b" region="DE" platform="Windows 3.0">
+			<media media="1.44M" status="V">
+				<disk md5="4160E91137455BFDE87BADAA2CE9DD3E" disk="1" />
+				<disk md5="8CED482F5CFDB28E806930376E2FEA78" disk="2" />
+				<disk md5="2B9FAF09663E7D477819ABEC9109D584" disk="3" />
+				<disk md5="D164FF5487AF31DD11B47127BE0D03B3" disk="4" />
+				<disk md5="E4ED45F6E5677B0EF8110170A3A6F90B" disk="5" />
+				<disk md5="7EEE4B6253B66BFE3B134C3A33D0ED8A" disk="6" />
+				<disk md5="99D8273B0D19803544F996B14288E56D" disk="7" />
+				<disk md5="F6EE082D3BE11D800A8AF5E08549B1A0" disk="8" />
+			</media>
+		</release>
+		<release year="1993" version="6.0" region="DE" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="072296B4595DD71D518070252C0B34C1" disk="1" />
+				<disk md5="EBAF10B8A0AE04AA57643236D3C1F6E7" disk="2" />
+				<disk md5="EF439FC8406A37B54B522CC5AD99CD6F" disk="3" />
+				<disk md5="A51A84C4F138C134C219D2A9E6E1AE8D" disk="4" />
+				<disk md5="116E5F484348BE6915C1AD6B18328BB9" disk="5" />
+				<disk md5="590605F0089F2BCD4E79EF5BCDCC7521" disk="6" />
+				<disk md5="A41C61777534BC915F1B09173800780B" disk="7" />
+				<disk md5="82966F585B5B46125E309297C4A295C2" disk="8" />
+				<disk md5="40EA7368E4158EE4533BE08688812F66" disk="9" />
+				<disk md5="086D1A14AFA2C796B4012382A2F836A0" disk="10" />
+				<disk md5="D771ECFA2D5F7692F0AA07B0B47B4E44" disk="11" />
+			</media>
+		</release>
+		<release year="1993" version="6.0" region="DE" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="6AA17D39BDB4B37D0D0C498EF709B9C4" disk="1" />
+				<disk md5="EBAF10B8A0AE04AA57643236D3C1F6E7" disk="2" />
+				<disk md5="EF439FC8406A37B54B522CC5AD99CD6F" disk="3" />
+				<disk md5="A51A84C4F138C134C219D2A9E6E1AE8D" disk="4" />
+				<disk md5="116E5F484348BE6915C1AD6B18328BB9" disk="5" />
+				<disk md5="590605F0089F2BCD4E79EF5BCDCC7521" disk="6" />
+				<disk md5="A41C61777534BC915F1B09173800780B" disk="7" />
+				<disk md5="82966F585B5B46125E309297C4A295C2" disk="8" />
+				<disk md5="40EA7368E4158EE4533BE08688812F66" disk="9" />
+				<disk md5="086D1A14AFA2C796B4012382A2F836A0" disk="10" />
+				<disk md5="D771ECFA2D5F7692F0AA07B0B47B4E44" disk="11" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Word for Windows NT" publisher="Microsoft Corporation">
+		<release year="1994" version="6.0" region="DE" platform="Windows NT">
+			<media media="DMF" status="V">
+				<disk md5="4CA8D9BAA4E4F110EA1C86D29FECC525" disk="1" media="1.44M" />
+				<disk md5="3740F137DFFCF255312C681936AB7F95" disk="2" />
+				<disk md5="A0C336B2D00DA56DC036B58C059FBAB7" disk="3" />
+				<disk md5="DCF07BDDE82FA771E77D9B7DE86E23E6" disk="4" />
+				<disk md5="7E174F65CCD5A3FC0CD9DA3916533E0E" disk="5" />
+				<disk md5="A327295048F5FA01DF0A08E90CC9C34E" disk="6" />
+				<disk md5="6B035E10CA3CBBF141EBCA9DF6531FCD" disk="7" />
+				<disk md5="2809ECFDBB0ED0FB6896B752FADED03E" disk="8" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Word 97" publisher="Microsoft Corporation">
+		<release year="1997" region="DE" platform="Windows 95">
+			<media media="DMF" status="V">
+				<disk md5="D345741EAF5BF75F076E06A7422EA397" disk="1" media="1.44M" />
+				<disk md5="EFF23B50D375F89068879D31D652D536" disk="2" />
+				<disk md5="73A21BBBCA8561F7DF6C9F852B1D33B3" disk="3" />
+				<disk md5="78BFB48E10A47B7F93260E3E635E8397" disk="4" />
+				<disk md5="4F44F1C3D68D460D446B7A0F597DAA16" disk="5" />
+				<disk md5="A0F23FE85B007DD505BF02BF179C55CB" disk="6" />
+				<disk md5="1E3EBE5539D9C196C91D8821EF716E04" disk="7" />
+				<disk md5="1B3A3C946094CAC133EA32AAF89F6537" disk="8" />
+				<disk md5="2DA0A72DBB13DAD53708157FDD304744" disk="9" />
+				<disk md5="1E00613AAE4B3E933137194F8BE63763" disk="10" />
+				<disk md5="EAD26EF62364C4FE36D0FB0674E19AA9" disk="11" />
+				<disk md5="12C670A9EF0A7388E1DB1C42B8DAD7A5" disk="12" />
+				<disk md5="01206C1F447EA8B3722F7D615D13231A" disk="13" />
+				<disk md5="6ECDB15C7A4AF9FB2B52EE51AFEF4BEC" disk="14" />
+				<disk md5="90D4CDBB5A37F799B220C7148D9B58C9" disk="15" />
+				<disk md5="1F2E65487A4D52209B8B4D96A039A18D" disk="16" />
+				<disk md5="D383E946447280571749752C025F4220" disk="17" />
+				<disk md5="43C8D83D4932EF3EDE39297501C32DAE" disk="18" />
+				<disk md5="1EB2A0C1B96904D953C790C9EBA9630E" disk="19" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Excel for Windows" publisher="Microsoft Corporation">
+		<release year="1990" version="2.1d" region="DE" platform="Windows 2.1">
+			<media media="720K" status="V">
+				<disk md5="CB3574F43F6E1A4F8C13ACA60DFA00DC" disk="Einrichtungsdiskette 1" />
+				<disk md5="6722993F107A468EC4D67032D9F5BE0E" disk="Einrichtungsdiskette 2" />
+				<disk md5="C131FCF9E383C9ED0E35CC4ADCE39850" disk="Einrichtungsdiskette 3" />
+				<disk md5="D792D230FB1D7668043A8059DA2D8D92" disk="Installationsdiskette" />
+				<disk md5="117D26188F0A2C64597B3C9D3EED4535" disk="Lernprogrammdiskette 1" />
+				<disk md5="6449BD3ED3682C668B2E5DA5B4F0B4D5" disk="Lernprogrammdiskette 2" />
+			</media>
+		</release>
+		<release year="1991" version="3.0a" region="DE" platform="Windows 3.0">
+			<media media="1.2M" status="V">
+				<disk md5="E20DA8333D25ECB96D0B7C48E75636EF" disk="1 - Installationsdiskette" />
+				<disk md5="A87AADF88CED5476CF1AB0E54417C3DC" disk="2 - Hilfe" />
+				<disk md5="D49DD3CBE8B8E9164B80F400A1507A74" disk="3 - Bibliothek" />
+			</media>
+		</release>
+		<release year="1994" version="5.0a" region="FR" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="35C1068D2F4BEF3BFE3AE14A28F9836A" disk="1 - Installation" />
+				<disk md5="BD8097CE9BD261D4C0733A8DB80DCBA2" disk="2" />
+				<disk md5="BFDF411616C99FE777739DF3BC38E1E5" disk="3" />
+				<disk md5="F5C95D8616CF3C7593C6A0016FCFA61E" disk="4" />
+				<disk md5="42021E341D9F384EBF2D7E72339A87D0" disk="5" />
+				<disk md5="4AF99D4D6616DE4A3BD8B620BFD8C87F" disk="6" />
+				<disk md5="B2D953C837FC81D5A572E7B542277271" disk="7" />
+				<disk md5="8279032671ED9211D139CE044AF9E018" disk="8" />
+				<disk md5="37BCB4BAC89163EF4842B9340C855282" disk="9" />
+				<disk md5="3B8630AE5036328333CB4B10B0A7605A" disk="10" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Excel for Windows 95" publisher="Microsoft Corporation">
+		<release year="1995" version="7.0" region="DE" platform="Windows 95">
+			<media media="DMF" status="V">
+				<disk md5="A7FDC6DEDBC0CFFE59E0CBAF8B7B62E1" disk="1" media="1.44M" />
+				<disk md5="DE3CDE0E5E4B3A0B0DC0EDF896A8E331" disk="2" />
+				<disk md5="77451CECF73B2CF2E904EF0DCD688700" disk="3" />
+				<disk md5="90E23FB8F5BE44F928242ED8514FEA6C" disk="4" />
+				<disk md5="573B390CD922B0B93B0495763F4439D0" disk="5" />
+				<disk md5="9E392EFA770F5ED7FB7694C8F6D83A89" disk="6" />
+				<disk md5="593BE4EA25ACADF5FE6AC6522A871031" disk="7" />
+				<disk md5="7BCDF9EF487D621E08817E8DD702BE4F" disk="8" />
+				<disk md5="57FFBD53348DF31CFACED2AD43BCD39B" disk="9" />
+				<disk md5="6E0C5F039F0129EA26358B8C44704800" disk="10" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Excel for Windows NT" publisher="Microsoft Corporation">
+		<release year="1994" version="5.0" region="DE" platform="Windows NT">
+			<media media="DMF" status="V">
+				<disk md5="10AD58C3EB038F2FB5D8A86EF7A07418" disk="1" media="1.44M" />
+				<disk md5="E8CF8C806B2EF56E2DC9939323752FBF" disk="2" />
+				<disk md5="B4AF1C7D987837CBC47DA259ECD89566" disk="3" />
+				<disk md5="C809C841EE133E05A493A9C19AF708E0" disk="4" />
+				<disk md5="01F69D9670720DFCD70E311A3AC7DBA8" disk="5" />
+				<disk md5="3220D3F26830F99A3A8DDA16A02E51CC" disk="6" />
+				<disk md5="048A86157E2E694684BFB272972DF77A" disk="7" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Works" publisher="Microsoft Corporation">
+		<release year="1990" version="2.00" region="FR">
+			<media media="360K" status="V">
+				<disk md5="62109E2BF5978E584E1B4BE002565A27" disk="1 - Disquette_Programme" />
+				<disk md5="E8027708629C8C078C6E78832A3EB2C2" status="U" disk="2 - Disquette Guide-Dictionnaire 1" fixed="1" />
+				<disk md5="6C8129E2055C501DE612539E7249B771" disk="3 - Disquette Dictionnaire 2" />
+				<disk md5="207994B5263F83D1A5D3B6FEE39B25F8" disk="4 - Disquette Dictionnaire des synonymes" />
+				<disk md5="B42A84C14BF3ECA74E53D84858A36003" disk="5 - Disquette Utilitaires" />
+				<disk md5="7FE9D1D03B4DB02EB4E617EA1E7DB941" disk="6 - Disquette Installation" />
+				<disk md5="E312834E079D23FC5AA98F285D349863" disk="7 - Disquette Imprimantes 1" />
+				<disk md5="98F9233E4DE0A43DB7E566D382A0E6C1" disk="8 - J'apprends Microsoft Works Partie 1" />
+				<disk md5="ECB541B8B7E2C661EE40212D9C4702A6" disk="9 - J'apprends Microsoft Works Partie 2" />
+				<disk md5="FB02B975D1A0103B99C7FE0D75C52884" disk="10 - J'apprends Microsoft Works Partie 3" />
+				<disk md5="5C3C0258DBC4FE6E24479640C47B4025" disk="11 - J'apprends Microsoft Works Partie 4" />
+				<disk md5="862A7936E32524B465EBA0622DB68799" disk="12 - Utilitaire de conversion du TT" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Money" publisher="Microsoft Corporation">
+		<release year="1995" version="3.5" region="DE" platform="Windows 3.1">
+			<media media="1.44M" status="V">
+				<disk md5="4325A1C50BFE4C518EF0FA1247C4A9BE" disk="1" />
+				<disk md5="D70E8C20EED811179C9585E5CF265992" disk="2" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Money for Windows 95" publisher="Microsoft Corporation">
+		<release year="1995" version="4.1" region="DE" platform="Windows 95">
+			<media media="DMF" status="V">
+				<disk md5="021AB83757D22DA458A8938CCE18B39C" disk="1" media="1.44M" />
+				<disk md5="C86E36C21DF27914A4255C47EEB59681" disk="2" />
+				<disk md5="4C28F5C261B1F444BF96B70BF4809AA5" disk="3" />
+				<disk md5="0F4A9E50070DC119B3E81B78BAD15D6E" disk="4" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft QuickBASIC 4.0" publisher="Microsoft Corporation">
+		<release year="1988" region="DE">
+			<media media="360K" status="V">
+				<disk md5="15357685E94F09E3C322B6E2D41CE344" disk="1 - Programmdiskette" />
+				<disk md5="69B54B09C34ED108E3263C020811EB03" disk="2 - Bibliotheksdiskette" />
+				<disk md5="AF0D0DDE60BE5C560FFABE17A9000292" disk="3 - Hilfsprogrammdiskette" />
+				<disk md5="9D2A798B13D8D7E862A4C4C2C72E3DE3" disk="4 - Beispieldiskette" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft QuickBASIC 4.5" publisher="Microsoft Corporation">
+		<release year="1989" region="FR">
+			<media media="720K" status="V">
+				<disk md5="E57BE1581ECECBC2E9CB25BFE33C8E91" disk="Installation / Microsoft QB Express" />
+				<disk md5="90FE21391BE58C26D17AEDC9109F7973" disk="Programme / Conseiller QB Microsoft" />
+				<disk md5="B549E4FD7317CFA6C626B034E209A15B" disk="Utilitaires" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Mouse Driver" publisher="Microsoft Corporation">
+		<release variation="OEM" year="1989" version="7.00" publisher="Victor Technologies AB">
+			<media media="720K" status="U">
+				<disk md5="5568464D95CDE83FF969BF77F9E97200" />
+			</media>
+		</release>
+		<release year="1993" version="9.01" region="DE">
+			<media media="1.2M" status="V">
+				<disk md5="6B9B5DCB40430ED9758D9F4F8C2A77E9" />
+			</media>
+		</release>
+	</title>
+	<title name="Microsoft Mouse" publisher="Microsoft Corporation">
+		<release year="1987" version="6.01z" region="FR">
+			<media media="360K" status="V">
+				<disk md5="33EFA27E5F377105D64B7F41BE8DA4C3" disk="Driver Disk" status="U" />
+				<disk md5="A2102FA4F616D90021AF7DDAA21FEA6B" name="Microsoft Paintbrush" year="1986" version="1.0" disk="Program Disk" language="En" />
+				<disk md5="3462C80C79B1FDF54AFDD211D7F5C9B3" name="Microsoft Paintbrush / Show Partner" year="1986" disk="Utilities Disk" language="En" />
+				<disk md5="C41A262D2BFDBE76CBED1CB0962669C4" name="Show Partner" year="1986" disk="Learning Show Partner" language="En" />
+				<disk md5="9509E2CD0362ECC942762837EACCF798" name="Show Partner" year="1986" disk="Program Disk" language="En" />
 			</media>
 		</release>
 	</title>
