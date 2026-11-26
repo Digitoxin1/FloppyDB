@@ -23,7 +23,7 @@
 		<region code="TW" name="Taiwan" />
 		<region code="ZH" name="China" />
 	</regions>
-	<title name="...A Personal Nightmare" publisher="Box Office">
+	<title name="...A Personal Nightmare" publisher="Box Office" mobyGamesId="7457">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk disk="1"/>
@@ -51,7 +51,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="10th Frame" publisher="Access Software, Inc.">
+	<title name="10th Frame" publisher="Access Software, Inc." mobyGamesId="15116">
 		<release year="1988" version="2.00">
 			<media media="720K" status="V">
 				<disk md5="241365CA96E7D1172D301C09224507F6"/>
@@ -261,7 +261,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="ABC Wide World of Sports Boxing" publisher="Data East USA, Inc.">
+	<title name="ABC Wide World of Sports Boxing" publisher="Data East USA, Inc." mobyGamesId="15780">
 		<release year="1991">
 			<media media="720K" status="U" tgod="1818">
 				<disk md5="39867F8AD65CDB478B5652FE62C2553F" disk="1"/>
@@ -444,7 +444,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Action Service" publisher="Infogrames Europe SA">
+	<title name="Action Service" publisher="Infogrames Europe SA" mobyGamesId="30469">
 		<release year="1992" region="FR">
 			<media media="720K" status="V">
 				<disk md5="D8313FB5245AFD27D37EFEF4A4492901"/>
@@ -585,7 +585,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Air Duel: 80 Years of Dogfighting" publisher="MicroProse Software, Inc.">
+	<title name="Air Duel: 80 Years of Dogfighting" publisher="MicroProse Software, Inc." mobyGamesId="4226">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="AC5993B08CBC528EE9B9F85797D15D39" disk="1"/>
@@ -595,7 +595,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Air Warrior" publisher="Konami, Inc.">
+	<title name="Air Warrior" publisher="Konami, Inc." mobyGamesId="43956">
 		<release year="1992" version="1.0">
 			<media media="1.44M" status="U">
 				<disk md5="4DA1476DC62740DF4A27A0ED4C8F3126" disk="1"/>
@@ -623,7 +623,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Airstrike USA" publisher="Spotlight Software">
+	<title name="Airstrike USA" publisher="Spotlight Software" mobyGamesId="11470">
 		<release year="1990">
 			<media media="360K" status="U" tgod="962">
 				<disk md5="4E6EF2C57950A5DACBCC451A36E9CB1F" disk="1"/>
@@ -658,7 +658,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="ALF: The First Adventure" publisher="Box Office, Inc.">
+	<title name="ALF: The First Adventure" publisher="Box Office, Inc." mobyGamesId="1643">
 		<release year="1992" version="3.2">
 			<media media="360K" status="V">
 				<disk md5="C7284E14FA1C0BE7407C6D00E9DFA16F"/>
@@ -886,7 +886,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Alpha Waves" publisher="Infogrames Europe SA">
+	<title name="Alpha Waves" publisher="Infogrames Europe SA" mobyGamesId="939">
 		<release year="1990" region="EU" language="En,Fr,De">
 			<media media="720K" status="U" tgod="2297">
 				<disk md5="8B2F728DB805788AFCB3B0DFB10C1981"/>
@@ -991,7 +991,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="America Adventure" publisher="Knowledge Adventure, Inc.">
+	<title name="America Adventure" publisher="Knowledge Adventure, Inc." mobyGamesId="223687">
 		<release year="1994">
 			<media media="1.44M" status="V">
 				<disk md5="719879480575A35FA6574F100DF6802D" disk="1"/>
@@ -1023,7 +1023,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="An American Tail: The Computer Adventures of Fievel and His Friends" publisher="Capstone Software">
+	<title name="An American Tail: The Computer Adventures of Fievel and His Friends" publisher="Capstone Software" mobyGamesId="9620">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk disk="1"/>
@@ -1048,7 +1048,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Another World" publisher="U.S. Gold Ltd.">
+	<title name="Another World" publisher="U.S. Gold Ltd." mobyGamesId="564">
 		<release year="1992" region="EU">
 			<media media="720K" status="V">
 				<disk md5="A2210456B3D5866C5A08EC502F7ED04A" disk="A"/>
@@ -1213,7 +1213,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Armor Alley" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Armor Alley" publisher="Three-Sixty Pacific, Inc." mobyGamesId="101">
 		<release year="1992" version="1.1">
 			<media media="360K" status="V">
 				<disk md5="67FD1ADDBFD53DFCB460D1C5C0CEE648" disk="1"/>
@@ -1264,7 +1264,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Ashes of Empire" publisher="GameTek, Inc.">
+	<title name="Ashes of Empire" publisher="GameTek, Inc." mobyGamesId="13229">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="99986EBCE001C191881E166FEAE3C470" disk="1"/>
@@ -1280,7 +1280,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Astérix: El Golpe del Menhir" publisher="Coktel Vision">
+	<title name="Astérix: El Golpe del Menhir" publisher="Coktel Vision" mobyGamesId="4926">
 		<release year="1989" region="ES">
 			<media media="720K" status="U">
 				<disk md5="632F3EFDDF04DFF1C045C5FEAD322F8F"/>
@@ -1318,7 +1318,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Atari 2600 Action Pack for Windows" publisher="Activision, Inc.">
+	<title name="Atari 2600 Action Pack for Windows" publisher="Activision, Inc." mobyGamesId="1879">
 		<release year="1995" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="30B7E5A516A3EB0FD07DF975A2CE8C3E" disk="1"/>
@@ -1431,7 +1431,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="B.A.T." publisher="Ubi Soft Entertainment Software">
+	<title name="B.A.T." publisher="Ubi Soft Entertainment Software" mobyGamesId="2200">
 		<release year="1990">
 			<media media="360K" status="V" tgod="1411">
 				<disk md5="38554BB8FD32954502C7F93B1021EA26" disk="1"/>
@@ -1505,7 +1505,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Back to the Future Part II" publisher="Konami. Inc.">
+	<title name="Back to the Future Part II" publisher="Konami. Inc." mobyGamesId="7599">
 		<release year="1991">
 			<media media="720K" status="U">
 				<disk md5="05CBF5CEC53536FB527833DB8DA06D38"/>
@@ -1546,7 +1546,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Bad Dudes" publisher="Data East USA, Inc.">
+	<title name="Bad Dudes" publisher="Data East USA, Inc." mobyGamesId="1299">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="EC25A7D48AC0FB7B422DAAF2F6104459" disk="Program Disk" cp="H.L.S. Duplication"/>
@@ -1659,7 +1659,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Batman Returns" publisher="Konami, Inc.">
+	<title name="Batman Returns" publisher="Konami, Inc." mobyGamesId="3620">
 		<release year="1993" version="1.6">
 			<media media="1.44M" status="U" tgod="713">
 				<disk md5="3D73380AD2B218C82ACB58A8BAB2A896" disk="1"/>
@@ -1812,7 +1812,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Battle Isle" publisher="Ubi Soft Entertainment Software">
+	<title name="Battle Isle" publisher="Ubi Soft Entertainment Software" mobyGamesId="5812">
 		<release year="1992" region="EU">
 			<media media="1.44M" status="V">
 				<disk md5="24ECC3011CFDF4F0F21D34849BDFBFE0" disk="1"/>
@@ -1840,7 +1840,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Battle Isle: Scenario Disk Volume One" publisher="Blue Byte Software GmbH" addon="1">
+	<title name="Battle Isle: Scenario Disk Volume One" publisher="Blue Byte Software GmbH" addon="1" mobyGamesId="11576">
 		<release year="1992" region="EU">
 			<media media="1.44M" status="U" tgod="47">
 				<disk md5="ECD4A68C1364397F81961C8FE11594DD"/>
@@ -1922,7 +1922,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Beat the House for Windows" publisher="Interplay Productions, Inc.">
+	<title name="Beat the House for Windows" publisher="Interplay Productions, Inc." mobyGamesId="1515">
 		<release year="1995" platform="Windows 3.1">
 			<media media="1.44M" status="V">
 				<disk md5="10811151EFB9383D8CE0B780D7FD50D5" disk="1"/>
@@ -2035,7 +2035,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Bill &amp; Ted's Excellent Adventure" publisher="Capstone Software">
+	<title name="Bill &amp; Ted's Excellent Adventure" publisher="Capstone Software" mobyGamesId="1911">
 		<release year="1990">
 			<media media="360K" status="U">
 				<disk md5="9812CA9974133A71286CBC8A5EFADE15" disk="1" fixed="1"/>
@@ -2142,7 +2142,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Blades of Steel" publisher="Konami Industry Co. Ltd.">
+	<title name="Blades of Steel" publisher="Konami Industry Co. Ltd." mobyGamesId="7223">
 		<release year="1990">
 			<media media="720K" status="U" tgod="714">
 				<disk md5="9A8D48D955A3E755B57C9C1D508DAA59"/>
@@ -2196,7 +2196,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Blockout" publisher="California Dreams">
+	<title name="Blockout" publisher="California Dreams" mobyGamesId="498">
 		<release year="1989" version="1.1">
 			<media media="360K" status="V" tgod="3417">
 				<disk md5="513BFF3F703B9064459D8EA4B76ED1DD"/>
@@ -2226,7 +2226,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Bloodwych" publisher="Konami, Inc.">
+	<title name="Bloodwych" publisher="Konami, Inc." mobyGamesId="3605">
 		<release year="1991">
 			<media media="720K" status="V" tgod="3164">
 				<disk md5="AD68008FFD4D0139C18285B8CDDD2BE2"/>
@@ -2255,7 +2255,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Blue Max: Aces of the Great War" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Blue Max: Aces of the Great War" publisher="Three-Sixty Pacific, Inc." mobyGamesId="1476">
 		<release year="1994" version="1.1">
 			<media media="720K" status="V">
 				<disk md5="F244F542127004CFDA12D9B8A205C634" disk="1"/>
@@ -2279,7 +2279,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Bo Jackson Baseball" publisher="Data East USA, Inc.">
+	<title name="Bo Jackson Baseball" publisher="Data East USA, Inc." mobyGamesId="52458">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="4BE2F18F11585A504799648A8CCFA64E" media="1.2M" disk="1"/>
@@ -2302,7 +2302,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Boot Camp" publisher="Konami, Inc.">
+	<title name="Boot Camp" publisher="Konami, Inc." mobyGamesId="7227">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk disk="1"/>
@@ -2407,7 +2407,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Brutal:  Paws of Fury" publisher="GameTek, Inc.">
+	<title name="Brutal:  Paws of Fury" publisher="GameTek, Inc." mobyGamesId="2929">
 		<release year="1995" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="U" tgod="1889">
 				<disk md5="F542B42C03DC40B047C3E5BDDA7BAE2B" disk="1"/>
@@ -2506,7 +2506,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Bush Buck: Global Treasure Hunter" publisher="PC Globe, Inc.">
+	<title name="Bush Buck: Global Treasure Hunter" publisher="PC Globe, Inc." mobyGamesId="17067">
 		<release year="1991">
 			<media media="360K" status="V">
 				<disk md5="86FD35DB4387860199B318E360BEF3A7" disk="1"/>
@@ -2537,7 +2537,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Cabal" publisher="Capcom Co., Ltd.">
+	<title name="Cabal" publisher="Capcom Co., Ltd." mobyGamesId="3733">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="ECBD1C9A9F6FEF0EB4601156F83B5F1F" disk="1"/>
@@ -2669,7 +2669,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Cannon Fodder 2" publisher="Virgin Interactive Entertainment (Europe) Ltd.">
+	<title name="Cannon Fodder 2" publisher="Virgin Interactive Entertainment (Europe) Ltd." mobyGamesId="437">
 		<release year="1994" region="FR">
 			<media media="1.44M" status="V">
 				<disk md5="D619FF546A2F794732BEE0BF7D64F303" disk="1"/>
@@ -2721,14 +2721,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Carriers at War" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Carriers at War" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="5251">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="7893D3B3CB55E6ED556A92A03ED629EA"/>
 			</media>
 		</release>
 	</title>
-	<title name="Carriers at War II" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Carriers at War II" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="5252">
 		<release year="1994" version="2.05">
 			<media media="1.44M" status="U" tgod="2920">
 				<disk md5="1DC5DF169FBFF5C1149CBC7DB8545B51" disk="1" fixed="1"/>
@@ -2845,7 +2845,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Castlevania" publisher="Konami Industry Co. Ltd.">
+	<title name="Castlevania" publisher="Konami Industry Co. Ltd." mobyGamesId="2062">
 		<release year="1990">
 			<media media="720K" status="U" tgod="1721">
 				<disk md5="6E1ED7D7EE1184AD58C6D05A6CA421D4"/>
@@ -2904,7 +2904,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Chamber of the Sci-Mutant Priestess" publisher="Data East USA, Inc.">
+	<title name="Chamber of the Sci-Mutant Priestess" publisher="Data East USA, Inc." mobyGamesId="562">
 		<release year="1990">
 			<media media="360K" status="V">
 				<disk md5="87CD171A98773F14B6F48461D2CB9447" disk="1" cp="H.L.S. Duplication"/>
@@ -3117,7 +3117,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Clive Barker's Nightbreed: The Action Game" publisher="Leader S.p.a.">
+	<title name="Clive Barker's Nightbreed: The Action Game" publisher="Leader S.p.a." mobyGamesId="4418">
 		<release year="1990" region="IT" language="En">
 			<media media="720K" status="V">
 				<disk md5="53B261ECF4C55C822E31459B4EC3F1F8"/>
@@ -3533,7 +3533,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Corridor 7: Alien Invasion" publisher="Capstone Software">
+	<title name="Corridor 7: Alien Invasion" publisher="Capstone Software" mobyGamesId="887">
 		<release year="1994" version="3.2M">
 			<media media="1.44M" status="U" tgod="506">
 				<disk md5="13D52CD39623ADA8EB91230D497749AD" disk="1" fixed="1"/>
@@ -3662,7 +3662,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Cruise for a Corpse" publisher="U.S. Gold Ltd.">
+	<title name="Cruise for a Corpse" publisher="U.S. Gold Ltd." mobyGamesId="2264">
 		<release year="1993" region="EU">
 			<media media="1.44M" status="V" tgod="112">
 				<disk md5="741A7AF998C57A6DCB1116BF8756F5FE" disk="1" media="720K"/>
@@ -3752,7 +3752,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Cybercon III" publisher="U.S. Gold Ltd.">
+	<title name="Cybercon III" publisher="U.S. Gold Ltd." mobyGamesId="12893">
 		<release year="1992">
 			<media media="720K" status="U" tgod="1764">
 				<disk md5="5C414983B30B68F664C44749E8307501"/>
@@ -3802,7 +3802,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Daemonsgate" publisher="GameTek UK Ltd.">
+	<title name="Daemonsgate" publisher="GameTek UK Ltd." mobyGamesId="4931">
 		<release year="1994" region="UK">
 			<media media="1.44M" status="U">
 				<disk md5="8940E2FEDDEE37CC1E8FDF342B88800F" disk="1" fixed="1"/>
@@ -3832,7 +3832,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dark Castle" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Dark Castle" publisher="Three-Sixty Pacific, Inc." mobyGamesId="110">
 		<release year="1987">
 			<media media="360K" status="V">
 				<disk disk="A"/>
@@ -3853,7 +3853,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dark Seed" publisher="Cyberdreams, Inc.">
+	<title name="Dark Seed" publisher="Cyberdreams, Inc." mobyGamesId="302">
 		<release year="1992" version="1.5">
 			<media media="1.44M" status="U" tgod="864">
 				<disk md5="39B1741B7E9208C58601DF38C8656B7E" disk="1" media="720K"/>
@@ -4093,7 +4093,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Decisive Battles of the American Civil War, Vol. 2" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Decisive Battles of the American Civil War, Vol. 2" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="55394">
 		<release year="1989">
 			<media media="360K" status="U" tgod="2898">
 				<disk md5="7A7A4D3054D92A1CD06D8EFDA7569885" disk="1"/>
@@ -4149,7 +4149,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Delta V" publisher="Bethesda Softworks LLC">
+	<title name="Delta V" publisher="Bethesda Softworks LLC" mobyGamesId="3970">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="017BBF6DAE614ADBE5BC8EB9A31B0904" disk="1"/>
@@ -4161,7 +4161,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Deluxe Scrabble for Windows" publisher="Virgin Games, Inc.">
+	<title name="Deluxe Scrabble for Windows" publisher="Virgin Games, Inc." mobyGamesId="11076">
 		<release year="1992" version="1.0" platform="Windows 3.1">
 			<media media="1.2M" status="U" tgod="1917">
 				<disk md5="92F3FDEBD246D890D472BBA0232EC18A" disk="1"/>
@@ -4234,7 +4234,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Detroit" publisher="Impressions Games">
+	<title name="Detroit" publisher="Impressions Games" mobyGamesId="2694">
 		<release year="1994" version="2.1">
 			<media media="1.44M" status="V">
 				<disk md5="9C7A924F33F7C554EA91329EF5A39D69" disk="1"/>
@@ -4286,7 +4286,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="DinoPark Tycoon" publisher="MECC">
+	<title name="DinoPark Tycoon" publisher="MECC" mobyGamesId="2798">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="9164414636A28934E9F68FC4C7828118" disk="1"/>
@@ -4294,7 +4294,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Discoveries of the Deep" publisher="Capstone Software">
+	<title name="Discoveries of the Deep" publisher="Capstone Software" mobyGamesId="428">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="1B93542BF595C949821B592696548708" disk="1"/>
@@ -4400,7 +4400,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dominus" publisher="U.S. Gold Ltd.">
+	<title name="Dominus" publisher="U.S. Gold Ltd." mobyGamesId="3913">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="2715">
 				<disk md5="FD6CAA74BB1934D98D9D800B37A0AC87" disk="1"/>
@@ -4550,7 +4550,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Double Dribble" publisher="Konami, Inc.">
+	<title name="Double Dribble" publisher="Konami, Inc." mobyGamesId="7221">
 		<release year="1991">
 			<media media="720K" status="U" tgod="868">
 				<disk md5="E39CBE53E6E8967EA77634952FCF027F"/>
@@ -4891,7 +4891,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Dyna Blaster" publisher="Ubi Soft Entertainment Software">
+	<title name="Dyna Blaster" publisher="Ubi Soft Entertainment Software" mobyGamesId="5143">
 		<release year="1992" region="EU">
 			<media media="720K" status="U" tgod="1067">
 				<disk md5="93E02801163458EB3342EAE2E7EAF91D"/>
@@ -5056,7 +5056,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="EcoQuest: The Search for Cetus" publisher="Sierra On-Line, Inc.">
+	<title name="EcoQuest: The Search for Cetus" publisher="Sierra On-Line, Inc." mobyGamesId="584">
 		<release year="1992" version="1.1" int="6.12.92">
 			<media media="1.44M" status="V">
 				<disk md5="094E9951E43E860A5EE3458DE63653B7" disk="2"/>
@@ -5084,7 +5084,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Edward Grabowski's Nord et Sud" publisher="Impressions">
+	<title name="Edward Grabowski's Nord et Sud" publisher="Impressions" mobyGamesId="2915">
 		<release year="1993" version="1.02" region="FR">
 			<media media="1.44M" status="V">
 				<disk md5="B422D2884483BCCC6C7A25E350CFE23D"/>
@@ -5320,7 +5320,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Epic Puzzle Pack" publisher="Epic MegaGames, Inc.">
+	<title name="Epic Puzzle Pack" publisher="Epic MegaGames, Inc." mobyGamesId="117903">
 		<release year="1994">
 			<media media="1.44M" status="V">
 				<disk md5="B7408E889B9E9ACAFABB9AB1907B1411" disk="1"/>
@@ -5832,7 +5832,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Family Feud" publisher="ShareData, Inc.">
+	<title name="Family Feud" publisher="ShareData, Inc." mobyGamesId="6148">
 		<release year="1987">
 			<media media="360K" status="V">
 				<disk md5="1E85F351CA9AA5CD0CC2AAC37030D1C5"/>
@@ -5918,7 +5918,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Fatty Bear's Birthday Surprise" publisher="Humongous Entertainment, Inc.">
+	<title name="Fatty Bear's Birthday Surprise" publisher="Humongous Entertainment, Inc." mobyGamesId="8552">
 		<release year="1993">
 			<media media="1.44M" status="U">
 				<disk md5="7371465DC04E8E5239669DAE1350E6F7" disk="1" fixed="1"/>
@@ -6029,7 +6029,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Fire King" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Fire King" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="1002">
 		<release year="1990">
 			<media media="360K" status="U" tgod="2899">
 				<disk md5="B2361A639A7C8ACF55E99BFAF410D4BA" disk="1" fixed="1"/>
@@ -6037,7 +6037,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="First Samurai" publisher="Ubi Soft Entertainment Software">
+	<title name="First Samurai" publisher="Ubi Soft Entertainment Software" mobyGamesId="11586">
 		<release year="1992">
 			<media media="720K" status="V" tgod="3280">
 				<disk md5="57B5C2ABC6E8EDEFD1F45452982BACFA"/>
@@ -6065,7 +6065,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Fisher-Price: Perfect Fit" publisher="GameTek, Inc.">
+	<title name="Fisher-Price: Perfect Fit" publisher="GameTek, Inc." mobyGamesId="29742">
 		<release year="1990">
 			<media media="720K" status="U">
 				<disk md5="FD50CB03720C6DA5821F089E148DDCD4"/>
@@ -6094,7 +6094,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Flashback: The Quest for Identity" publisher="U.S. Gold Ltd.">
+	<title name="Flashback: The Quest for Identity" publisher="U.S. Gold Ltd." mobyGamesId="555">
 		<release year="1993" version="1.1" region="IT">
 			<media media="1.44M" status="U" tgod="3538">
 				<disk md5="2338D6A06A0EC0BB5B0AA9AC89DEAE02" disk="1"/>
@@ -6384,7 +6384,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Frontier: First Encounters" publisher="GameTek, Inc.">
+	<title name="Frontier: First Encounters" publisher="GameTek, Inc." mobyGamesId="351">
 		<release year="1995">
 			<media media="1.44M" status="U">
 				<disk md5="B636E64EB953CB6AE361BDAD2EB59182" disk="1"/>
@@ -6659,7 +6659,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Genesia" publisher="Mindscape International Ltd.">
+	<title name="Genesia" publisher="Mindscape International Ltd." mobyGamesId="11809">
 		<release variation="SVGA" year="1994" version="1.41" region="FR">
 			<media media="1.44M" status="U" tgod="1430">
 				<disk md5="9E8EED06953281C2A95D5A96844FCDA0" disk="1" media="720K"/>
@@ -6867,7 +6867,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Gods" publisher="Renegade Software">
+	<title name="Gods" publisher="Renegade Software" mobyGamesId="501">
 		<release year="1992" region="EU">
 			<media media="1.44M" status="U" tgod="1946">
 				<disk md5="70911F8CA972B68A0150F5FC03E53B93"/>
@@ -6966,7 +6966,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Grandmaster Chess" publisher="Capstone Software">
+	<title name="Grandmaster Chess" publisher="Capstone Software" mobyGamesId="55732">
 		<release year="1992">
 			<media media="1.2M" status="U" tgod="1251">
 				<disk md5="B2F8C041DAA4E706081C00C30E7D59D9" disk="1"/>
@@ -6974,7 +6974,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Grandmaster Chess Deluxe" publisher="Capstone Software">
+	<title name="Grandmaster Chess Deluxe" publisher="Capstone Software" mobyGamesId="55732">
 		<release year="1993" version="1.1">
 			<media media="1.44M" status="U" tgod="1947">
 				<disk md5="B7C401EE3F095DABD3057AF58F854BE4" disk="1"/>
@@ -7036,7 +7036,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Gremlins 2: The New Batch" publisher="Hi-Tech Expressions, Inc.">
+	<title name="Gremlins 2: The New Batch" publisher="Hi-Tech Expressions, Inc." mobyGamesId="861">
 		<release year="1991">
 			<media media="720K" status="U">
 				<disk md5="4A983F04703202BEB4071AFA45A4AD73"/>
@@ -7151,7 +7151,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Halls of Montezuma: A Battle History of the United States Marine Corps" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Halls of Montezuma: A Battle History of the United States Marine Corps" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="14407">
 		<release year="1988">
 			<media media="360K" status="U" tgod="2888">
 				<disk md5="D91C04AB5326B8348D00BF1D030A0F32" fixed="1"/>
@@ -7280,7 +7280,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon" publisher="Three-Sixty Pacific, Inc." mobyGamesId="8308">
 		<release year="1990" version="1.1">
 			<media media="360K" status="V" tgod="2875">
 				<disk md5="29B86FFB1BB367C1C6818C479210F02E" disk="Disk 1 - Program Disk" status="U"/>
@@ -7296,7 +7296,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 2: North Atlantic Convoys" publisher="Three-Sixty Pacific, Inc." addon="1">
+	<title name="Harpoon BattleSet 2: North Atlantic Convoys" publisher="Three-Sixty Pacific, Inc." addon="1" mobyGamesId="55136">
 		<release year="1991">
 			<media media="720K" status="V" tgod="1844">
 				<disk md5="8A647DAEA397A3592FBE94E26AD54F29" disk="1"/>
@@ -7304,7 +7304,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 3: The MED Conflict" publisher="Three-Sixty Pacific, Inc." addon="1">
+	<title name="Harpoon BattleSet 3: The MED Conflict" publisher="Three-Sixty Pacific, Inc." addon="1" mobyGamesId="37330">
 		<release year="1990">
 			<media media="360K" status="U" tgod="2877">
 				<disk md5="654FB356EC536E608235C88E2D4F99A4" disk="1"/>
@@ -7317,7 +7317,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon BattleSet 4: Indian Ocean: Persian Gulf" publisher="Three-Sixty Pacific, Inc." addon="1">
+	<title name="Harpoon BattleSet 4: Indian Ocean: Persian Gulf" publisher="Three-Sixty Pacific, Inc." addon="1" mobyGamesId="55143">
 		<release year="1991">
 			<media media="360K" status="V" tgod="2878">
 				<disk md5="D7E3209580D73270482FBA409E2A6751" disk="1"/>
@@ -7326,7 +7326,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon II" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon II" publisher="Three-Sixty Pacific, Inc." mobyGamesId="27106">
 		<release year="1994" version="2.01">
 			<media media="1.44M" status="V" tgod="2883,3324">
 				<disk md5="B3A414129BE93892DA4DB609A1996EBF" disk="1"/>
@@ -7338,7 +7338,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon II: BattleSet 2: WestPac" publisher="Three-Sixty Pacific, Inc." addon="1">
+	<title name="Harpoon II: BattleSet 2: WestPac" publisher="Three-Sixty Pacific, Inc." addon="1" mobyGamesId="57952">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="2884">
 				<disk md5="E225D0702D9DDC243B998301844066BC" disk="1"/>
@@ -7346,7 +7346,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon II: Battleset 3: Cold War" publisher="U.S. Gold Ltd." addon="1">
+	<title name="Harpoon II: Battleset 3: Cold War" publisher="U.S. Gold Ltd." addon="1" mobyGamesId="55182">
 		<release year="1995" region="GB">
 			<media media="1.44M" status="V" tgod="2885">
 				<disk md5="E676E8189330E2B5C1748BED2F3CF82F" disk="1"/>
@@ -7355,14 +7355,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon Scenario Editor" publisher="Three-Sixty Pacific, Inc." addon="1">
+	<title name="Harpoon Scenario Editor" publisher="Three-Sixty Pacific, Inc." addon="1" mobyGamesId="55138">
 		<release year="1990">
 			<media media="360K" status="V" tgod="2882">
 				<disk md5="D0E2AF0B46405656D3C42987A0E5FEC1"/>
 			</media>
 		</release>
 	</title>
-	<title name="Harpoon: Challenger Pak: Signature Edition" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Harpoon: Challenger Pak: Signature Edition" publisher="Three-Sixty Pacific, Inc." mobyGamesId="57564">
 		<release year="1992" version="1.31se">
 			<media media="1.2M" status="V" tgod="2901">
 				<disk md5="7B3E5F84CFA4DFC0DBDFD9F4281993FA" disk="1"/>
@@ -7579,7 +7579,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="High Command: Europe 1939-'45" publisher="Three-Sixty Pacific, Inc.">
+	<title name="High Command: Europe 1939-'45" publisher="Three-Sixty Pacific, Inc." mobyGamesId="3027">
 		<release year="1992">
 			<media media="1.44M" status="U" tgod="2889">
 				<disk md5="80F48D4F0B01C5A566EF53C4C7C096E3" disk="1"/>
@@ -7682,7 +7682,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Home Alone 2: Lost in New York" publisher="Capstone Software">
+	<title name="Home Alone 2: Lost in New York" publisher="Capstone Software" mobyGamesId="9631">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="B734F1D1DC708941743C4A1B44EACC07" disk="1" fixed="1"/>
@@ -7691,7 +7691,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Homey D. Clown" publisher="Capstone Software">
+	<title name="Homey D. Clown" publisher="Capstone Software" mobyGamesId="4035">
 		<release year="1993" version="1.20">
 			<media media="720K" status="U" tgod="1952">
 				<disk md5="FE339B450BB6785659FC6F65B0703C07" disk="1"/>
@@ -8018,7 +8018,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="In Extremis" publisher="U.S. Gold Ltd.">
+	<title name="In Extremis" publisher="U.S. Gold Ltd." mobyGamesId="3292">
 		<release year="1994" region="EU" language="En,Fr,De,It">
 			<media media="1.44M" status="U" tgod="509">
 				<disk md5="85C769F3387446B6C95C64C48DFAC4A0" disk="1"/>
@@ -8147,7 +8147,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Indian Mission" publisher="Coktel Vision">
+	<title name="Indian Mission" publisher="Coktel Vision" mobyGamesId="31995">
 		<release year="1988" region="FR">
 			<media media="360K" status="V">
 				<disk disk="1"/>
@@ -8526,7 +8526,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Inherit the Earth: Quest for the Orb" publisher="New World Computing, Inc.">
+	<title name="Inherit the Earth: Quest for the Orb" publisher="New World Computing, Inc." mobyGamesId="4008">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="2568">
 				<disk md5="D8F08827F59FA791A99FD6946EC1B728" disk="1"/>
@@ -8577,7 +8577,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Iron Lord" publisher="Ubi Soft Entertainment Software">
+	<title name="Iron Lord" publisher="Ubi Soft Entertainment Software" mobyGamesId="14405">
 		<release year="1991" region="UK" publisher="Digital Integration Ltd.">
 			<media media="360K" status="U" set="1">
 				<disk md5="E04C84F2D4655F504C1825C80A779779" disk="0/1"/>
@@ -8608,7 +8608,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Isaac Asimov: Science Adventure" publisher="Knowledge Adventure, Inc.">
+	<title name="Isaac Asimov: Science Adventure" publisher="Knowledge Adventure, Inc." mobyGamesId="94778">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="876AD422A0ECAF620672F5AE6A659081" disk="1"/>
@@ -8638,7 +8638,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="It Came from the Desert" publisher="Cinemaware Corporation">
+	<title name="It Came from the Desert" publisher="Cinemaware Corporation" mobyGamesId="610">
 		<release year="1990">
 			<media media="720K" status="V" tgod="2556">
 				<disk md5="D03592A278A3F388FE068FE56A5B37D7" disk="Reel 1"/>
@@ -8663,7 +8663,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="J.R.R. Tolkien's Riders of Rohan" publisher="Konami, Inc.">
+	<title name="J.R.R. Tolkien's Riders of Rohan" publisher="Konami, Inc." mobyGamesId="9404">
 		<release year="1991" version="1.0">
 			<media media="1.44M" status="U" tgod="1824">
 				<disk md5="CDEC471B3FF9B91063B36DCACF53A62C" disk="1"/>
@@ -8850,7 +8850,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Jazz Jackrabbit" publisher="Epic MegaGames, Inc.">
+	<title name="Jazz Jackrabbit" publisher="Epic MegaGames, Inc." mobyGamesId="902">
 		<release year="1994" version="1.1">
 			<media media="1.44M" status="U">
 				<disk md5="8524082DA36EF6A76A2C5152679AD551" disk="1"/>
@@ -8920,7 +8920,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="JetFighter II: Advanced Tactical Fighter" publisher="Velocity Inc.">
+	<title name="JetFighter II: Advanced Tactical Fighter" publisher="Velocity Inc." mobyGamesId="5216">
 		<release year="1991" version="1.0B">
 			<media media="720K" status="V">
 				<disk md5="679757480C79DC1444FF638457411B11" disk="1"/>
@@ -8937,7 +8937,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="JetFighter II: Operation Lightning Storm" publisher="Velocity Inc." addon="1">
+	<title name="JetFighter II: Operation Lightning Storm" publisher="Velocity Inc." addon="1" mobyGamesId="16642">
 		<release year="1992" version="1.1B">
 			<media media="720K" status="U">
 				<disk md5="065399BA5474C47B3CDD20EBEBDD3545" disk="1"/>
@@ -8945,7 +8945,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Jetfighter: The Adventure" publisher="Velocity Inc.">
+	<title name="Jetfighter: The Adventure" publisher="Velocity Inc." mobyGamesId="5214">
 		<release year="1992" version="1.6B">
 			<media media="720K" status="V" tgod="260">
 				<disk md5="6E35636A0A785CBA02BF108414FCCAA0"/>
@@ -8990,7 +8990,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Joan of Arc: Siege and the Sword" publisher="Brøderbund Software, Inc.">
+	<title name="Joan of Arc: Siege and the Sword" publisher="Brøderbund Software, Inc." mobyGamesId="1366">
 		<release year="1989" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="1AEA5E4233464B92F0E2005428C0EFF1" disk="A"/>
@@ -9215,7 +9215,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Killing Cloud" publisher="Image Works">
+	<title name="Killing Cloud" publisher="Image Works" mobyGamesId="1808">
 		<release year="1991" region="EU" language="En,Fr,De">
 			<media media="720K" status="U" tgod="3413">
 				<disk md5="CCE2195E2DD410F4EF7BBC06BE710DCD" disk="1"/>
@@ -9230,7 +9230,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Kingmaker" publisher="U.S. Gold Ltd.">
+	<title name="Kingmaker" publisher="U.S. Gold Ltd." mobyGamesId="11794">
 		<release year="1993-11-03" region="EU" language="En,Fr,De">
 			<media media="1.44M" status="U" tgod="2799">
 				<disk md5="16575F52EE36AB5F730CB347EF2C6177" disk="1"/>
@@ -9866,7 +9866,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Krusty's Fun House" publisher="Virgin Interactive Entertainment (Europe) Ltd.">
+	<title name="Krusty's Fun House" publisher="Virgin Interactive Entertainment (Europe) Ltd." mobyGamesId="6197">
 		<release year="1993" region="EU">
 			<media media="1.44M" status="V" tgod="2264">
 				<disk md5="42914F8D5B4008B818DDD1DD9FCFDEE4"/>
@@ -9887,7 +9887,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="LA Law: The Computer Game" publisher="Capstone Software">
+	<title name="LA Law: The Computer Game" publisher="Capstone Software" mobyGamesId="32088">
 		<release year="1992">
 			<media media="720K" status="V">
 				<disk md5="E8B0CBB5C0AA5DE0232ECA523C31F5E1" disk="1"/>
@@ -11057,7 +11057,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Lock-On" publisher="Data East USA, Inc.">
+	<title name="Lock-On" publisher="Data East USA, Inc." mobyGamesId="920">
 		<release year="1988" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="596D64B908A795758842988B3768E0A6" disk="Data Disk"/>
@@ -11297,7 +11297,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Lost Patrol" publisher="Leader S.p.a.">
+	<title name="Lost Patrol" publisher="Leader S.p.a." mobyGamesId="6257">
 		<release year="1990" region="IT" language="En,Fr,De">
 			<media media="720K" status="V">
 				<disk md5="26D89116124021DDD2C46F5468BFA20B" disk="1"/>
@@ -11322,7 +11322,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Lots -o- $lot$" publisher="Capstone Software" addon="1">
+	<title name="Lots -o- $lot$" publisher="Capstone Software" addon="1" mobyGamesId="58567">
 		<release year="1992">
 			<media media="360K" status="U">
 				<disk md5="91196BA5A6FA9E82C9D979C7C1943444" disk="1"/>
@@ -11416,7 +11416,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="MacArthur's War: Battles for Korea" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="MacArthur's War: Battles for Korea" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="10104">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="EE76F0F25B14703175D9AC89E807D181" disk="1"/>
@@ -11964,7 +11964,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mega Lo Mania" publisher="Ubi Soft Entertainment Software">
+	<title name="Mega Lo Mania" publisher="Ubi Soft Entertainment Software" mobyGamesId="2464">
 		<release year="1992" region="EU">
 			<media media="1.44M" status="V">
 				<disk md5="F9DFE71377959247C94C0668052EF98A" disk="1"/>
@@ -12076,7 +12076,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Menzoberranzan" publisher="Strategic Simulations, Inc.">
+	<title name="Menzoberranzan" publisher="Strategic Simulations, Inc." mobyGamesId="1375">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="4BCA81AEFC0AF4D9BE3BFB464AD5A3A8" disk="1"/>
@@ -12089,7 +12089,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Menzoberranzan CD Patch" publisher="Strategic Simulations, Inc.">
+	<title name="Menzoberranzan CD Patch" publisher="Strategic Simulations, Inc." mobyGamesId="1375">
 		<release year="1995" version="1.1">
 			<media media="1.44M" status="V">
 				<disk md5="9C25DD513251CF37CD89B7C59196D467"/>
@@ -12104,7 +12104,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Metal Gear" publisher="Ultra Software Corporation">
+	<title name="Metal Gear" publisher="Ultra Software Corporation" mobyGamesId="3092">
 		<release year="1990">
 			<media media="360K" status="U" tgod="955">
 				<disk md5="7986F0830A6F9DD47F9D1AEB9B9B7FE1"/>
@@ -12172,7 +12172,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mickey's 123's: The Big Surprise Party" publisher="Walt Disney Computer Software, Inc.">
+	<title name="Mickey's 123's: The Big Surprise Party" publisher="Walt Disney Computer Software, Inc." mobyGamesId="124157">
 		<release year="1991">
 			<media media="720K" status="V">
 				<disk md5="BFCC4D584C4E7D5B45CF03BC27B67E4E" disk="1"/>
@@ -12300,7 +12300,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Arcade" publisher="Microsoft Corporation">
+	<title name="Microsoft Arcade" publisher="Microsoft Corporation" mobyGamesId="2842">
 		<release year="1993" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="V" tgod="1230">
 				<disk md5="D92128EC9BC63A07C93F5BADA82E664E"/>
@@ -12316,7 +12316,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Entertainment Pack 2" publisher="Microsoft Corporation">
+	<title name="Microsoft Entertainment Pack 2" publisher="Microsoft Corporation" mobyGamesId="10926">
 		<release year="1991" version="1.0" platform="Windows 3.1">
 			<media media="1.2M" status="V">
 				<disk md5="A0B01D66C8C22D47060EBB5604D47D11"/>
@@ -12332,7 +12332,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Entertainment Pack 3" publisher="Microsoft Corporation">
+	<title name="Microsoft Entertainment Pack 3" publisher="Microsoft Corporation" mobyGamesId="55099">
 		<release year="1991" version="1.0" platform="Windows 3.1">
 			<media media="1.2M" status="V">
 				<disk md5="98B085006349885097BA5DC33469B306"/>
@@ -12342,7 +12342,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Entertainment Pack 4" publisher="Microsoft Corporation">
+	<title name="Microsoft Entertainment Pack 4" publisher="Microsoft Corporation" mobyGamesId="24428">
 		<release year="1992-09-10" version="1.0" platform="Windows 3.1">
 			<media media="720K" status="U" tgod="2320">
 				<disk md5="54626C7AAA2FE47BA69415863ECC0683" disk="1"/>
@@ -12359,7 +12359,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Entertainment Pack for Windows" publisher="Microsoft Corporation">
+	<title name="Microsoft Entertainment Pack for Windows" publisher="Microsoft Corporation" mobyGamesId="4004">
 		<release year="1991" version="1.0" platform="Windows 3.1">
 			<media media="1.2M" status="V">
 				<disk md5="96B45C6D3E17F7B2BA845014F21312AF"/>
@@ -12868,7 +12868,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Microsoft Return of Arcade" publisher="Microsoft Corporation">
+	<title name="Microsoft Return of Arcade" publisher="Microsoft Corporation" mobyGamesId="2037">
 		<release year="1996" platform="Windows 95">
 			<media media="1.44M" status="V">
 				<disk md5="810FBBB7772F7F2EDFC7AAEEEBB2B4C3" disk="1" status="U"/>
@@ -13672,14 +13672,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mission 2: Return to Danger: Accessory Game for Spear of Destiny" publisher="FormGen, Inc.">
+	<title name="Mission 2: Return to Danger: Accessory Game for Spear of Destiny" publisher="FormGen, Inc." mobyGamesId="4554">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="518">
 				<disk md5="8BADB14813E27747DC60CA8D304C6CF7"/>
 			</media>
 		</release>
 	</title>
-	<title name="Mission 3: Ultimate Challenge: Accessory Game for Spear of Destiny" publisher="FormGen, Inc.">
+	<title name="Mission 3: Ultimate Challenge: Accessory Game for Spear of Destiny" publisher="FormGen, Inc." mobyGamesId="4555">
 		<release year="1994">
 			<media media="1.44M" status="V" tgod="519">
 				<disk md5="B4BC55E64C2CDFB56A2B764895DE7E51"/>
@@ -13894,7 +13894,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mortal Kombat" publisher="Acclaim Entertainment, Inc.">
+	<title name="Mortal Kombat" publisher="Acclaim Entertainment, Inc." mobyGamesId="599">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="916">
 				<disk md5="732630026286DD5F1D844AF26CCD6E13" disk="1"/>
@@ -13917,7 +13917,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Mortal Kombat II" publisher="Acclaim Entertainment, Inc.">
+	<title name="Mortal Kombat II" publisher="Acclaim Entertainment, Inc." mobyGamesId="600">
 		<release year="1995">
 			<media media="1.44M" status="V">
 				<disk md5="7A647BFF760504F302E6C934709CCA4A" disk="1"/>
@@ -13987,7 +13987,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Murder!" publisher="U.S. Gold Ltd.">
+	<title name="Murder!" publisher="U.S. Gold Ltd." mobyGamesId="10585">
 		<release year="1990">
 			<media media="360K" status="U" tgod="1280">
 				<disk md5="E01BEA810B7866A59F131C1DC82645CE"/>
@@ -14003,7 +14003,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Museum Madness" publisher="MECC">
+	<title name="Museum Madness" publisher="MECC" mobyGamesId="6495">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="U">
 				<disk md5="D88E0258EE31333D7D9149F5A0FF1909" disk="1"/>
@@ -14032,7 +14032,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="My Own Stories" publisher="MECC">
+	<title name="My Own Stories" publisher="MECC" mobyGamesId="125358">
 		<release year="1994" version="1.1">
 			<media media="1.44M" status="U">
 				<disk md5="C18A44D22F64D8E554E5DECA7F44B759" fixed="1"/>
@@ -14078,7 +14078,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="NASCAR Track Pack" publisher="Papyrus Publishing, Inc." addon="1">
+	<title name="NASCAR Track Pack" publisher="Papyrus Publishing, Inc." addon="1" mobyGamesId="1659">
 		<release year="1995" version="1.2">
 			<media media="1.44M" status="V" tgod="930">
 				<disk md5="C2B4B796013CE923B64F1BDD86E0044C" disk="1"/>
@@ -14110,21 +14110,21 @@
 			</media>
 		</release>
 	</title>
-	<title name="NCAA: Road to the Final Four" publisher="Bethesda Softworks LLC">
+	<title name="NCAA: Road to the Final Four" publisher="Bethesda Softworks LLC" mobyGamesId="362">
 		<release year="1992">
 			<media media="720K" status="V">
 				<disk md5="4B8BB5207C4E5F2B90E318A7D93F9E13"/>
 			</media>
 		</release>
 	</title>
-	<title name="Neuromancer" publisher="Interplay Productions, Inc.">
+	<title name="Neuromancer" publisher="Interplay Productions, Inc." mobyGamesId="687">
 		<release year="1989">
 			<media media="720K" status="V">
 				<disk md5="8A6A136EC797ED80AE22CA9F6C47949A"/>
 			</media>
 		</release>
 	</title>
-	<title name="Neverwinter Nights" publisher="Strategic Simulations, Inc.">
+	<title name="Neverwinter Nights" publisher="Strategic Simulations, Inc." mobyGamesId="11616">
 		<release year="1991" version="1.0">
 			<media media="720K" status="V">
 				<disk md5="F0A48CD3642CFB9B27D88B6537FA2068" disk="1"/>
@@ -14140,7 +14140,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="NFL" publisher="Konami (America), Inc.">
+	<title name="NFL" publisher="Konami (America), Inc." mobyGamesId="40399">
 		<release year="1992">
 			<media media="1.44M" status="V">
 				<disk disk="1"/>
@@ -14148,7 +14148,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="NFL '94" publisher="Konami (America), Inc.">
+	<title name="NFL '94" publisher="Konami (America), Inc." mobyGamesId="40400">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="24E88A1061A7B01A2546C5F988133F0F" disk="1"/>
@@ -14176,7 +14176,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="NFL Video Pro Football" publisher="Konami, Inc.">
+	<title name="NFL Video Pro Football" publisher="Konami, Inc." mobyGamesId="112206">
 		<release year="1992">
 			<media media="1.44M" status="U">
 				<disk md5="248D68DDDD4D5DEE1D5DF9F5669FD70E" disk="1"/>
@@ -14199,7 +14199,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Night Hunter" publisher="Ubi Soft Entertainment Software">
+	<title name="Night Hunter" publisher="Ubi Soft Entertainment Software" mobyGamesId="16469">
 		<release year="1990">
 			<media media="720K" status="U" tgod="3177">
 				<disk md5="CFB8ADCEE1255C12379AF96CD363D02C" disk="1-2"/>
@@ -14207,7 +14207,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Night Mission Pinball" publisher="subLOGIC">
+	<title name="Night Mission Pinball" publisher="subLOGIC" mobyGamesId="71">
 		<release year="1988" version="3.0">
 			<media media="360K" status="V">
 				<disk md5="9BA3EC9824E3B916B46F08ECF0B7E0E1"/>
@@ -14377,7 +14377,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Number Munchers" publisher="MECC">
+	<title name="Number Munchers" publisher="MECC" mobyGamesId="4635">
 		<release year="1990" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="AA89D48D8AF5889B2CC5851CB4A735BB" disk="1"/>
@@ -14473,7 +14473,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Omar Sharif on Bridge" publisher="Interplay Productions, Inc.">
+	<title name="Omar Sharif on Bridge" publisher="Interplay Productions, Inc." mobyGamesId="27039">
 		<release year="1992" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="2A9D6F9E511292E625EA54685CF5B177" disk="Data Disk"/>
@@ -14527,7 +14527,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Operation Body Count" publisher="Capstone Software">
+	<title name="Operation Body Count" publisher="Capstone Software" mobyGamesId="1828">
 		<release year="1994">
 			<media media="1.44M" status="V">
 				<disk md5="78B1487EF762CA95B3B11B3007918A92" disk="1"/>
@@ -14536,7 +14536,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Operation Harrier" publisher="Kixx">
+	<title name="Operation Harrier" publisher="Kixx" mobyGamesId="48821">
 		<release year="1993" region="UK">
 			<media media="1.44M" status="U" tgod="2211">
 				<disk md5="98979449EF9FD16EB50324DACB4D4380"/>
@@ -14720,7 +14720,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Panza Kick Boxing" publisher="Kixx">
+	<title name="Panza Kick Boxing" publisher="Kixx" mobyGamesId="12587">
 		<release year="1991" region="EU">
 			<media media="720K" status="V">
 				<disk md5="40DEE7DEF78250326F65C7EEFB2BF3BF" disk="A" cp="Key Disk"/>
@@ -14786,7 +14786,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Patriot" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Patriot" publisher="Three-Sixty Pacific, Inc." mobyGamesId="10006">
 		<release year="1992">
 			<media media="1.44M" status="V" tgod="2890">
 				<disk md5="218FF843F88E819EDE1590F3B61C1043" disk="1"/>
@@ -14982,7 +14982,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Pinball Dreams" publisher="21st Century Entertainment Ltd.">
+	<title name="Pinball Dreams" publisher="21st Century Entertainment Ltd." mobyGamesId="703">
 		<release year="1993-07">
 			<media media="1.44M" status="V">
 				<disk md5="1F3E5AB4337C06B5BB76ADCEADF43551"/>
@@ -14994,14 +14994,14 @@
 			</media>
 		</release>
 	</title>
-	<title name="Pinball Dreams II" publisher="21st Century Entertainment Ltd.">
+	<title name="Pinball Dreams II" publisher="21st Century Entertainment Ltd." mobyGamesId="2105">
 		<release year="1994">
 			<media media="1.44M" status="U">
 				<disk md5="2E85E5B31F7BC1DB9CC61F280BA79010"/>
 			</media>
 		</release>
 	</title>
-	<title name="Pinball Fantasies" publisher="21st Century Entertainment Ltd.">
+	<title name="Pinball Fantasies" publisher="21st Century Entertainment Ltd." mobyGamesId="571">
 		<release year="1994" version="1.0">
 			<media media="1.44M" status="V" tgod="1541">
 				<disk md5="98486A5243640370473128FDC377FE73" disk="1"/>
@@ -15065,7 +15065,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Plan 9 From Outer Space" publisher="Gremlin Graphics Software Ltd.">
+	<title name="Plan 9 From Outer Space" publisher="Gremlin Graphics Software Ltd." mobyGamesId="1293">
 		<release year="1992" region="DE">
 			<media media="1.2M" status="U" tgod="327">
 				<disk md5="3BAA9E2DCDE13186B475759AE36CF8D4" disk="1"/>
@@ -15170,7 +15170,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Poker" publisher="Capstone Software" addon="1">
+	<title name="Poker" publisher="Capstone Software" addon="1" mobyGamesId="207266">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="28C6448E9B9395B209883A92295534F3" disk="1"/>
@@ -15494,7 +15494,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Power Drive" publisher="U.S. Gold Ltd.">
+	<title name="Power Drive" publisher="U.S. Gold Ltd." mobyGamesId="13017">
 		<release year="1994" version="1.00" region="EU" language="En,Fr,De,Es,It">
 			<media media="1.44M" status="V">
 				<disk md5="81F476A2F4EFE4D07DCCD2D4B2203440" disk="1"/>
@@ -15579,7 +15579,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Predator 2" publisher="Image Wortks">
+	<title name="Predator 2" publisher="Image Wortks" mobyGamesId="6174">
 		<release year="1991" region="EU" language="En,Fr,De">
 			<media media="720K" status="V">
 				<disk md5="B292D989C6084AED3039AE637905A473" disk="1" cp="Rob Northern Copylock PC"/>
@@ -15587,7 +15587,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Presidents Choice" publisher="Spinnaker Software Corporation">
+	<title name="Presidents Choice" publisher="Spinnaker Software Corporation" mobyGamesId="60802">
 		<release year="1984" platform="PC Booter">
 			<media media="360K" status="V">
 				<disk disk="Program"/>
@@ -15670,7 +15670,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Pro Tennis Tour" publisher="Ubi Soft Entertainment Software">
+	<title name="Pro Tennis Tour" publisher="Ubi Soft Entertainment Software" mobyGamesId="12590">
 		<release year="1992" region="UK" publisher="The Hit Squad">
 			<media media="720K" status="V">
 				<disk md5="BD31BAFD7836023CB3664203B8C92B11" disk="1"/>
@@ -15719,7 +15719,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Prophecy: Viking Child" publisher="GameTek, Inc.">
+	<title name="Prophecy: Viking Child" publisher="GameTek, Inc." mobyGamesId="9049">
 		<release year="1991">
 			<media media="720K" status="U">
 				<disk disk="1"/>
@@ -15780,7 +15780,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Putt-Putt Goes to the Moon" publisher="Humongous Entertainment, Inc.">
+	<title name="Putt-Putt Goes to the Moon" publisher="Humongous Entertainment, Inc." mobyGamesId="1198">
 		<release year="1993">
 			<media media="1.44M" status="U">
 				<disk md5="BAEF569F3C3191987CDB5D7E3503E57F" disk="1" fixed="1"/>
@@ -16541,7 +16541,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="RoboCop" publisher="Data East USA, Inc.">
+	<title name="RoboCop" publisher="Data East USA, Inc." mobyGamesId="1409">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="CAFD45BED6F66BB5B43179D128971DBF" disk="1" cp="H.L.S. Duplication" fixed="1"/>
@@ -16592,7 +16592,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Rocket Ranger" publisher="Mirrorsoft Ltd.">
+	<title name="Rocket Ranger" publisher="Mirrorsoft Ltd." mobyGamesId="45">
 		<release year="1988" region="GB">
 			<media media="360K" status="V" tgod="1268">
 				<disk md5="4C5FFC6DDE3B6E8E9C6E14A417DFF438" disk="Reel 1"/>
@@ -16673,7 +16673,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Rotox" publisher="U.S. Gold Ltd.">
+	<title name="Rotox" publisher="U.S. Gold Ltd." mobyGamesId="1433">
 		<release year="1990">
 			<media media="360K" status="U" tgod="2313">
 				<disk md5="EBC7147D2F99367D0B8EC13208D82CFF" disk="1"/>
@@ -16704,7 +16704,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Russian 6 Pak" publisher="Interplay Productions, Inc.">
+	<title name="Russian 6 Pak" publisher="Interplay Productions, Inc." mobyGamesId="40392">
 		<release year="1993">
 			<media media="1.44M" status="V">
 				<disk md5="D1B4FBE34CD626FEF4124DB354066474" disk="Data Disk 1"/>
@@ -16877,7 +16877,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Search for the Titanic" publisher="Capstone Software">
+	<title name="Search for the Titanic" publisher="Capstone Software" mobyGamesId="6196">
 		<release year="1989">
 			<media media="360K" status="U">
 				<disk md5="FD6EA6CB5CDF50ECFE94FA7C9F3903DE" disk="CGA/EGA Disk"/>
@@ -17250,7 +17250,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Shadowgate" publisher="Mindscape, Inc.">
+	<title name="Shadowgate" publisher="Mindscape, Inc." mobyGamesId="1070">
 		<release year="1988">
 			<media media="360K" status="U">
 				<disk disk="1" cp="Mindscape DEM v2"/>
@@ -18144,7 +18144,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Snap Dragon" publisher="MECC">
+	<title name="Snap Dragon" publisher="MECC" mobyGamesId="29796">
 		<release year="1992" version="1.0">
 			<media media="720K" status="U">
 				<disk md5="8407A8C74259652D07614B248C256EF4" disk="1"/>
@@ -18180,7 +18180,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Solitaire Royale" publisher="Spectrum Holobyte, Inc.">
+	<title name="Solitaire Royale" publisher="Spectrum Holobyte, Inc." mobyGamesId="4231">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="9C5C57C6919F9D2D7E84B59F26D8E35E"/>
@@ -18272,7 +18272,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Space Adventure" publisher="Knowledge Adventure, Inc.">
+	<title name="Space Adventure" publisher="Knowledge Adventure, Inc." mobyGamesId="6175">
 		<release year="1992">
 			<media media="720K" status="V">
 				<disk md5="9527E64BF4AE7645F4B1B0783BA16223" disk="1"/>
@@ -18760,7 +18760,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Spectre Challenger" publisher="Velocity Inc.">
+	<title name="Spectre Challenger" publisher="Velocity Inc." mobyGamesId="8129">
 		<release year="1993-08">
 			<media media="720K" status="U" tgod="2754">
 				<disk md5="159FD711760E981A197555ACA9B0F030"/>
@@ -18781,7 +18781,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Speedball" publisher="Spotlight Software">
+	<title name="Speedball" publisher="Spotlight Software" mobyGamesId="1466">
 		<release year="1989">
 			<media media="360K" status="V" tgod="1270">
 				<disk md5="464D6ABD99C568470745B6B15A117B2D" disk="1"/>
@@ -19069,7 +19069,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Star Crusader" publisher="GameTek, Inc.">
+	<title name="Star Crusader" publisher="GameTek, Inc." mobyGamesId="1490">
 		<release year="1994" region="EU">
 			<media media="1.44M" status="U" tgod="943">
 				<disk md5="2093D2EC66967C7F319184846D7EE2DA" disk="1"/>
@@ -19593,7 +19593,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Street Fighter II" publisher="U.S. Gold Ltd.">
+	<title name="Street Fighter II" publisher="U.S. Gold Ltd." mobyGamesId="6239">
 		<release year="1993" region="EU">
 			<media media="1.44M" status="V" tgod="586,944">
 				<disk md5="C7C247C0BFCD43F985079B051C9F5E84" disk="1"/>
@@ -19930,7 +19930,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Super C" publisher="Konami Industry Co. Ltd.">
+	<title name="Super C" publisher="Konami Industry Co. Ltd." mobyGamesId="7208">
 		<release year="1990">
 			<media media="360K" status="U" tgod="2362">
 				<disk md5="1B3EEB6703226C7A0820D21BB25A7238" disk="1"/>
@@ -20294,7 +20294,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Team Suzuki" publisher="Konami, Inc.">
+	<title name="Team Suzuki" publisher="Konami, Inc." mobyGamesId="24170">
 		<release year="1991">
 			<media media="720K" status="U" tgod="947">
 				<disk md5="8EF085072D98099D2187BCA992B9EB3B"/>
@@ -20306,7 +20306,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Teenage Mutant Hero Turtles: The Coin Op!" publisher="Image Works">
+	<title name="Teenage Mutant Hero Turtles: The Coin Op!" publisher="Image Works" mobyGamesId="7470">
 		<release year="1991" region="EU">
 			<media media="360K" status="V">
 				<disk md5="A6A91A06FD180C1D95C771E59E56F957" disk="1"/>
@@ -20319,7 +20319,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Teenage Mutant Ninja Turtles" publisher="Ultra Software Corporation">
+	<title name="Teenage Mutant Ninja Turtles" publisher="Ultra Software Corporation" mobyGamesId="6932">
 		<release year="1990" version="1.0">
 			<media media="360K" status="U">
 				<disk disk="1"/>
@@ -20336,7 +20336,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Tengen's Arcade Hits" publisher="Domark Software Ltd.">
+	<title name="Tengen's Arcade Hits" publisher="Domark Software Ltd." mobyGamesId="63921">
 		<release year="1992">
 			<media media="720K" status="V">
 				<disk md5="3B918C02C77974F878CA6FE45B724345" disk="Disk 1 - Hard Drivin' II"/>
@@ -20503,7 +20503,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The $100,000 Pyramid" publisher="Box Office, Inc.">
+	<title name="The $100,000 Pyramid" publisher="Box Office, Inc." mobyGamesId="41732">
 		<release year="1992">
 			<media media="360K" status="V">
 				<disk md5="777B1F6369D0EF3F5758305C96FF730B"/>
@@ -20611,7 +20611,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Amazon Trail" publisher="MECC">
+	<title name="The Amazon Trail" publisher="MECC" mobyGamesId="1013">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="787C8B2985E3AC9ECB6954164434C5B4" disk="1"/>
@@ -20714,7 +20714,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Best of Microsoft Entertainment Pack" publisher="Microsoft Corporation">
+	<title name="The Best of Microsoft Entertainment Pack" publisher="Microsoft Corporation" mobyGamesId="2000">
 		<release year="1994" platform="Windows 3.1">
 			<media media="1.2M" status="V">
 				<disk md5="83B39A2C47D57A2A2A34B7401BEEC43D" disk="1"/>
@@ -20725,7 +20725,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Beverly Hillbillies" publisher="Capstone Software">
+	<title name="The Beverly Hillbillies" publisher="Capstone Software" mobyGamesId="3291">
 		<release year="1993" version="1.00">
 			<media media="1.44M" status="U" tgod="1463">
 				<disk md5="442466742ADE9E755656CCD28818C4B1" disk="1"/>
@@ -20789,7 +20789,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Cardinal of the Kremlin" publisher="Capstone Software">
+	<title name="The Cardinal of the Kremlin" publisher="Capstone Software" mobyGamesId="6126">
 		<release year="1990">
 			<media media="720K" status="U" tgod="3349">
 				<disk md5="DFAD4A5ACF307A3605EFD31C05739D23" disk="1"/>
@@ -20984,7 +20984,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Dark Half" publisher="Capstone Software">
+	<title name="The Dark Half" publisher="Capstone Software" mobyGamesId="6054">
 		<release year="1992">
 			<media media="720K" status="U" tgod="1461">
 				<disk md5="FA23A8DCF8839EF352EA56D4CF0CACA8" disk="1"/>
@@ -21021,7 +21021,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Deep" publisher="U.S. Gold Ltd.">
+	<title name="The Deep" publisher="U.S. Gold Ltd." mobyGamesId="53904">
 		<release year="1989" region="EU">
 			<media media="360K" status="V">
 				<disk md5="26269EC2ACD0FA20261303850961550B" disk="1" cp="Mindscape DEM v2"/>
@@ -21045,7 +21045,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Dream Team: 3 on 3 Challenge" publisher="Data East USA, Inc.">
+	<title name="The Dream Team: 3 on 3 Challenge" publisher="Data East USA, Inc." mobyGamesId="29300">
 		<release year="1991">
 			<media media="360K" status="U">
 				<disk md5="53F68262DB9E850275C16124A525C1C3" disk="Camera 1" fixed="1"/>
@@ -21067,7 +21067,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Elder Scrolls: Arena" publisher="Bethesda Softworks LLC">
+	<title name="The Elder Scrolls: Arena" publisher="Bethesda Softworks LLC" mobyGamesId="803">
 		<release year="1994" version="1.04">
 			<media media="1.44M" status="V" tgod="1438">
 				<disk md5="CB0722ECF589B17B2E34FB00945F867E" disk="1" status="U"/>
@@ -21230,7 +21230,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Gold of the Aztecs" publisher="U.S. Gold, Inc.">
+	<title name="The Gold of the Aztecs" publisher="U.S. Gold, Inc." mobyGamesId="17245">
 		<release year="1991" version="1.0">
 			<media media="1.44M" status="V" tgod="3179">
 				<disk md5="232A4087BA56844E1A4ED4EF88B641FB" disk="1"/>
@@ -21432,7 +21432,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Koshan Conspiracy" publisher="Ubi Soft Entertainment Software">
+	<title name="The Koshan Conspiracy" publisher="Ubi Soft Entertainment Software" mobyGamesId="6099">
 		<release year="1992" region="FR" name="B.A.T. II">
 			<media media="1.44M" status="U">
 				<disk md5="8ABE967373C2524CE34819E35EB7D6C4" media="720K" disk="1"/>
@@ -21456,7 +21456,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Kristal" publisher="Cinemaware Corporation">
+	<title name="The Kristal" publisher="Cinemaware Corporation" mobyGamesId="1290">
 		<release year="1989">
 			<media media="360K" status="V">
 				<disk md5="EA9F29704F2691F50D49E551DE19299A" disk="1"/>
@@ -21711,7 +21711,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Oregon Trail" publisher="MECC">
+	<title name="The Oregon Trail" publisher="MECC" mobyGamesId="746">
 		<release year="1992" version="3.0">
 			<media media="720K" status="V">
 				<disk md5="35E62885C834A28D080249525E51CADB" disk="1"/>
@@ -21720,7 +21720,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Oregon Trail" publisher="MECC">
+	<title name="The Oregon Trail" publisher="MECC" mobyGamesId="746">
 		<release year="1991" version="2.1">
 			<media media="360K" status="U">
 				<disk md5="96C51FD782D156FF4455ED5AB0E14B6F" disk="1"/>
@@ -21731,7 +21731,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Oregon Trail for Windows" publisher="MECC">
+	<title name="The Oregon Trail for Windows" publisher="MECC" mobyGamesId="746">
 		<release year="1993" version="1.0" platform="Windows 3.1">
 			<media media="1.44M" status="U" tgod="3401">
 				<disk md5="D1AE719AE65BAEBE3554653253D47C4F" disk="1"/>
@@ -21848,7 +21848,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Ruins of Cawdor" publisher="Sierra On-Line, Inc.">
+	<title name="The Ruins of Cawdor" publisher="Sierra On-Line, Inc." mobyGamesId="67088">
 		<release version="1.1.5" int="11.03.95" variation="Beta">
 			<media media="1.44M" status="U">
 				<disk md5="974FC6E6D558A34A06CE01B237436154" disk="1" fixed="1"/>
@@ -21856,7 +21856,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Scoop" publisher="Spinnaker Software Corporation">
+	<title name="The Scoop" publisher="Spinnaker Software Corporation" mobyGamesId="4795">
 		<release year="1989">
 			<media media="720K" status="V">
 				<disk md5="2E2A46BCF4220B03EEF263863E903B8F"/>
@@ -21870,7 +21870,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Secret Island of Dr. Quandary" publisher="MECC">
+	<title name="The Secret Island of Dr. Quandary" publisher="MECC" mobyGamesId="30065">
 		<release year="1992" version="1.0">
 			<media media="720K" status="U" tgod="3408">
 				<disk md5="7E732975ADEA26E36704C01FD78034ED" disk="1"/>
@@ -22147,7 +22147,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Simpsons: Bart's House of Weirdness" publisher="Konami Corporation">
+	<title name="The Simpsons: Bart's House of Weirdness" publisher="Konami Corporation" mobyGamesId="15779">
 		<release year="1991">
 			<media media="1.2M" status="U">
 				<disk md5="37FA26F7F1604C750602E3215D7BC7FA" disk="1" fixed="1"/>
@@ -22173,7 +22173,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Spooky Kooky Monster Maker" publisher="Hi-Tech Expressions, Inc.">
+	<title name="The Spooky Kooky Monster Maker" publisher="Hi-Tech Expressions, Inc." mobyGamesId="78767">
 		<release year="1992">
 			<media media="360K" status="U">
 				<disk md5="403F1AA448E657123F4A574AB8B78F41" disk="1"/>
@@ -22189,7 +22189,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Taking of Beverly Hills" publisher="Capstone Software">
+	<title name="The Taking of Beverly Hills" publisher="Capstone Software" mobyGamesId="25499">
 		<release year="1991">
 			<media media="360K" status="U" tgod="2396">
 				<disk md5="7C94C666699A1F9397E91907BB58258E" disk="1"/>
@@ -22205,7 +22205,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Terminator" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator" publisher="Bethesda Softworks LLC" mobyGamesId="1778">
 		<release year="1991" version="1.01C">
 			<media media="720K" status="V" tgod="1669">
 				<disk md5="DB68AC2EC264EFF55E7282B303AD3E63" disk="1"/>
@@ -22221,7 +22221,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Terminator 2029" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator 2029" publisher="Bethesda Softworks LLC" mobyGamesId="3303">
 		<release year="1992">
 			<media media="1.44M" status="U" tgod="776">
 				<disk md5="BD291AE4D61EEBE16E8114A4B93FF362" disk="1"/>
@@ -22234,7 +22234,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="The Terminator: Rampage" publisher="Bethesda Softworks LLC">
+	<title name="The Terminator: Rampage" publisher="Bethesda Softworks LLC" mobyGamesId="2520">
 		<release year="1993">
 			<media media="1.44M" status="U" tgod="2290">
 				<disk md5="F53940C45B3F004A5C44AAF191D16F30" disk="1"/>
@@ -22356,7 +22356,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Theatre of War" publisher="Three-Sixty Pacific, Inc.">
+	<title name="Theatre of War" publisher="Three-Sixty Pacific, Inc." mobyGamesId="2786">
 		<release year="1992-06">
 			<media media="1.44M" status="V" tgod="2892">
 				<disk md5="D8A525D0BA74A3C43E071CBD5136F85E" disk="1"/>
@@ -22435,7 +22435,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Theme Park Mystery" publisher="Konami Corporation">
+	<title name="Theme Park Mystery" publisher="Konami Corporation" mobyGamesId="8591">
 		<release year="1991">
 			<media media="360K" status="U" tgod="2397">
 				<disk md5="25F4397924537084605BB96AD941BE10" disk="1"/>
@@ -22561,7 +22561,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Tomahawk" publisher="Datasoft, Inc.">
+	<title name="Tomahawk" publisher="Datasoft, Inc." mobyGamesId="18270">
 		<release year="1987">
 			<media media="180K" status="V">
 				<disk md5="A330E26E995907AE54EC4FB8513CD1D8"/>
@@ -22592,7 +22592,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Tony La Russa Baseball II" publisher="Strategic Simulations, Inc.">
+	<title name="Tony La Russa Baseball II" publisher="Strategic Simulations, Inc." mobyGamesId="3616">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="9BAAEAD13ACAA323808B8B24591BC919" disk="1"/>
@@ -22611,7 +22611,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Tony La Russa Baseball II: AL/NL Stadiums Expansion Disk" publisher="Strategic Simulations, Inc." addon="1">
+	<title name="Tony La Russa Baseball II: AL/NL Stadiums Expansion Disk" publisher="Strategic Simulations, Inc." addon="1" mobyGamesId="243440">
 		<release year="1993" version="1.0">
 			<media media="1.44M" status="V">
 				<disk md5="D13A0314FF5D6A45BF213FE1A5A32941" disk="1"/>
@@ -22650,7 +22650,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Top Gun: Danger Zone" publisher="Konami, Inc.">
+	<title name="Top Gun: Danger Zone" publisher="Konami, Inc." mobyGamesId="31820">
 		<release year="1991">
 			<media media="1.44M" status="V" tgod="3162">
 				<disk md5="231D29FF37B08828D55748C2C0C8FE19" disk="1"/>
@@ -22708,7 +22708,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Transport Tycoon" publisher="MicroProse Software, Inc.">
+	<title name="Transport Tycoon" publisher="MicroProse Software, Inc." mobyGamesId="2283">
 		<release year="1994" version="1.06.011">
 			<media media="1.44M" status="V">
 				<disk md5="BF66B13D910971D0C078F24720F7F56F" disk="1"/>
@@ -22716,7 +22716,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Transport Tycoon: Scenario" publisher="MicroProse Software, Inc." addon="1">
+	<title name="Transport Tycoon: Scenario" publisher="MicroProse Software, Inc." addon="1" mobyGamesId="4902">
 		<release year="1995">
 			<media media="1.44M" status="V">
 				<disk md5="0CAAA6A3AE24CA27C4A5DABB70440135"/>
@@ -22754,7 +22754,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="TrianGO" publisher="California Dreams">
+	<title name="TrianGO" publisher="California Dreams" mobyGamesId="67131">
 		<release year="1989" version="1.3">
 			<media media="720K" status="V">
 				<disk md5="3FBA2CF67F91110A1943C78FEAB71000"/>
@@ -22814,7 +22814,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Trolls" publisher="Capstone Software">
+	<title name="Trolls" publisher="Capstone Software" mobyGamesId="6522">
 		<release year="1992">
 			<media media="720K" status="U">
 				<disk md5="0D679EDD40919F5E543518B5F560264E" disk="1"/>
@@ -22830,7 +22830,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Trump Castle II" publisher="Capstone Software">
+	<title name="Trump Castle II" publisher="Capstone Software" mobyGamesId="27394">
 		<release year="1991" version="1.1">
 			<media media="360K" status="U">
 				<disk md5="091CEC7510DD899FF66A2905FF902887" disk="1"/>
@@ -22901,7 +22901,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="TV Sports: Basketball" publisher="Cinemaware Corporation">
+	<title name="TV Sports: Basketball" publisher="Cinemaware Corporation" mobyGamesId="3949">
 		<release year="1990">
 			<media media="720K" status="V">
 				<disk md5="8B9AF2A7CC2487DCAC4A2697BEBA8126" disk="Disk 1 - VGA"/>
@@ -22915,7 +22915,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="TV Sports: Boxing" publisher="Mirrorsoft Ltd.">
+	<title name="TV Sports: Boxing" publisher="Mirrorsoft Ltd." mobyGamesId="15780">
 		<release year="1991" region="EU">
 			<media media="360K" status="V">
 				<disk md5="DF2FA3619925908D83E2798C1B8F6611" disk="EGA/TGA Reel 2"/>
@@ -23339,7 +23339,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Utopia: The Creation of a Nation" publisher="Gremlin Graphics Software Limited">
+	<title name="Utopia: The Creation of a Nation" publisher="Gremlin Graphics Software Limited" mobyGamesId="5985">
 		<release year="1992" region="EU" language="En,Fr,De,It">
 			<media media="720K" status="U" tgod="1418">
 				<disk md5="25E4247AC4DDFC770D810288478DCD73" disk="1"/>
@@ -23347,7 +23347,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="V for Victory: Battleset 1: D-Day Utah Beach: 1944" publisher="Three-Sixty Pacific, Inc.">
+	<title name="V for Victory: Battleset 1: D-Day Utah Beach: 1944" publisher="Three-Sixty Pacific, Inc." mobyGamesId="7">
 		<release year="1992" version="1.1">
 			<media media="1.44M" status="V">
 				<disk md5="9E84C21B24279A34A7A2C3748C4E3F1A"/>
@@ -23359,28 +23359,28 @@
 			</media>
 		</release>
 	</title>
-	<title name="V for Victory: Gold-Juno-Sword" publisher="Three-Sixty Pacific, Inc.">
+	<title name="V for Victory: Gold-Juno-Sword" publisher="Three-Sixty Pacific, Inc." mobyGamesId="9">
 		<release year="1993" version="4.0">
 			<media media="1.44M" status="V" tgod="406,2927">
 				<disk md5="A1B8EE7708ECA441CC30AFB8FD8D18E9"/>
 			</media>
 		</release>
 	</title>
-	<title name="V for Victory: Market-Garden" publisher="Three-Sixty Pacific, Inc.">
+	<title name="V for Victory: Market-Garden" publisher="Three-Sixty Pacific, Inc." mobyGamesId="8">
 		<release year="1993">
 			<media media="1.44M" status="V" tgod="2928">
 				<disk md5="268DBAA9DC3F9E4C84E8641115395BB7"/>
 			</media>
 		</release>
 	</title>
-	<title name="V for Victory: Velikiye Luki" publisher="Three-Sixty Pacific, Inc.">
+	<title name="V for Victory: Velikiye Luki" publisher="Three-Sixty Pacific, Inc." mobyGamesId="172">
 		<release year="1992" version="2.0">
 			<media media="1.44M" status="V">
 				<disk md5="077277113A7434C5554F9CD694EC103D"/>
 			</media>
 		</release>
 	</title>
-	<title name="Vaxine" publisher="U.S. Gold Ltd.">
+	<title name="Vaxine" publisher="U.S. Gold Ltd." mobyGamesId="5624">
 		<release year="1991-03">
 			<media media="720K" status="V" tgod="2126">
 				<disk md5="877E9FAFB7EC2F67674B2159BD107BD0"/>
@@ -23412,7 +23412,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Vegas Gambler" publisher="California Dreams">
+	<title name="Vegas Gambler" publisher="California Dreams" mobyGamesId="37080">
 		<release year="1988" version="1.2">
 			<media media="720K" status="U">
 				<disk md5="740D99785B7DD1C9A45DBC7191C2412F" fixed="1"/>
@@ -23502,7 +23502,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wacky Wheels: Upgrade Disk" publisher="Apogee Software, Ltd.">
+	<title name="Wacky Wheels: Upgrade Disk" publisher="Apogee Software, Ltd." mobyGamesId="433">
 		<release year="1994" version="1.1u">
 			<media media="720K" status="U" tgod="2405">
 				<disk md5="EF87DC0BA7D87019357C3408E3BCC03E"/>
@@ -23524,7 +23524,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warcraft: Orcs &amp; Humans" publisher="Blizzard Entertainment Inc.">
+	<title name="Warcraft: Orcs &amp; Humans" publisher="Blizzard Entertainment Inc." mobyGamesId="371">
 		<release year="1994" version="1.12">
 			<media media="1.44M" status="U" tgod="2037">
 				<disk md5="05E4943729C9976156CC7D524E078590" disk="1"/>
@@ -23557,7 +23557,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warlords" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Warlords" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="6845">
 		<release year="1990" version="1.02">
 			<media media="360K" status="U" tgod="2893">
 				<disk md5="5B95F2E5B69DB50B2212074DCBB17566" disk="1"/>
@@ -23566,7 +23566,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warlords II" publisher="SSG Strategic Studies Group Pty Ltd.">
+	<title name="Warlords II" publisher="SSG Strategic Studies Group Pty Ltd." mobyGamesId="451">
 		<release year="1993" version="1.02">
 			<media media="1.44M" status="V" tgod="2406">
 				<disk md5="7E2ADA231AA95D8968966E09BD944085" disk="1"/>
@@ -23574,7 +23574,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warlords II Scenario Builder" publisher="SSG Strategic Studies Group Pty Ltd." addon="1">
+	<title name="Warlords II Scenario Builder" publisher="SSG Strategic Studies Group Pty Ltd." addon="1" mobyGamesId="5598">
 		<release year="1994">
 			<media media="1.44M" status="U" tgod="1420">
 				<disk md5="8E62C358BCF743F3B17D8CF7A8955160" disk="1"/>
@@ -23590,7 +23590,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Warriors" publisher="Mindscape International Ltd.">
+	<title name="Warriors" publisher="Mindscape International Ltd." mobyGamesId="1971">
 		<release year="1995" language="En,Fr,De,Es,It">
 			<media media="1.44M" status="U">
 				<disk md5="3FAC5D3170EF4C0304291A637C088C49" disk="1" fixed="1"/>
@@ -23646,7 +23646,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wayne Gretzky Hockey" publisher="Bethesda Softworks LLC">
+	<title name="Wayne Gretzky Hockey" publisher="Bethesda Softworks LLC" mobyGamesId="12089">
 		<release year="1989">
 			<media media="360K" status="U" tgod="1502">
 				<disk md5="3A0B0B764FA8496817E2930BC5F4D2A6" disk="1"/>
@@ -23659,7 +23659,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wayne Gretzky Hockey 2" publisher="Bethesda Softworks LLC">
+	<title name="Wayne Gretzky Hockey 2" publisher="Bethesda Softworks LLC" mobyGamesId="55348">
 		<release year="1991">
 			<media media="720K" status="U" tgod="1740">
 				<disk md5="30E6CFE8AF0298D69E2026E0E3D303E6" disk="1"/>
@@ -23667,7 +23667,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wayne Gretzky Hockey 3" publisher="Bethesda Softworks LLC">
+	<title name="Wayne Gretzky Hockey 3" publisher="Bethesda Softworks LLC" mobyGamesId="41044">
 		<release year="1992">
 			<media media="1.44M" status="U" tgod="1692">
 				<disk md5="B403912B333EE38062FB614AF2E5C4B0" disk="1"/>
@@ -23678,7 +23678,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wayne's World" publisher="Capstone Software">
+	<title name="Wayne's World" publisher="Capstone Software" mobyGamesId="12708">
 		<release year="1993">
 			<media media="720K" status="U" tgod="1467">
 				<disk md5="99EE564E020AE50F3B0CAE61A118A364" disk="1"/>
@@ -23969,7 +23969,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wilson ProStaff Golf" publisher="Konami, Inc.">
+	<title name="Wilson ProStaff Golf" publisher="Konami, Inc." mobyGamesId="56403">
 		<release year="1993">
 			<media media="1.2M" status="U">
 				<disk md5="958C18D89D50C7498BD763C363F167D6"/>
@@ -24435,7 +24435,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Wolfenstein 3D: Episode One" publisher="Apogee Software, Ltd.">
+	<title name="Wolfenstein 3D: Episode One" publisher="Apogee Software, Ltd." mobyGamesId="306">
 		<release variation="Shareware" year="1992" version="1.2">
 			<media media="360K" status="U">
 				<disk md5="F90E39A9DEDEC7D157868860EC9A8434" disk="1" fixed="1"/>
@@ -24502,7 +24502,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Word Munchers" publisher="MECC">
+	<title name="Word Munchers" publisher="MECC" mobyGamesId="71170">
 		<release year="1990" version="1.0">
 			<media media="360K" status="V">
 				<disk md5="A2097844C8FD1E171184B8CCBF669CAF" disk="1"/>
@@ -24594,7 +24594,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="World Cup USA 94" publisher="U.S. Gold Ltd.">
+	<title name="World Cup USA 94" publisher="U.S. Gold Ltd." mobyGamesId="612">
 		<release year="1994" region="EU" language="En,Fr,De,It">
 			<media media="1.44M" status="V">
 				<disk md5="918A7141D9019EDCABFF816145C46FA1" disk="1"/>
@@ -24755,7 +24755,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Xenobots" publisher="Electronic Arts, Inc.">
+	<title name="Xenobots" publisher="Electronic Arts, Inc." mobyGamesId="1399">
 		<release year="1993" region="EU">
 			<media media="1.44M" status="V">
 				<disk md5="C38B69E892DB8DD3A7E29BCC2CC0E97B" disk="1"/>
@@ -24887,7 +24887,7 @@
 			</media>
 		</release>
 	</title>
-	<title name="Zombi" publisher="Ubi Soft Entertainment Software">
+	<title name="Zombi" publisher="Ubi Soft Entertainment Software" mobyGamesId="23238">
 		<release year="1990" region="FR">
 			<media media="360K" status="V">
 				<disk md5="F1C915DF3B83D08EB94CDC114B78F4AF"/>
